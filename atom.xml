@@ -4,7 +4,7 @@
     <subtitle>北邮人博客圈</subtitle>
     <link href="http://planet.byr.moe/atom.xml" rel="self" type="application/atom+xml" />
     <link href="http://planet.byr.moe"/>
-    <updated>2023-01-23T08:21:09+00:00</updated>
+    <updated>2023-03-19T08:57:20+00:00</updated>
     <id>http://planet.byr.moe</id>
     
     <author>
@@ -13,6 +13,326 @@
     </author>
     
     <generator uri="https://github.com/phoenixlzx/planet.js">Planet.js</generator>
+    
+    <entry>
+        <title>海信 Hisense A5 Pro E-ink 手機使用心得</title>
+        <link href="https://asaba.sakuragawa.moe/2023/03/%e6%b5%b7%e4%bf%a1-hisense-a5-pro-e-ink-%e6%89%8b%e6%a9%9f%e4%bd%bf%e7%94%a8%e5%bf%83%e5%be%97/?pk_campaign=feed&amp;pk_kwd=%25e6%25b5%25b7%25e4%25bf%25a1-hisense-a5-pro-e-ink-%25e6%2589%258b%25e6%25a9%259f%25e4%25bd%25bf%25e7%2594%25a8%25e5%25bf%2583%25e5%25be%2597"/>
+        <id>https://asaba.sakuragawa.moe/2023/03/%e6%b5%b7%e4%bf%a1-hisense-a5-pro-e-ink-%e6%89%8b%e6%a9%9f%e4%bd%bf%e7%94%a8%e5%bf%83%e5%be%97/?pk_campaign=feed&amp;pk_kwd=%25e6%25b5%25b7%25e4%25bf%25a1-hisense-a5-pro-e-ink-%25e6%2589%258b%25e6%25a9%259f%25e4%25bd%25bf%25e7%2594%25a8%25e5%25bf%2583%25e5%25be%2597</id>
+        
+        <author>
+            <name>櫻川 浅羽</name>
+        </author>
+        
+        <published>2023-03-19T08:57:20+00:00</published>
+        <updated>2023-03-19T08:57:20+00:00</updated>
+        
+        <content type="html"><![CDATA[<p><a href="https://asaba.sakuragawa.moe/2022/04/%e5%82%99%e7%94%a8%e6%a9%9f%ef%bc%8c%e9%82%84%e6%98%af%e7%ac%ac%e4%ba%8c%e6%94%af%e6%89%8b%e6%a9%9f%ef%bc%9f/" data-type="post" data-id="2574" target="_blank">先前發表的文章</a>中提到：</p>
+
+
+
+<blockquote>
+<p>浅羽的主要手機是 Hisense A5 Pro，它主打一塊電子紙螢幕，在戶外有絕佳的可讀性。對於浅羽來說，不出門時則將它當作傻瓜機（dumb phone）使用，大部分時候無需理會它；而出門在外時，它可以滿足最基礎的聯絡、地圖和支付需求，並且充電一次可以使用 3-4 天，無需特別計劃出門時間然後提前充好電。</p>
+</blockquote>
+
+
+
+<p>截至文章發表，浅羽使用 A5 Pro 已經近一年，更覺得它就是手機做爲工具應該有的樣子，也分享一下使用心得。</p>
+
+
+
+<p><em>TL; DR:</em></p>
+
+
+
+<ul>
+<li>Pros
+<ul>
+<li>簡單而全面的功能；</li>
+
+
+
+<li>E-Ink 的陽光下可讀性和雙穩態特性；</li>
+
+
+
+<li>系統提供了大量的針對性客製化；</li>
+</ul>
+</li>
+
+
+
+<li>Cons
+<ul>
+<li>未有提供雙色溫前光燈；</li>
+
+
+
+<li>系統未消去全部動畫；</li>
+
+
+
+<li>全域刷新不夠主動導致殘影偏多；</li>
+</ul>
+</li>
+</ul>
+
+
+
+<h2><a href="https://markdown.sakuragawa.moe/1seujACVQpSqSPsrixnr9w?view#%E3%80%8C%E7%B4%B0-mon-%E6%97%97%E8%89%A6%E3%80%8D%E7%9A%84-a5-pro"></a>「細 mon 旗艦」的 A5 Pro</h2>
+
+
+
+<p>說到 E-Ink 手機，海信並非是第一次做了：</p>
+
+
+
+<ul>
+<li>A5（掌閱 F1），前代，採用了 Micro USB 接口；</li>
+
+
+
+<li>A5 Pro CC，彩色电子墨水版本，犧牲的是畫面清晰度；</li>
+
+
+
+<li>A7 系列，7 吋顯示器版本，太大太重了，且取消了 NFC，浅羽就沒考慮去入手嘗試了；</li>
+
+
+
+<li>A9 系列，有可調色溫背光，加入線性馬達，外觀也變得現代。</li>
+</ul>
+
+
+
+<p>回到 A5 Pro ，它外觀非常樸素，官方提供有黑、白、墨綠三色，浅羽則是選擇白色。手機背面是細磨砂的塑料材質配上一顆鏡頭、一顆補光燈，中間（相比前代）增加了一枚指紋辨識器，沒有高級材料、沒有花哨暗紋，回歸了最原始的智慧型手機的感覺。整面則是主打的一片單色 E-Ink 顯示器，沒有異形設計、沒有窄邊框，只有出廠就貼好的一張磨砂保護貼。浅羽自己是十分喜歡這樣的感覺。</p>
+
+
+
+<h2><a href="https://markdown.sakuragawa.moe/1seujACVQpSqSPsrixnr9w?view#%E9%87%9D%E5%B0%8D-e-ink-%E8%AA%BF%E6%95%B4%EF%BC%8C%E4%BD%86%E6%B2%92%E6%9C%89%E5%AE%8C%E5%85%A8%E8%AA%BF%E6%95%B4%E5%A5%BD"></a>針對 E-Ink 調整，但沒有完全調整好</h2>
+
+
+
+<p>針對這片 E-Ink，A5 Pro 在系統中做了許多調整。</p>
+
+
+
+<p>首先下方增加了一個顯示控制面板，<strong>提供四種顯示模式可選</strong>，分別是清晰、均衡、順暢、極速：「清晰」模式是四者中解析度最好的模式，但是畫面的反應速度卻是最慢；「均衡」是對比最高的一個模式，有時它的可看度甚至比「清晰」還要好，這也是浅羽最愛用的模式；而使用「極速」則可以看 GIF 動畫甚至一些影片，當然前提是如果真的有需要在 E-Ink 上查看動態內容的話。<strong>四個模式可以隨時切換</strong>，也可以在系統設定中<strong>針對不同應用自動切換不同模式</strong>，同時還可以設定使用輸入法時自動切換到「極速」模式。其次是補光燈部分，除了自動和手動亮度外，還提供了「關閉」和「黑夜」（即超低亮度）兩個選項，只可惜受限於硬體<strong>未有提供雙色溫前光燈</strong>。</p>
+
+
+
+<p>系統內建的應用都使用了高對比度的黑白框線風格圖示，同時針對（部分）第三方應用有覆蓋同樣風格的圖示。因應 E-Ink 的特性，<strong>系統介面本身也大量使用白底黑字的高對比度風格</strong>，並且內建應用都去除了過渡動畫。可惜的是，<strong>動畫去除得並不徹底</strong>，比如輸入 SIM 卡 PIN 碼、使用 NFC 配對藍芽時依然還有一些動畫，同時一些第三方應用也會固執地顯示華麗的動畫，並在螢幕上留下一團團殘影。本質上，海信並沒有完全重新爲 E-Ink 設計一套新系統，而是在儘可能保留原先 Android 的 UX 的前提下改造 UI，使其更適合 E-Ink 顯示──比如說，擷取螢幕就可以發現，很多的圖示依然是彩色的；相機拍出的照片也依然是彩色的。</p>
+
+
+
+<p>海信官方對 A5 Pro 的定位是一款「閱讀手機」，因此也提供了許多輔助功能試圖改善閱讀體驗。比方說<strong>專門的「閱讀模式」</strong>，打開後可以延後通知、降低鈴聲音量；「單頁捲動模式」，開啓後會在捲動完成手指鬆開時才一併刷新畫面。可惜的是，浅羽幾乎沒有測試出有什麼應用程式中可用。<strong>全局音量鍵翻頁是沒有的</strong>，不過解決翻頁問題還<strong>可以選擇啓用「滑動指紋辨識器翻頁」</strong>；這個在 Pixel 上被浅羽不屑一顧的功能，現在成爲了在第三方應用程式中翻頁的最佳方式。在指紋辨識器上上下滑動，也可以做到一次翻一頁的效果；雖然應用程式內還是會顯示動畫，但是翻頁距離固定，效果會比觸摸滑動好一些，不過無法支援橫向滑動。直接觸摸指紋辨識器但不滑動，還會觸發手動的全域刷新，這在使用 KOReader 等閱讀器時非常實用，尤其是考慮到 A5 Pro 即使在「清晰」模式下全域刷新也很不主動。</p>
+
+
+
+<p>爲了發揮 E-Ink 雙穩態的特性，A5 Pro 還導入了「截屏便籤」功能，<strong>可以在鎖定螢幕後甚至關機後繼續顯示螢幕擷取畫面</strong>，用來顯示名片一類的也很合適。如果沒有需要顯示的便籤，也可以選擇內建的隨機詩詞、單詞作爲鎖定螢幕，每種鎖定螢幕也有一些設定可以調整，客製化程度較高。或者乾脆在鎖定螢幕上顯示大時鐘，這樣就可以直接放在桌面當擺件了。關機以後亦可以保持顯示特定的圖片。當然，也可以選擇關閉自動鎖定螢幕，保持顯示某一個應用程式，也不會額外耗費多少電力。</p>
+
+
+
+<h2><a href="https://markdown.sakuragawa.moe/1seujACVQpSqSPsrixnr9w?view#%E4%B8%8D%E5%A4%A0-hi-fi-%E7%9A%84%E3%80%8C%E9%9F%B3%E6%A8%82%E6%89%8B%E6%A9%9F%E3%80%8D"></a>不夠 Hi-Fi 的「音樂手機」</h2>
+
+
+
+<p>除了閱讀，海信 A5 Pro 主推 Hi-Fi 音樂功能。作爲 E-Ink 下比較合適的娛樂方式，海信在硬體方面使用了一片 AKM AK4377AECB 作爲 DAC，同時還給了很多連線的可能性：NFC 和支援 LDAC 的藍牙功能，保留 3.5mm 耳機接口，同時 USB Type-C 也可以接駁數位音訊裝置，搭配大部分耳機都不是問題。不過<strong>聲音質素則只能稱一般般</strong>，內建的 Hi-Fi 模式開啓後也只是覺得音量更大了（或許是推力更大了？）。</p>
+
+
+<div>
+<img src="https://asaba.sakuragawa.moe/wp-content/uploads/2023/03/SKG-20230319-161317-4096x1512.jpg" /></div>
+
+
+<p>內建的音樂應用程式也頗爲實用，播放浅羽音樂庫中的 AAC 和 FLAC 檔案都沒有問題，可以根據標籤分類選歌、顯示歌詞，不過<strong>尚缺少 ReplayGain 功能</strong>。得益於手機不怎麼樣的效能，播放音樂時續航表現也令浅羽安心。打開音樂程式、隱藏導航列、插上耳機，這就是一支簡單好用的隨身聽。</p>
+
+
+
+<h2><a href="https://markdown.sakuragawa.moe/1seujACVQpSqSPsrixnr9w?view#%E4%B8%80%E5%88%87%E8%83%BD%E7%94%A8%E5%B0%B1%E5%A5%BD"></a>一切能用就好</h2>
+
+
+
+<p>海信 A5 Pro 在其他硬體的規格上都中規中矩（甚至可以說是落後），但可用度都不低。前後兩枚鏡頭正如官方宣傳的「前置識別，後置掃碼」，搭配可以用來做支付認證的指紋辨識，基本上做到了安全和方便兼顧。不過遺憾的是僅僅採用了<strong>轉子馬達</strong>。習慣了不錯的線性馬達之後，振動觸感真的非常差。不過倒也不是墊底──畢竟還有採用了線性馬達、但觸感更差的小米 Civi。</p>
+
+
+
+<p>比較有特色的是左側是「墨智鍵」，支援自訂短按、雙擊兩種操作，可惜的是長按只能選擇是否使用語音助手。浅羽把短按設定成全局刷新(如果畫面太髒了可以按一下)，點按兩次設定成清晰/流暢模式切換。另外，「墨智鍵」和右側的音量鍵同時按下，可以開啓或者關閉前光，不小心在深夜關掉了前光時尤爲實用。同時系統也支援在來電時一律開啓前光，避免低光狀況下的手忙腳亂。</p>
+
+
+
+<h2><a href="https://markdown.sakuragawa.moe/1seujACVQpSqSPsrixnr9w?view#%E5%A5%BD%E7%9A%84%E5%B7%A5%E5%85%B7"></a>好的工具</h2>
+
+
+
+<p>一旦習慣了 E-Ink 的缺點，就可以盡情享受 E-Ink 帶來的優勢。</p>
+
+
+
+<p><strong>E-Ink 的陽光下可讀性在戶外非常實用</strong>，這使得 A5 Pro 在外出時是非常好用的工具。選用「清晰」模式顯示地圖，抑或是選用「流暢」模式查看和回覆訊息，自然光照成爲了優勢而非影響閱讀的阻礙；而且可以保持顯示地圖或音樂等等，而無需太擔心耗電問題。在展示條碼的場景下，E-Ink 同樣好用；不過對於非雷射讀取的條碼辨識器來說，可能需要打開前光輔助辨識。</p>
+
+
+
+<p>最大的問題是充電：習慣了新近機種的快速充電後，會覺得給 A5 Pro 充電很慢很慢；好在受惠於不算高的配置和 E-Ink，充電一次能夠使用 3-4 天，勉強讓充電速度不再是大問題。浅羽乾脆貼了無線充電貼，有空就用無線慢慢充電，還能順便當作桌面座鐘。</p>
+
+
+
+<p>總的來說，這支手機足以被稱爲好用的工具。其他的方面——就交給更大的螢幕、甚至其他的媒介吧！</p>
+
+
+<img src="https://analytics.sakuragawa.moe/piwik.php?idsite=2&amp;rec=1&amp;url=https%3A%2F%2Fasaba.sakuragawa.moe%2F2023%2F03%2F%25e6%25b5%25b7%25e4%25bf%25a1-hisense-a5-pro-e-ink-%25e6%2589%258b%25e6%25a9%259f%25e4%25bd%25bf%25e7%2594%25a8%25e5%25bf%2583%25e5%25be%2597%2F%3Fpk_campaign%3Dfeed%26pk_kwd%3D%2525e6%2525b5%2525b7%2525e4%2525bf%2525a1-hisense-a5-pro-e-ink-%2525e6%252589%25258b%2525e6%2525a9%25259f%2525e4%2525bd%2525bf%2525e7%252594%2525a8%2525e5%2525bf%252583%2525e5%2525be%252597&amp;action_name=%E6%B5%B7%E4%BF%A1+Hisense+A5+Pro+E-ink+%E6%89%8B%E6%A9%9F%E4%BD%BF%E7%94%A8%E5%BF%83%E5%BE%97&amp;urlref=https%3A%2F%2Fasaba.sakuragawa.moe%2Ffeed%2F" /><div>
+    <div>
+    <a data-post-id="3211" data-trigger-type="like" data-restriction="cookie" data-already-liked="0">
+                        <i></i>
+                </a>
+    <span>3    </span>
+</div><div>
+    <a data-post-id="3211" data-trigger-type="dislike" data-restriction="cookie" data-already-liked="0">
+                        <i></i>
+                </a>
+    <span></span>
+</div></div>]]></content>
+        
+        <summary type="html">
+            
+            先前發表的文章中提到：     浅羽的主要手機是 Hisense A5 Pro，它主打一塊電子紙螢幕，在戶外有絕佳的可讀性。對於浅羽來說，不出門時則將它當作傻瓜機（dumb phone）使用，大部分時候無需理會它；而出門在外時，它可以滿足最基礎的聯絡、地圖和支付需求，並且充電一
+            
+        </summary>
+        
+        <category term="想法"/>
+        
+        <category term="開箱"/>
+        
+        <category term="#SafeForLife"/>
+        
+        <category term="國產"/>
+        
+        <category term="數位電子"/>
+        
+    </entry>
+    
+    <entry>
+        <title>针对 HTML 内容使用 Ant Design 图片弹框</title>
+        <link href="https://www.ohyee.cc/post/note_antd_lightbox"/>
+        <id>https://www.ohyee.cc/post/note_antd_lightbox</id>
+        
+        <author>
+            <name>oyohyee@oyohyee.com</name>
+        </author>
+        
+        <published>2023-03-12T12:58:06+00:00</published>
+        <updated>2023-03-12T12:58:06+00:00</updated>
+        
+        <content type="html"><![CDATA[使用 React 组件渲染 HTML，并进行交互]]></content>
+        
+        <summary type="html">
+            
+            使用 React 组件渲染 HTML，并进行交互
+            
+        </summary>
+        
+    </entry>
+    
+    <entry>
+        <title>吃好一餐</title>
+        <link href="https://asaba.sakuragawa.moe/2023/02/%e5%90%83%e5%a5%bd%e4%b8%80%e9%a4%90/?pk_campaign=feed&amp;pk_kwd=%25e5%2590%2583%25e5%25a5%25bd%25e4%25b8%2580%25e9%25a4%2590"/>
+        <id>https://asaba.sakuragawa.moe/2023/02/%e5%90%83%e5%a5%bd%e4%b8%80%e9%a4%90/?pk_campaign=feed&amp;pk_kwd=%25e5%2590%2583%25e5%25a5%25bd%25e4%25b8%2580%25e9%25a4%2590</id>
+        
+        <author>
+            <name>櫻川 浅羽</name>
+        </author>
+        
+        <published>2023-02-13T17:36:20+00:00</published>
+        <updated>2023-02-13T17:36:20+00:00</updated>
+        
+        <content type="html"><![CDATA[<p>吃飯是很麻煩的事情，吃得開心更是件艱難的事情。</p>
+
+
+
+<p>過年的時候去 partner 家。本來的計畫是：早上去菜市買好新鮮食材，下午開始準備年夜飯，這樣吃完正餐還可以喝點酒。家裏吃飯的人多，只算大人的話也有八張嘴；但是每人都有一些愛吃或者不吃的食材，所以買菜的時候自然想着多買幾樣。魚、蝦、花螺，加上祭拜用完的雞和一些其他的青菜，也足夠吃好一餐了。結果早早去買了菜，去到家裏，都要等到點了祭祀。午餐隨便糊弄了一下，等到下午，終於開始討論晚上（年夜飯）的菜單了。本來訂好四樣大菜，突然長輩說「晚上不要吃花螺」，追問原因又支支吾吾不說，只說不要吃。不讓吃也好吧，可是提前買的時候不說；現在買完了，海鮮不做預處理也不能久放。還好帶了兩瓶好酒，於是趁時間還早，先做了一碟酒煮花螺，當下酒菜吃（聽起來好像用酒下酒）。</p>
+
+
+
+
+
+
+
+<p>下午的時光倒是還挺開心，有一些輩份近、年齡也相仿的表哥表弟來走動。他們平日不缺好酒好肉，但是聽說有不太常見的日本酒和下酒菜，倒也都小酌幾口。期間也終於陸陸續續開始準備祭祖用的茶、酒、果品、熱食，但最重要的一樣──米飯──卻遲遲不好。約摸又過了半個鍾，米飯才煮好，然後才能正式開始祭拜。淺羽本來以爲這個過程應該也要花些時間，就先去處理食材了。沒成想，幾個小時的等待，結果祭拜 10 分鐘就結束了！聊到晚上的安排，突然又說想 6 時吃飯，但是這個時候已經接近下午 4 時，家庭廚房又缺鍋竈，做菜只能一道一道做，難免時間有些緊迫。</p>
+
+
+
+<p>緊趕慢趕，最後終於在六點半時做好了全部的菜品。菜端上桌，結果連一桌人都坐不整齊。大人有的忙着想先把廚具清理趕緊，有的不緊不慢地喝着茶滑着手機，有的在追着不想吃飯的小孩餵飯……難得有坐上桌子的同齡人，但是一直也是鬱鬱寡歡。到頭來，一桌飯菜，其他人稀稀拉拉地來、沒動兩筷子又走了。沒有想像中熱鬧的飯桌，只有就浅羽和 partner 在努力進食。</p>
+
+
+
+
+        
+    
+    
+
+
+
+<p>大人們這麼着急當然也是有原因的──他們急着結束這一天，所以吃飯也只是草草了事，又不停地問着「吃好了沒有」。大家都有點心不在焉，只想著趕緊把年過完，完全忘記了節日歡聚的意義。再好的飯菜，如果趕着時間，也索然無味了。</p>
+<img src="https://analytics.sakuragawa.moe/piwik.php?idsite=2&amp;rec=1&amp;url=https%3A%2F%2Fasaba.sakuragawa.moe%2F2023%2F02%2F%25e5%2590%2583%25e5%25a5%25bd%25e4%25b8%2580%25e9%25a4%2590%2F%3Fpk_campaign%3Dfeed%26pk_kwd%3D%2525e5%252590%252583%2525e5%2525a5%2525bd%2525e4%2525b8%252580%2525e9%2525a4%252590&amp;action_name=%E5%90%83%E5%A5%BD%E4%B8%80%E9%A4%90&amp;urlref=https%3A%2F%2Fasaba.sakuragawa.moe%2Ffeed%2F" /><div>
+    <div>
+    <a data-post-id="3126" data-trigger-type="like" data-restriction="cookie" data-already-liked="0">
+                        <i></i>
+                </a>
+    <span>    </span>
+</div><div>
+    <a data-post-id="3126" data-trigger-type="dislike" data-restriction="cookie" data-already-liked="0">
+                        <i></i>
+                </a>
+    <span></span>
+</div></div>]]></content>
+        
+        <summary type="html">
+            
+            吃飯是很麻煩的事情，吃得開心更是件艱難的事情。    過年的時候去 partner 家。本來的計畫是：早上去菜市買好新鮮食材，下午開始準備年夜飯，這樣吃完正餐還可以喝點酒。家裏吃飯的人多，只算大人的話也有八張嘴；但是每人都有一些愛吃或者不吃的食材，所以買菜的時候自然想着多買幾樣
+            
+        </summary>
+        
+        <category term="日常 / 流水帳"/>
+        
+        <category term="#SafeForLife"/>
+        
+        <category term="吐槽"/>
+        
+    </entry>
+    
+    <entry>
+        <title>移动吉比特 H5-8 光猫超级密码</title>
+        <link href="https://www.whosneo.com/h5-8-admin/"/>
+        <id>https://www.whosneo.com/h5-8-admin/</id>
+        
+        <author>
+            <name>Neo</name>
+        </author>
+        
+        <published>2023-02-04T02:28:48+00:00</published>
+        <updated>2023-02-04T02:28:48+00:00</updated>
+        
+        <content type="html"><![CDATA[<p>移动吉比特系列光猫均可参考。<span></span></p>
+<p>首先使用光猫背面信息，登录普通用户管理界面。再修改浏览器地址，访问：<a href="http://192.168.1.1/usr=CMCCAdmin&amp;psw=aDm8H%25MdA&amp;cmd=1&amp;telnet.gch">http://192.168.1.1/usr=CMCCAdmin&amp;psw=aDm8H%25MdA&amp;cmd=1&amp;telnet.gch</a>，浏览器会显示 Success。</p>
+<p>此时使用 telnet 登录光猫，用户名为 <code>CMCCAdmin</code>，密码为 <code>aDm8H%MdA</code>。</p>
+<p>登录光猫以后，虽然我们还是没有办法获得超级密码，但是我们可以修改超级密码：</p>
+<pre><code># 修改超级密码为 admin
+sidbg 1 DB set DevAuthInfo 0 Pass admin
+# 保存设置
+sidbg 1 DB save
+</code></pre>
+<p>此时再回到光猫登录页面，使用用户名 <code>CMCCAdmin</code> 与密码 <code>admin</code> 即可登录管理员账户。</p>
+<blockquote><p>
+  参考链接：https://www.bilibili.com/read/cv15548233
+</p></blockquote>]]></content>
+        
+        <summary type="html">
+            
+            移动吉比特系列光猫均可参考。 首先使用光猫背面信息，登录普通用户管理界面。再修改浏览器地址，访问：http://192.168.1.1/usr=CMCCAdmin&amp;amp;psw=aDm8H%25MdA&amp;amp;cmd=1&amp;amp;telnet.gch，浏览器会显示 Succe
+            
+        </summary>
+        
+        <category term="生活随笔"/>
+        
+    </entry>
     
     <entry>
         <title>早知道，還是……原道醬 / YD30 簡單試聽</title>
@@ -72,13 +392,13 @@
 <img src="https://analytics.sakuragawa.moe/piwik.php?idsite=2&amp;rec=1&amp;url=https%3A%2F%2Fasaba.sakuragawa.moe%2F2023%2F01%2F%25e6%2597%25a9%25e7%259f%25a5%25e9%2581%2593%25ef%25bc%258c%25e9%2582%2584%25e6%2598%25af%25e5%258e%259f%25e9%2581%2593%25e9%2586%25ac-yd30-%25e7%25b0%25a1%25e5%2596%25ae%25e8%25a9%25a6%25e8%2581%25bd%2F%3Fpk_campaign%3Dfeed%26pk_kwd%3D%2525e6%252597%2525a9%2525e7%25259f%2525a5%2525e9%252581%252593%2525ef%2525bc%25258c%2525e9%252582%252584%2525e6%252598%2525af%2525e5%25258e%25259f%2525e9%252581%252593%2525e9%252586%2525ac-yd30-%2525e7%2525b0%2525a1%2525e5%252596%2525ae%2525e8%2525a9%2525a6%2525e8%252581%2525bd&amp;action_name=%E6%97%A9%E7%9F%A5%E9%81%93%EF%BC%8C%E9%82%84%E6%98%AF%E2%80%A6%E2%80%A6%E5%8E%9F%E9%81%93%E9%86%AC+%2F+YD30+%E7%B0%A1%E5%96%AE%E8%A9%A6%E8%81%BD&amp;urlref=https%3A%2F%2Fasaba.sakuragawa.moe%2Ffeed%2F" /><div>
     <div>
     <a data-post-id="3069" data-trigger-type="like" data-restriction="cookie" data-already-liked="0">
-                           <i></i>
-                    </a>
+                        <i></i>
+                </a>
     <span>    </span>
 </div><div>
     <a data-post-id="3069" data-trigger-type="dislike" data-restriction="cookie" data-already-liked="0">
-                           <i></i>
-                    </a>
+                        <i></i>
+                </a>
     <span></span>
 </div></div>]]></content>
         
@@ -252,34 +572,6 @@ fredliang/derper:latest
     </entry>
     
     <entry>
-        <title>从零开始搭建NAS——坑爹的TrueNAS</title>
-        <link href="https://blog.gaojianli.me/2022/12/04/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E6%90%AD%E5%BB%BANAS%E2%80%94%E2%80%94%E5%9D%91%E7%88%B9%E7%9A%84TrueNAS/"/>
-        <id>https://blog.gaojianli.me/2022/12/04/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E6%90%AD%E5%BB%BANAS%E2%80%94%E2%80%94%E5%9D%91%E7%88%B9%E7%9A%84TrueNAS/</id>
-        
-        <author>
-            <name>高渐离</name>
-        </author>
-        
-        <published>2022-12-04T13:34:45+00:00</published>
-        <updated>2022-12-04T13:34:45+00:00</updated>
-        
-        <content type="html"><![CDATA[<p>距离<a href="https://blog.gaojianli.me/2022/08/20/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E6%90%AD%E5%BB%BANAS%E2%80%94%E2%80%94%E7%A1%AC%E4%BB%B6%E9%80%89%E8%B4%AD%E4%B8%8E%E8%A3%85%E6%9C%BA/">上一篇文章</a>其实已经过了有一阵子了，本来预计是想要很快写出第二篇的，但是由于各种各样的原因就一直拖了下去。</p><p>嗯，没错，我其实是在测试NAS的稳定性，一定不是太懒的原因。截止到今天（2022-12-4），NAS已经连续运行53天了，在之前因为更新系统等原因不可避免重启了一两次，一直以来确实没出什么大问题。</p><a></a><p><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAAEsCAMAAABOo35HAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9UExURVlZWdPT07KysmRkZIWFhfT09JmZmWZmZm9vb39/fxkZGUxMTDMzM3p6epCQkKamppubm729venp6cjIyN7e3tbW1s/Pz8LCwnx8fLS0tFZWVoiIiI+Pj6GhoeTk5Glpabu7u93d3evr66CgoJSUlKqqqsnJyeDg4Hd3d8PDw+Xl5bi4uNHR0dvb26Ojo6urq+fn51hYWDg4OCgoKHBwcK2traenp0FBQe7u7vHx8U5OTre3t8zMzHV1df///7GrnpQAAAA/dFJOU///////////////////////////////////////////////////////////////////////////////////AI4mfBcAAAUGSURBVHja7NoJb6M4GMZxY0NCD64kve/pMZ2d3Z297+X7f6zFNmBAMUXa6URl/q9UJSWPUPzrizFWRUlNLgEBWGCBBRZYYEEAFlhggQUWWBCABRZYYIEFFgRggQUWWGCBBQFYYIEFFlhgQQAWWGCBBRZYEIAFFlhggQUWBGCBBRZYYIEFAVhggQUWWGBBABZYYIEFFlgQgAUWWGCBBRYEYIEFFlhggQUBWGCBBRZYYEEAFlhggQUWWBCABRZYYIEFFgRggQUWWGCBBQFYYIEFFlhgQQAWWGCBBRZYEIAFFlhggQUWBGCBBRZYn6cCIcRXgvX/h9qcIVBqDdbEM8RCxGCB9QqXYRwHYDHBgwXWl8eKZKiESHI3Ba1kWs3fKixcaJUl1YyeBm7Ocq+yLItUiVBGnXxenSHJolIKEcwHq6ikbOX1YGVzQCTN8LPmSLreghUl9sN4Uw7yajMrLC0TZ1ImzqY6FEop0+pIaEN5HaoOxVuwEqFyc4I46uSlzOLqgxlh6UaR9l3VYWl9Fdoxb1Q90KJtu41pwwFW/WHhTtW8i7TafLCqRsk6bsGw63L9qurXRmuIlbT9lDQnlXU+nBFW1Q2qnZbDprWa2tjR90LZFqx1/+Td/HpGWLlrLDvIwTcx6dQ1Vrntbig68cDms3JwbA5Y1azs1ger6sNV/bbIw1jU81MvNAGrl58RVn8ozW+btF08iGFoAlYvP3csfVur1gJBEIA1uBmue5dhZDOyO2epbmgCVi8/I6x0MMHH9pjsTfBhNzQBq5uPZoQlB0uH3DZG4EZqQ26fL3sZq5uf09Ih6qw3i/pm6BZO0qZX7rrUS68Xsbr5ZE4rePMk08pk9aUZugfqppvs6AM1Acvlo/StP+6EbW06z8hJqxbYp2BZPQUnFsLsKuhQdaHqn5ewbF7KXIn0jWO5MqOQ7RaNLPtbNMmmhimj0GUmYLl8Gs0Lq4wyPbTu1l2QKqHSouzs3OlDIslW5SQsnY/NXmFplyNvEuuLV/Tau9BzwiraDUSwXmysztYWWNtL1psXeumgIrDGaqXvBfUuvtqUYI3V2t1wk1e2msFluJJm6zDJXv/fIfjPP7DAAgsssCiwwAILLLDAosACCyywwAKLAgsssMACC6zt9fDz/v75tyOB+98PD2+ORgKffjw4OP1uJPDxl+Xy8v1I4MPF3t7VNyOB4/vF4uzdzrG+39f1kz/w66Guv/yBvw90KX/gZKkr8Qf+2dOV+gNHC12/7RxrabD2/a31bLAO/a11YbAO/K21MFhLf2s9Gqw9f2vdGqzFu11jnVusE2/gxmI9eQOnFuvYG7i0WH7uK4t15w2cWazrXWP9a7H8f/bQYvm/6IPF+sF/pVssf19Ii/WH/0K2WH/uGuvEWC39gSdj9Twy+Rqri5EZx1gt/IE7Y/XoD1wbq9vd3w1PlufnD2OBp+ebm/uxwPHF6emnscDR4vLy41jg7vHq6sNY4Pr27OyYdRaLUrDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssL6u+k+AAQCR9eHtLKvLfwAAAABJRU5ErkJggg==" /></p><h1><a href="https://blog.gaojianli.me/2022/12/04/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E6%90%AD%E5%BB%BANAS%E2%80%94%E2%80%94%E5%9D%91%E7%88%B9%E7%9A%84TrueNAS/#坑爹的TrueNAS-Core"></a>坑爹的TrueNAS Core</h1><p><a href="https://blog.gaojianli.me/2022/08/20/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E6%90%AD%E5%BB%BANAS%E2%80%94%E2%80%94%E7%A1%AC%E4%BB%B6%E9%80%89%E8%B4%AD%E4%B8%8E%E8%A3%85%E6%9C%BA/#8%E6%9C%8822%E6%97%A5-Update%EF%BC%9A">上次</a>在文章末尾我提到说，我被TrueNAS Core狠狠地坑了一把。</p><p>TrueNAS是基于FreeBSD构建的操作系统，而作为皇城根下有通天纹的系统，自然是不屑于使用Docker的。FreeBSD自有<code>jails</code>系统。</p><blockquote><p>FreeBSD jail，一种操作系统层虚拟化技术，在FreeBSD操作系统中运作。利用这个技术，FreeBSD的系统管理者，可以创造出几个小型的软件系统，这些软件系统被称为监狱（jails）</p></blockquote><p>作为Docker的老前辈，平心而论，<code>jails</code>在2000年是具有非常划时代意义的新技术，而现有的容器技术例如LXC或者Docker，也或多或少收到了他的启发。然而今年是2022年，jails在当然的应用环境下已经显得力不从心。直接操作<code>jails</code>非常繁琐，因此TrueNAS提供了一个工具<code>iocage</code>，将<code>jails</code>操作简化成了类似<code>docker</code>的操作，还算方便。</p><h2><a href="https://blog.gaojianli.me/2022/12/04/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E6%90%AD%E5%BB%BANAS%E2%80%94%E2%80%94%E5%9D%91%E7%88%B9%E7%9A%84TrueNAS/#网络坑"></a>网络坑</h2><p>jails的网络基于BPF实现，作为eBPF的前身，jails可以提供3种网络模式：</p><ul><li>DCHP。这个模式下的jail类似虚拟机，容器直接从DHCP服务获取IP地址，从网络拓扑上可以将jail视为独立设备。</li><li>端口绑定。直接使用宿主机的网络端口，类似<code>docker</code>的<code>host</code>模式，区别是前者只能使用一张网卡，而<code>docker</code>的<code>host</code>可以使用所有网卡。</li><li>nat。类似Docker最常用的模式，使用端口转发。</li></ul><p>乍一看好像没什么问题？直接模仿Docker无脑nat模式不就完了吗，该有的都有不是吗？让我们再来看看我需要部署的服务列表：</p><table><thead><tr><th>服务</th><th>功能</th><th>需要的端口</th><th>结果</th></tr></thead><tbody><tr><td>Aria2</td><td>下载</td><td>6800</td><td>OK，下载不支持IPv6</td></tr><tr><td>FreeRadius</td><td>Wifi 鉴权</td><td>1812</td><td>OK</td></tr><tr><td>Qbittorrent</td><td>BT下载</td><td>51413</td><td>不支持IPv6</td></tr><tr><td>Emby</td><td>媒体服务器</td><td>不重要</td><td>不支持IPv6，不支持硬件加速</td></tr></tbody></table><p>可以看到，在最重要的两个下载功能中，端口转发均明确表示不支持IPv6（本来V6设计就不是给你NAT的）。此外，由于每个<code>jail</code>都有自己的IP，众多服务也无法使用一个反向代理统一起来。</p><h2><a href="https://blog.gaojianli.me/2022/12/04/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E6%90%AD%E5%BB%BANAS%E2%80%94%E2%80%94%E5%9D%91%E7%88%B9%E7%9A%84TrueNAS/#驱动坑"></a>驱动坑</h2><p>虽然我使用的是一块zen2的R5 4400G，在这个zen4的年代来看已经不新了。但是很遗憾，他的显卡对于FreeBSD来说还是太新了，新到只有在最新的FreeBSD 13.1才堪堪提供了支持。而很遗憾的是，TrueNAS Core的底层版本是13.0，并且直接在宿主系统上更新包是不受支持的。于是接下来我就开始了徒劳且痛苦的尝试。</p><p>首先是尝试更新内核版本，既然<code>freebsd-update</code>不能使用，那我就编译更新内核好了。下载好了内核源码之后，又突然发现宿主系统没有<code>cc</code>编译器。这也难不到我，创建一个新的jail，在里面安装编译器等工具，随后再将内核源代码挂载进去完成编译即可。</p><p>但是这么做的风险极高，首先是因为没有回滚的机会，TrueNAS Core的系统更新不能用了，此外自己编译内核也非常的灵。而事实上，当我编译完成新的内核后，虽然他识别出了我的GPU，但是运行<code>vainfo</code>依旧会报错，也不知道原因是什么。</p><p>另外由于TrueNAS Core和TrueNAS Scale共享一个名字，因此你能搜到的所有文档基本上都是TrueNAS Scale的，没文档的小众系统，我认为继续在上面投入是不值得的，早日弃暗投明吧。</p><h1><a href="https://blog.gaojianli.me/2022/12/04/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E6%90%AD%E5%BB%BANAS%E2%80%94%E2%80%94%E5%9D%91%E7%88%B9%E7%9A%84TrueNAS/#迁移到SCALE"></a>迁移到SCALE</h1><p>TrueNAS由于系统盘也使用了ZFS，因此可以非常轻松的再多个操作系统之间迁移，回滚等操作：<br /><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAAEsCAMAAABOo35HAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9UExURVlZWdPT07KysmRkZIWFhfT09JmZmWZmZm9vb39/fxkZGUxMTDMzM3p6epCQkKamppubm729venp6cjIyN7e3tbW1s/Pz8LCwnx8fLS0tFZWVoiIiI+Pj6GhoeTk5Glpabu7u93d3evr66CgoJSUlKqqqsnJyeDg4Hd3d8PDw+Xl5bi4uNHR0dvb26Ojo6urq+fn51hYWDg4OCgoKHBwcK2traenp0FBQe7u7vHx8U5OTre3t8zMzHV1df///7GrnpQAAAA/dFJOU///////////////////////////////////////////////////////////////////////////////////AI4mfBcAAAUGSURBVHja7NoJb6M4GMZxY0NCD64kve/pMZ2d3Z297+X7f6zFNmBAMUXa6URl/q9UJSWPUPzrizFWRUlNLgEBWGCBBRZYYEEAFlhggQUWWBCABRZYYIEFFgRggQUWWGCBBQFYYIEFFlhgQQAWWGCBBRZYEIAFFlhggQUWBGCBBRZYYIEFAVhggQUWWGBBABZYYIEFFlgQgAUWWGCBBRYEYIEFFlhggQUBWGCBBRZYYEEAFlhggQUWWBCABRZYYIEFFgRggQUWWGCBBQFYYIEFFlhgQQAWWGCBBRZYEIAFFlhggQUWBGCBBRZYn6cCIcRXgvX/h9qcIVBqDdbEM8RCxGCB9QqXYRwHYDHBgwXWl8eKZKiESHI3Ba1kWs3fKixcaJUl1YyeBm7Ocq+yLItUiVBGnXxenSHJolIKEcwHq6ikbOX1YGVzQCTN8LPmSLreghUl9sN4Uw7yajMrLC0TZ1ImzqY6FEop0+pIaEN5HaoOxVuwEqFyc4I46uSlzOLqgxlh6UaR9l3VYWl9Fdoxb1Q90KJtu41pwwFW/WHhTtW8i7TafLCqRsk6bsGw63L9qurXRmuIlbT9lDQnlXU+nBFW1Q2qnZbDprWa2tjR90LZFqx1/+Td/HpGWLlrLDvIwTcx6dQ1Vrntbig68cDms3JwbA5Y1azs1ger6sNV/bbIw1jU81MvNAGrl58RVn8ozW+btF08iGFoAlYvP3csfVur1gJBEIA1uBmue5dhZDOyO2epbmgCVi8/I6x0MMHH9pjsTfBhNzQBq5uPZoQlB0uH3DZG4EZqQ26fL3sZq5uf09Ih6qw3i/pm6BZO0qZX7rrUS68Xsbr5ZE4rePMk08pk9aUZugfqppvs6AM1Acvlo/StP+6EbW06z8hJqxbYp2BZPQUnFsLsKuhQdaHqn5ewbF7KXIn0jWO5MqOQ7RaNLPtbNMmmhimj0GUmYLl8Gs0Lq4wyPbTu1l2QKqHSouzs3OlDIslW5SQsnY/NXmFplyNvEuuLV/Tau9BzwiraDUSwXmysztYWWNtL1psXeumgIrDGaqXvBfUuvtqUYI3V2t1wk1e2msFluJJm6zDJXv/fIfjPP7DAAgsssCiwwAILLLDAosACCyywwAKLAgsssMACC6zt9fDz/v75tyOB+98PD2+ORgKffjw4OP1uJPDxl+Xy8v1I4MPF3t7VNyOB4/vF4uzdzrG+39f1kz/w66Guv/yBvw90KX/gZKkr8Qf+2dOV+gNHC12/7RxrabD2/a31bLAO/a11YbAO/K21MFhLf2s9Gqw9f2vdGqzFu11jnVusE2/gxmI9eQOnFuvYG7i0WH7uK4t15w2cWazrXWP9a7H8f/bQYvm/6IPF+sF/pVssf19Ii/WH/0K2WH/uGuvEWC39gSdj9Twy+Rqri5EZx1gt/IE7Y/XoD1wbq9vd3w1PlufnD2OBp+ebm/uxwPHF6emnscDR4vLy41jg7vHq6sNY4Pr27OyYdRaLUrDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssL6u+k+AAQCR9eHtLKvLfwAAAABJRU5ErkJggg==" /><br />只不过毕竟是从BSD迁移到Linux，配置文件还是有不兼容的部分，因此从Core迁移至Scale被定义为不可逆的过程。</p><p>更新过程也非常简单，和路由器刷机差不多。直接去<a href="https://www.truenas.com/download-truenas-scale/" target="_blank">网站</a>的“手动下载”一项中找到<code>.update</code>文件下载，随后在NAS的手动更新中应用即可：<br /><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAAEsCAMAAABOo35HAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9UExURVlZWdPT07KysmRkZIWFhfT09JmZmWZmZm9vb39/fxkZGUxMTDMzM3p6epCQkKamppubm729venp6cjIyN7e3tbW1s/Pz8LCwnx8fLS0tFZWVoiIiI+Pj6GhoeTk5Glpabu7u93d3evr66CgoJSUlKqqqsnJyeDg4Hd3d8PDw+Xl5bi4uNHR0dvb26Ojo6urq+fn51hYWDg4OCgoKHBwcK2traenp0FBQe7u7vHx8U5OTre3t8zMzHV1df///7GrnpQAAAA/dFJOU///////////////////////////////////////////////////////////////////////////////////AI4mfBcAAAUGSURBVHja7NoJb6M4GMZxY0NCD64kve/pMZ2d3Z297+X7f6zFNmBAMUXa6URl/q9UJSWPUPzrizFWRUlNLgEBWGCBBRZYYEEAFlhggQUWWBCABRZYYIEFFgRggQUWWGCBBQFYYIEFFlhgQQAWWGCBBRZYEIAFFlhggQUWBGCBBRZYYIEFAVhggQUWWGBBABZYYIEFFlgQgAUWWGCBBRYEYIEFFlhggQUBWGCBBRZYYEEAFlhggQUWWBCABRZYYIEFFgRggQUWWGCBBQFYYIEFFlhgQQAWWGCBBRZYEIAFFlhggQUWBGCBBRZYn6cCIcRXgvX/h9qcIVBqDdbEM8RCxGCB9QqXYRwHYDHBgwXWl8eKZKiESHI3Ba1kWs3fKixcaJUl1YyeBm7Ocq+yLItUiVBGnXxenSHJolIKEcwHq6ikbOX1YGVzQCTN8LPmSLreghUl9sN4Uw7yajMrLC0TZ1ImzqY6FEop0+pIaEN5HaoOxVuwEqFyc4I46uSlzOLqgxlh6UaR9l3VYWl9Fdoxb1Q90KJtu41pwwFW/WHhTtW8i7TafLCqRsk6bsGw63L9qurXRmuIlbT9lDQnlXU+nBFW1Q2qnZbDprWa2tjR90LZFqx1/+Td/HpGWLlrLDvIwTcx6dQ1Vrntbig68cDms3JwbA5Y1azs1ger6sNV/bbIw1jU81MvNAGrl58RVn8ozW+btF08iGFoAlYvP3csfVur1gJBEIA1uBmue5dhZDOyO2epbmgCVi8/I6x0MMHH9pjsTfBhNzQBq5uPZoQlB0uH3DZG4EZqQ26fL3sZq5uf09Ih6qw3i/pm6BZO0qZX7rrUS68Xsbr5ZE4rePMk08pk9aUZugfqppvs6AM1Acvlo/StP+6EbW06z8hJqxbYp2BZPQUnFsLsKuhQdaHqn5ewbF7KXIn0jWO5MqOQ7RaNLPtbNMmmhimj0GUmYLl8Gs0Lq4wyPbTu1l2QKqHSouzs3OlDIslW5SQsnY/NXmFplyNvEuuLV/Tau9BzwiraDUSwXmysztYWWNtL1psXeumgIrDGaqXvBfUuvtqUYI3V2t1wk1e2msFluJJm6zDJXv/fIfjPP7DAAgsssCiwwAILLLDAosACCyywwAKLAgsssMACC6zt9fDz/v75tyOB+98PD2+ORgKffjw4OP1uJPDxl+Xy8v1I4MPF3t7VNyOB4/vF4uzdzrG+39f1kz/w66Guv/yBvw90KX/gZKkr8Qf+2dOV+gNHC12/7RxrabD2/a31bLAO/a11YbAO/K21MFhLf2s9Gqw9f2vdGqzFu11jnVusE2/gxmI9eQOnFuvYG7i0WH7uK4t15w2cWazrXWP9a7H8f/bQYvm/6IPF+sF/pVssf19Ii/WH/0K2WH/uGuvEWC39gSdj9Twy+Rqri5EZx1gt/IE7Y/XoD1wbq9vd3w1PlufnD2OBp+ebm/uxwPHF6emnscDR4vLy41jg7vHq6sNY4Pr27OyYdRaLUrDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssL6u+k+AAQCR9eHtLKvLfwAAAABJRU5ErkJggg==" /> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAAEsCAMAAABOo35HAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9UExURVlZWdPT07KysmRkZIWFhfT09JmZmWZmZm9vb39/fxkZGUxMTDMzM3p6epCQkKamppubm729venp6cjIyN7e3tbW1s/Pz8LCwnx8fLS0tFZWVoiIiI+Pj6GhoeTk5Glpabu7u93d3evr66CgoJSUlKqqqsnJyeDg4Hd3d8PDw+Xl5bi4uNHR0dvb26Ojo6urq+fn51hYWDg4OCgoKHBwcK2traenp0FBQe7u7vHx8U5OTre3t8zMzHV1df///7GrnpQAAAA/dFJOU///////////////////////////////////////////////////////////////////////////////////AI4mfBcAAAUGSURBVHja7NoJb6M4GMZxY0NCD64kve/pMZ2d3Z297+X7f6zFNmBAMUXa6URl/q9UJSWPUPzrizFWRUlNLgEBWGCBBRZYYEEAFlhggQUWWBCABRZYYIEFFgRggQUWWGCBBQFYYIEFFlhgQQAWWGCBBRZYEIAFFlhggQUWBGCBBRZYYIEFAVhggQUWWGBBABZYYIEFFlgQgAUWWGCBBRYEYIEFFlhggQUBWGCBBRZYYEEAFlhggQUWWBCABRZYYIEFFgRggQUWWGCBBQFYYIEFFlhgQQAWWGCBBRZYEIAFFlhggQUWBGCBBRZYn6cCIcRXgvX/h9qcIVBqDdbEM8RCxGCB9QqXYRwHYDHBgwXWl8eKZKiESHI3Ba1kWs3fKixcaJUl1YyeBm7Ocq+yLItUiVBGnXxenSHJolIKEcwHq6ikbOX1YGVzQCTN8LPmSLreghUl9sN4Uw7yajMrLC0TZ1ImzqY6FEop0+pIaEN5HaoOxVuwEqFyc4I46uSlzOLqgxlh6UaR9l3VYWl9Fdoxb1Q90KJtu41pwwFW/WHhTtW8i7TafLCqRsk6bsGw63L9qurXRmuIlbT9lDQnlXU+nBFW1Q2qnZbDprWa2tjR90LZFqx1/+Td/HpGWLlrLDvIwTcx6dQ1Vrntbig68cDms3JwbA5Y1azs1ger6sNV/bbIw1jU81MvNAGrl58RVn8ozW+btF08iGFoAlYvP3csfVur1gJBEIA1uBmue5dhZDOyO2epbmgCVi8/I6x0MMHH9pjsTfBhNzQBq5uPZoQlB0uH3DZG4EZqQ26fL3sZq5uf09Ih6qw3i/pm6BZO0qZX7rrUS68Xsbr5ZE4rePMk08pk9aUZugfqppvs6AM1Acvlo/StP+6EbW06z8hJqxbYp2BZPQUnFsLsKuhQdaHqn5ewbF7KXIn0jWO5MqOQ7RaNLPtbNMmmhimj0GUmYLl8Gs0Lq4wyPbTu1l2QKqHSouzs3OlDIslW5SQsnY/NXmFplyNvEuuLV/Tau9BzwiraDUSwXmysztYWWNtL1psXeumgIrDGaqXvBfUuvtqUYI3V2t1wk1e2msFluJJm6zDJXv/fIfjPP7DAAgsssCiwwAILLLDAosACCyywwAKLAgsssMACC6zt9fDz/v75tyOB+98PD2+ORgKffjw4OP1uJPDxl+Xy8v1I4MPF3t7VNyOB4/vF4uzdzrG+39f1kz/w66Guv/yBvw90KX/gZKkr8Qf+2dOV+gNHC12/7RxrabD2/a31bLAO/a11YbAO/K21MFhLf2s9Gqw9f2vdGqzFu11jnVusE2/gxmI9eQOnFuvYG7i0WH7uK4t15w2cWazrXWP9a7H8f/bQYvm/6IPF+sF/pVssf19Ii/WH/0K2WH/uGuvEWC39gSdj9Twy+Rqri5EZx1gt/IE7Y/XoD1wbq9vd3w1PlufnD2OBp+ebm/uxwPHF6emnscDR4vLy41jg7vHq6sNY4Pr27OyYdRaLUrDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssL6u+k+AAQCR9eHtLKvLfwAAAABJRU5ErkJggg==" /></p><p>更新完后重启，再手动修改一些配置，就顺利变成Linux了！</p><h2><a href="https://blog.gaojianli.me/2022/12/04/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E6%90%AD%E5%BB%BANAS%E2%80%94%E2%80%94%E5%9D%91%E7%88%B9%E7%9A%84TrueNAS/#SCALE"></a>SCALE</h2><p>更新到了SCALE后，由于是熟悉的Linux，文档也众多于是接下来的流程非常的顺滑，顺利解决了我的问题。めでたしめでたし!  </p><p>如果你以为是这样，那就太naive了。</p><p>世界上怎么会有这么好的事情呢。虽然TrueNAS SCALE确实用了Docker，但是又没完全用。别忘了人家名字里面有个<code>scale</code>，这个<code>scale</code>体现在哪里呢？没错，他给你整了个K8S，你可以用多个NAS组成一个K8S集群，实现动态扩容，负载均衡等等功能……</p><p>有病吧！<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAAEsCAMAAABOo35HAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9UExURVlZWdPT07KysmRkZIWFhfT09JmZmWZmZm9vb39/fxkZGUxMTDMzM3p6epCQkKamppubm729venp6cjIyN7e3tbW1s/Pz8LCwnx8fLS0tFZWVoiIiI+Pj6GhoeTk5Glpabu7u93d3evr66CgoJSUlKqqqsnJyeDg4Hd3d8PDw+Xl5bi4uNHR0dvb26Ojo6urq+fn51hYWDg4OCgoKHBwcK2traenp0FBQe7u7vHx8U5OTre3t8zMzHV1df///7GrnpQAAAA/dFJOU///////////////////////////////////////////////////////////////////////////////////AI4mfBcAAAUGSURBVHja7NoJb6M4GMZxY0NCD64kve/pMZ2d3Z297+X7f6zFNmBAMUXa6URl/q9UJSWPUPzrizFWRUlNLgEBWGCBBRZYYEEAFlhggQUWWBCABRZYYIEFFgRggQUWWGCBBQFYYIEFFlhgQQAWWGCBBRZYEIAFFlhggQUWBGCBBRZYYIEFAVhggQUWWGBBABZYYIEFFlgQgAUWWGCBBRYEYIEFFlhggQUBWGCBBRZYYEEAFlhggQUWWBCABRZYYIEFFgRggQUWWGCBBQFYYIEFFlhgQQAWWGCBBRZYEIAFFlhggQUWBGCBBRZYn6cCIcRXgvX/h9qcIVBqDdbEM8RCxGCB9QqXYRwHYDHBgwXWl8eKZKiESHI3Ba1kWs3fKixcaJUl1YyeBm7Ocq+yLItUiVBGnXxenSHJolIKEcwHq6ikbOX1YGVzQCTN8LPmSLreghUl9sN4Uw7yajMrLC0TZ1ImzqY6FEop0+pIaEN5HaoOxVuwEqFyc4I46uSlzOLqgxlh6UaR9l3VYWl9Fdoxb1Q90KJtu41pwwFW/WHhTtW8i7TafLCqRsk6bsGw63L9qurXRmuIlbT9lDQnlXU+nBFW1Q2qnZbDprWa2tjR90LZFqx1/+Td/HpGWLlrLDvIwTcx6dQ1Vrntbig68cDms3JwbA5Y1azs1ger6sNV/bbIw1jU81MvNAGrl58RVn8ozW+btF08iGFoAlYvP3csfVur1gJBEIA1uBmue5dhZDOyO2epbmgCVi8/I6x0MMHH9pjsTfBhNzQBq5uPZoQlB0uH3DZG4EZqQ26fL3sZq5uf09Ih6qw3i/pm6BZO0qZX7rrUS68Xsbr5ZE4rePMk08pk9aUZugfqppvs6AM1Acvlo/StP+6EbW06z8hJqxbYp2BZPQUnFsLsKuhQdaHqn5ewbF7KXIn0jWO5MqOQ7RaNLPtbNMmmhimj0GUmYLl8Gs0Lq4wyPbTu1l2QKqHSouzs3OlDIslW5SQsnY/NXmFplyNvEuuLV/Tau9BzwiraDUSwXmysztYWWNtL1psXeumgIrDGaqXvBfUuvtqUYI3V2t1wk1e2msFluJJm6zDJXv/fIfjPP7DAAgsssCiwwAILLLDAosACCyywwAKLAgsssMACC6zt9fDz/v75tyOB+98PD2+ORgKffjw4OP1uJPDxl+Xy8v1I4MPF3t7VNyOB4/vF4uzdzrG+39f1kz/w66Guv/yBvw90KX/gZKkr8Qf+2dOV+gNHC12/7RxrabD2/a31bLAO/a11YbAO/K21MFhLf2s9Gqw9f2vdGqzFu11jnVusE2/gxmI9eQOnFuvYG7i0WH7uK4t15w2cWazrXWP9a7H8f/bQYvm/6IPF+sF/pVssf19Ii/WH/0K2WH/uGuvEWC39gSdj9Twy+Rqri5EZx1gt/IE7Y/XoD1wbq9vd3w1PlufnD2OBp+ebm/uxwPHF6emnscDR4vLy41jg7vHq6sNY4Pr27OyYdRaLUrDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssL6u+k+AAQCR9eHtLKvLfwAAAABJRU5ErkJggg==" /></p><p>虽然我每天都在用K8S（指自劫云），也喜欢搞起夜级的东西，但是这并不代表我要在家里面整个K8S啊！这东西我曾经尝试安装过，浪费了两天两夜最后还是没装好。<code>kubectl</code>那么多参数我从来就没整明白过。</p><p>不过幸好TrueNAS还是给你提供了一个GUI的，可以通过GUI管理容器的启停扩容。不过我只是简单的尝试了一下就把他抛弃了：<br /><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAAEsCAMAAABOo35HAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9UExURVlZWdPT07KysmRkZIWFhfT09JmZmWZmZm9vb39/fxkZGUxMTDMzM3p6epCQkKamppubm729venp6cjIyN7e3tbW1s/Pz8LCwnx8fLS0tFZWVoiIiI+Pj6GhoeTk5Glpabu7u93d3evr66CgoJSUlKqqqsnJyeDg4Hd3d8PDw+Xl5bi4uNHR0dvb26Ojo6urq+fn51hYWDg4OCgoKHBwcK2traenp0FBQe7u7vHx8U5OTre3t8zMzHV1df///7GrnpQAAAA/dFJOU///////////////////////////////////////////////////////////////////////////////////AI4mfBcAAAUGSURBVHja7NoJb6M4GMZxY0NCD64kve/pMZ2d3Z297+X7f6zFNmBAMUXa6URl/q9UJSWPUPzrizFWRUlNLgEBWGCBBRZYYEEAFlhggQUWWBCABRZYYIEFFgRggQUWWGCBBQFYYIEFFlhgQQAWWGCBBRZYEIAFFlhggQUWBGCBBRZYYIEFAVhggQUWWGBBABZYYIEFFlgQgAUWWGCBBRYEYIEFFlhggQUBWGCBBRZYYEEAFlhggQUWWBCABRZYYIEFFgRggQUWWGCBBQFYYIEFFlhgQQAWWGCBBRZYEIAFFlhggQUWBGCBBRZYn6cCIcRXgvX/h9qcIVBqDdbEM8RCxGCB9QqXYRwHYDHBgwXWl8eKZKiESHI3Ba1kWs3fKixcaJUl1YyeBm7Ocq+yLItUiVBGnXxenSHJolIKEcwHq6ikbOX1YGVzQCTN8LPmSLreghUl9sN4Uw7yajMrLC0TZ1ImzqY6FEop0+pIaEN5HaoOxVuwEqFyc4I46uSlzOLqgxlh6UaR9l3VYWl9Fdoxb1Q90KJtu41pwwFW/WHhTtW8i7TafLCqRsk6bsGw63L9qurXRmuIlbT9lDQnlXU+nBFW1Q2qnZbDprWa2tjR90LZFqx1/+Td/HpGWLlrLDvIwTcx6dQ1Vrntbig68cDms3JwbA5Y1azs1ger6sNV/bbIw1jU81MvNAGrl58RVn8ozW+btF08iGFoAlYvP3csfVur1gJBEIA1uBmue5dhZDOyO2epbmgCVi8/I6x0MMHH9pjsTfBhNzQBq5uPZoQlB0uH3DZG4EZqQ26fL3sZq5uf09Ih6qw3i/pm6BZO0qZX7rrUS68Xsbr5ZE4rePMk08pk9aUZugfqppvs6AM1Acvlo/StP+6EbW06z8hJqxbYp2BZPQUnFsLsKuhQdaHqn5ewbF7KXIn0jWO5MqOQ7RaNLPtbNMmmhimj0GUmYLl8Gs0Lq4wyPbTu1l2QKqHSouzs3OlDIslW5SQsnY/NXmFplyNvEuuLV/Tau9BzwiraDUSwXmysztYWWNtL1psXeumgIrDGaqXvBfUuvtqUYI3V2t1wk1e2msFluJJm6zDJXv/fIfjPP7DAAgsssCiwwAILLLDAosACCyywwAKLAgsssMACC6zt9fDz/v75tyOB+98PD2+ORgKffjw4OP1uJPDxl+Xy8v1I4MPF3t7VNyOB4/vF4uzdzrG+39f1kz/w66Guv/yBvw90KX/gZKkr8Qf+2dOV+gNHC12/7RxrabD2/a31bLAO/a11YbAO/K21MFhLf2s9Gqw9f2vdGqzFu11jnVusE2/gxmI9eQOnFuvYG7i0WH7uK4t15w2cWazrXWP9a7H8f/bQYvm/6IPF+sF/pVssf19Ii/WH/0K2WH/uGuvEWC39gSdj9Twy+Rqri5EZx1gt/IE7Y/XoD1wbq9vd3w1PlufnD2OBp+ebm/uxwPHF6emnscDR4vLy41jg7vHq6sNY4Pr27OyYdRaLUrDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssL6u+k+AAQCR9eHtLKvLfwAAAABJRU5ErkJggg==" /><br />我的8443怎么办？<br />经过在网上的一通搜索，似乎不是只有我一个人遇到了这个问题：<a href="https://www.truenas.com/community/threads/containers-minimum-node-port-9000.90679/" target="_blank">Containers: Minimum node port 9000?</a>。但是很可惜，这个问题是K8S带来的，我没有任何办法修改： </p><blockquote><p>According to the Jira ticket, and <a href="https://oteemo.com/2017/12/12/think-nodeport-kubernetes/" target="_blank">https://oteemo.com/2017/12/12/think-nodeport-kubernetes/</a>, this isn’t a limitation with Scale, but with upstream Kubernetes k8s. Since the Scale applications deploy via Helm charts, they inherit the upstream k8s limits. However, I don’t see anything preventing you from running a container via Docker outside k8s.</p></blockquote><p>那我就只能按照建议，直接起Docker容器咯。<br />另外由于部署了K8S环境，因此系统的虚拟网卡也被搞得一团乱麻，我们熟悉的<code>docker0</code>消失了，取而代之的是一大堆<code>kube-bridge</code>,<code>kube-dummy-if</code>,<code>dummy0</code>的网卡。直接用<code>docker run</code>命令起来的容器会直接没有网卡上不了网，但是我到此已经精疲力竭，没有心思去研究怎么把k8s的网卡挂载进入容器（多半也不支持），于是干脆直接<code>--net=host</code>了。</p><p>由于更新系统后这一大堆docker容器都会丢失，因此我又专门将启动的命令写到一个脚本里面，这样更新系统的时候可以快速恢复：</p><table><tr><td><pre><span>1</span><br /><span>2</span><br /><span>3</span><br /><span>4</span><br /><span>5</span><br /><span>6</span><br /><span>7</span><br /><span>8</span><br /><span>9</span><br /><span>10</span><br /></pre></td><td><pre><span>$ cat restore_docker.sh </span><br /><span><span>#!/bin/sh</span></span><br /><span><span># qbittorrent</span></span><br /><span>docker run -d --restart=always --net=host --name qbittorrent -v /mnt/main/Docker/qbittorrent/config:/config -v /mnt/main/User/BT:/downloads -e SavePath=/downloads -e TempPath=/downloads -e HOME=/config -e WEBUI_PORT=3560 linuxserver/qbittorrent:latest </span><br /><span><span># nginx</span></span><br /><span>docker run -d --restart=always --name nginx --net=host -v /mnt/main/Docker/nginx/nginx:/etc/nginx -v /mnt/main/Docker/nginx/www:/www -v /mnt/main/Docker/nginx/modules:/modules nginx:stable-alpine</span><br /><span><span># aria2</span></span><br /><span>docker run -d --restart=always --name=aria2 --net=host -v /mnt/main/Docker/aria2/config:/config -v /mnt/main/User/Common\ Download:/downloads gaojianli2333/aria2</span><br /><span><span># freeradius</span></span><br /><span>docker run -d --restart=always --net=host --name radius -v /mnt/main/Docker/freeradius/raddb:/opt/etc/raddb freeradius/freeradius-server:3.2.0-alpine</span><br /></pre></td></tr></table><p><code>gaojianli2333/aria2</code>容器是我自己打包的，Dockerfile如下：</p><table><tr><td><pre><span>1</span><br /><span>2</span><br /><span>3</span><br /><span>4</span><br /><span>5</span><br /></pre></td><td><pre><span><span>FROM</span> alpine:latest</span><br /><span></span><br /><span><span>RUN</span><span> apk add --no-cache aria2</span></span><br /><span></span><br /><span><span>CMD</span><span> [<span>"aria2c"</span>,<span>"--conf=/config/aria2.conf"</span>]</span></span><br /></pre></td></tr></table><h1><a href="https://blog.gaojianli.me/2022/12/04/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E6%90%AD%E5%BB%BANAS%E2%80%94%E2%80%94%E5%9D%91%E7%88%B9%E7%9A%84TrueNAS/#总结"></a>总结</h1><p>这样看来还真是可笑，不管是Core还是Scale，提供的容器系统最后都没有用上，最终还是回归到了手工管理Docker上。只是这样NAS系统提供的功能其实就只有ZFS和报警功能了，如果你不用ZFS或者你可以手操ZFS，那你完全可以用裸的Linux比如Ubunut或者Arch，不必硬凹NAS系统。Scale提供的K8S功能不能说完全没用，但是对于我的需求来说显然太过多余了，不过群晖等系统提供的Docker多半也有各种各样的问题（例如IPv6）。</p><h2><a href="https://blog.gaojianli.me/2022/12/04/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E6%90%AD%E5%BB%BANAS%E2%80%94%E2%80%94%E5%9D%91%E7%88%B9%E7%9A%84TrueNAS/#硬件变化"></a>硬件变化</h2><p>另外在这几个月中，我的NAS也做了一些硬件上的改动。我的主板提供了一根PCIE X16的插槽，而这一插槽长期被X4的<code>TL-NT521</code>占用未免有点可惜。因此我将其替换成了一张<code>X540-T2</code>的FLR卡，并搭配拆分卡弄出了2个额外的M2。<br /><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAAEsCAMAAABOo35HAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9UExURVlZWdPT07KysmRkZIWFhfT09JmZmWZmZm9vb39/fxkZGUxMTDMzM3p6epCQkKamppubm729venp6cjIyN7e3tbW1s/Pz8LCwnx8fLS0tFZWVoiIiI+Pj6GhoeTk5Glpabu7u93d3evr66CgoJSUlKqqqsnJyeDg4Hd3d8PDw+Xl5bi4uNHR0dvb26Ojo6urq+fn51hYWDg4OCgoKHBwcK2traenp0FBQe7u7vHx8U5OTre3t8zMzHV1df///7GrnpQAAAA/dFJOU///////////////////////////////////////////////////////////////////////////////////AI4mfBcAAAUGSURBVHja7NoJb6M4GMZxY0NCD64kve/pMZ2d3Z297+X7f6zFNmBAMUXa6URl/q9UJSWPUPzrizFWRUlNLgEBWGCBBRZYYEEAFlhggQUWWBCABRZYYIEFFgRggQUWWGCBBQFYYIEFFlhgQQAWWGCBBRZYEIAFFlhggQUWBGCBBRZYYIEFAVhggQUWWGBBABZYYIEFFlgQgAUWWGCBBRYEYIEFFlhggQUBWGCBBRZYYEEAFlhggQUWWBCABRZYYIEFFgRggQUWWGCBBQFYYIEFFlhgQQAWWGCBBRZYEIAFFlhggQUWBGCBBRZYn6cCIcRXgvX/h9qcIVBqDdbEM8RCxGCB9QqXYRwHYDHBgwXWl8eKZKiESHI3Ba1kWs3fKixcaJUl1YyeBm7Ocq+yLItUiVBGnXxenSHJolIKEcwHq6ikbOX1YGVzQCTN8LPmSLreghUl9sN4Uw7yajMrLC0TZ1ImzqY6FEop0+pIaEN5HaoOxVuwEqFyc4I46uSlzOLqgxlh6UaR9l3VYWl9Fdoxb1Q90KJtu41pwwFW/WHhTtW8i7TafLCqRsk6bsGw63L9qurXRmuIlbT9lDQnlXU+nBFW1Q2qnZbDprWa2tjR90LZFqx1/+Td/HpGWLlrLDvIwTcx6dQ1Vrntbig68cDms3JwbA5Y1azs1ger6sNV/bbIw1jU81MvNAGrl58RVn8ozW+btF08iGFoAlYvP3csfVur1gJBEIA1uBmue5dhZDOyO2epbmgCVi8/I6x0MMHH9pjsTfBhNzQBq5uPZoQlB0uH3DZG4EZqQ26fL3sZq5uf09Ih6qw3i/pm6BZO0qZX7rrUS68Xsbr5ZE4rePMk08pk9aUZugfqppvs6AM1Acvlo/StP+6EbW06z8hJqxbYp2BZPQUnFsLsKuhQdaHqn5ewbF7KXIn0jWO5MqOQ7RaNLPtbNMmmhimj0GUmYLl8Gs0Lq4wyPbTu1l2QKqHSouzs3OlDIslW5SQsnY/NXmFplyNvEuuLV/Tau9BzwiraDUSwXmysztYWWNtL1psXeumgIrDGaqXvBfUuvtqUYI3V2t1wk1e2msFluJJm6zDJXv/fIfjPP7DAAgsssCiwwAILLLDAosACCyywwAKLAgsssMACC6zt9fDz/v75tyOB+98PD2+ORgKffjw4OP1uJPDxl+Xy8v1I4MPF3t7VNyOB4/vF4uzdzrG+39f1kz/w66Guv/yBvw90KX/gZKkr8Qf+2dOV+gNHC12/7RxrabD2/a31bLAO/a11YbAO/K21MFhLf2s9Gqw9f2vdGqzFu11jnVusE2/gxmI9eQOnFuvYG7i0WH7uK4t15w2cWazrXWP9a7H8f/bQYvm/6IPF+sF/pVssf19Ii/WH/0K2WH/uGuvEWC39gSdj9Twy+Rqri5EZx1gt/IE7Y/XoD1wbq9vd3w1PlufnD2OBp+ebm/uxwPHF6emnscDR4vLy41jg7vHq6sNY4Pr27OyYdRaLUrDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssL6u+k+AAQCR9eHtLKvLfwAAAABJRU5ErkJggg==" /><br />这一套下来竟然只要200块，显得花400买全新TPLink的自己好像是个傻子，洋垃圾万岁！于是我又用卖掉<code>TL-NT521</code>换的钱添加了一张垃圾SSD，作为阵列的L2 ARC使用，目前来看整体命中率还是挺高的。<br /><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAAEsCAMAAABOo35HAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9UExURVlZWdPT07KysmRkZIWFhfT09JmZmWZmZm9vb39/fxkZGUxMTDMzM3p6epCQkKamppubm729venp6cjIyN7e3tbW1s/Pz8LCwnx8fLS0tFZWVoiIiI+Pj6GhoeTk5Glpabu7u93d3evr66CgoJSUlKqqqsnJyeDg4Hd3d8PDw+Xl5bi4uNHR0dvb26Ojo6urq+fn51hYWDg4OCgoKHBwcK2traenp0FBQe7u7vHx8U5OTre3t8zMzHV1df///7GrnpQAAAA/dFJOU///////////////////////////////////////////////////////////////////////////////////AI4mfBcAAAUGSURBVHja7NoJb6M4GMZxY0NCD64kve/pMZ2d3Z297+X7f6zFNmBAMUXa6URl/q9UJSWPUPzrizFWRUlNLgEBWGCBBRZYYEEAFlhggQUWWBCABRZYYIEFFgRggQUWWGCBBQFYYIEFFlhgQQAWWGCBBRZYEIAFFlhggQUWBGCBBRZYYIEFAVhggQUWWGBBABZYYIEFFlgQgAUWWGCBBRYEYIEFFlhggQUBWGCBBRZYYEEAFlhggQUWWBCABRZYYIEFFgRggQUWWGCBBQFYYIEFFlhgQQAWWGCBBRZYEIAFFlhggQUWBGCBBRZYn6cCIcRXgvX/h9qcIVBqDdbEM8RCxGCB9QqXYRwHYDHBgwXWl8eKZKiESHI3Ba1kWs3fKixcaJUl1YyeBm7Ocq+yLItUiVBGnXxenSHJolIKEcwHq6ikbOX1YGVzQCTN8LPmSLreghUl9sN4Uw7yajMrLC0TZ1ImzqY6FEop0+pIaEN5HaoOxVuwEqFyc4I46uSlzOLqgxlh6UaR9l3VYWl9Fdoxb1Q90KJtu41pwwFW/WHhTtW8i7TafLCqRsk6bsGw63L9qurXRmuIlbT9lDQnlXU+nBFW1Q2qnZbDprWa2tjR90LZFqx1/+Td/HpGWLlrLDvIwTcx6dQ1Vrntbig68cDms3JwbA5Y1azs1ger6sNV/bbIw1jU81MvNAGrl58RVn8ozW+btF08iGFoAlYvP3csfVur1gJBEIA1uBmue5dhZDOyO2epbmgCVi8/I6x0MMHH9pjsTfBhNzQBq5uPZoQlB0uH3DZG4EZqQ26fL3sZq5uf09Ih6qw3i/pm6BZO0qZX7rrUS68Xsbr5ZE4rePMk08pk9aUZugfqppvs6AM1Acvlo/StP+6EbW06z8hJqxbYp2BZPQUnFsLsKuhQdaHqn5ewbF7KXIn0jWO5MqOQ7RaNLPtbNMmmhimj0GUmYLl8Gs0Lq4wyPbTu1l2QKqHSouzs3OlDIslW5SQsnY/NXmFplyNvEuuLV/Tau9BzwiraDUSwXmysztYWWNtL1psXeumgIrDGaqXvBfUuvtqUYI3V2t1wk1e2msFluJJm6zDJXv/fIfjPP7DAAgsssCiwwAILLLDAosACCyywwAKLAgsssMACC6zt9fDz/v75tyOB+98PD2+ORgKffjw4OP1uJPDxl+Xy8v1I4MPF3t7VNyOB4/vF4uzdzrG+39f1kz/w66Guv/yBvw90KX/gZKkr8Qf+2dOV+gNHC12/7RxrabD2/a31bLAO/a11YbAO/K21MFhLf2s9Gqw9f2vdGqzFu11jnVusE2/gxmI9eQOnFuvYG7i0WH7uK4t15w2cWazrXWP9a7H8f/bQYvm/6IPF+sF/pVssf19Ii/WH/0K2WH/uGuvEWC39gSdj9Twy+Rqri5EZx1gt/IE7Y/XoD1wbq9vd3w1PlufnD2OBp+ebm/uxwPHF6emnscDR4vLy41jg7vHq6sNY4Pr27OyYdRaLUrDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssL6u+k+AAQCR9eHtLKvLfwAAAABJRU5ErkJggg==" /><br />剩下那个槽位因为我本身内存不足，因此再添置缓存也没有多大意义，或许以后可以考虑插一个M2转SATA的卡，加点硬盘。</p><p>では、諸君は。</p>]]></content>
-        
-        <summary type="html">
-            
-            距离上一篇文章其实已经过了有一阵子了，本来预计是想要很快写出第二篇的，但是由于各种各样的原因就一直拖了下去。嗯，没错，我其实是在测试NAS的稳定性，一定不是太懒的原因。截止到今天（2022-12-4），NAS已经连续运行53天了，在之前因为更新系统等原因不可避免重启了一两次，一
-            
-        </summary>
-        
-        <category term="电子文玩"/>
-        
-        <category term="消费电子"/>
-        
-        <category term="NAS"/>
-        
-    </entry>
-    
-    <entry>
         <title>ThinkPad X1 Carbon Gen 9 簡單體驗</title>
         <link href="https://asaba.sakuragawa.moe/2022/11/thinkpad-x1-carbon-gen-9-%e7%b0%a1%e5%96%ae%e9%ab%94%e9%a9%97/?pk_campaign=feed&amp;pk_kwd=thinkpad-x1-carbon-gen-9-%25e7%25b0%25a1%25e5%2596%25ae%25e9%25ab%2594%25e9%25a9%2597"/>
         <id>https://asaba.sakuragawa.moe/2022/11/thinkpad-x1-carbon-gen-9-%e7%b0%a1%e5%96%ae%e9%ab%94%e9%a9%97/?pk_campaign=feed&amp;pk_kwd=thinkpad-x1-carbon-gen-9-%25e7%25b0%25a1%25e5%2596%25ae%25e9%25ab%2594%25e9%25a9%2597</id>
@@ -295,13 +587,7 @@ fredliang/derper:latest
 
 
 
-<p>這一代 ThinkPad X1 Carbon 有 1.13kg 重，比起前兩代略爲重，但比起 Gen 6 來說基本是一致的。這比起 LG Gram 來說當然還有一定距離，但浅羽也可以舉出一個反面例子：搭配鍵盤式聰穎雙面夾的 12.9 吋 iPad Pro（實測重量爲 624g + 413g ≈ 1.3kg）。</p>
-
-
-
-<blockquote>
-<p></p>
-</blockquote>
+<p>這一代 ThinkPad X1 Carbon 有 1.13kg 重，比起前兩代略爲重，但比起 Gen 6 來說基本是一致的。這比起 LG Gram 來說當然還有一定距離，但浅羽也可以舉出一個反面例子：搭配智慧型摺套連鍵盤（Smart Keyboard Folio）的 12.9 吋 iPad Pro（實測重量爲 624g + 413g ≈ 1.3kg）。</p>
 
 
 
@@ -313,7 +599,7 @@ fredliang/derper:latest
 
 
 
-<p>開機做一些設定，發現 <strong>UEFI 新增了圖形界面</strong>，也支援滑鼠操作；但是浅羽不喜歡，好在還可以換回 Simple Text 模式。鍵盤方面，<strong>按鍵高度方面是有肉眼可見的降低</strong>，但是神奇的是沒有感受到明顯的鍵程變化，<strong>打鍵感維持了相對一致</strong>。Think Point 沒有變化。<strong>觸控板變得更寬了</strong>，連帶着觸控板的左右按鍵也變得更長了。不過這一代的<strong>觸控板在 Windows 下竟然無法靠內建驅動驅動</strong>，而沒有驅動程式的狀況下完全不能使用！如果不是熟練使用各種小紅小藍小白點的老用家，恐怕要頭痛了。倒是 Fedora 下無需額外設定可以直接使用。<strong>指紋辨識整合到了電源鍵上</strong>，同時電源燈號也充當了指紋辨識的提示燈號，同時擁有白、綠、黃三種顏色。指紋辨識的靈敏度比較一般，浅羽基本上都需要嘗試兩三次才能成功辨識。</p>
+<p>開機做一些設定，發現 <strong>UEFI 新增了圖形介面</strong>，也支援滑鼠操作；但是浅羽不喜歡，好在還可以換回 Simple Text 模式。鍵盤方面，<strong>按鍵高度方面是有肉眼可見的降低</strong>，但是神奇的是沒有感受到明顯的鍵程變化，<strong>打鍵感維持了相對一致</strong>。Think Point 沒有變化。<strong>觸控板變得更寬了</strong>，連帶着觸控板的左右按鍵也變得更長了。不過這一代的<strong>觸控板在 Windows 下竟然無法靠內建驅動程式驅動</strong>，而沒有驅動程式的狀況下完全不能使用！如果不是熟練使用各種小紅小藍小白點的老用家，恐怕要頭痛了。倒是 Fedora 下無需額外設定可以直接使用。<strong>指紋辨識整合到了電源鍵上</strong>，同時電源燈號也充當了指紋辨識的提示燈號，同時擁有白、綠、黃三種顏色。指紋辨識的靈敏度比較一般，浅羽基本上都需要嘗試兩三次才能成功辨識。</p>
 
 
 
@@ -388,13 +674,13 @@ fredliang/derper:latest
 <img src="https://analytics.sakuragawa.moe/piwik.php?idsite=2&amp;rec=1&amp;url=https%3A%2F%2Fasaba.sakuragawa.moe%2F2022%2F11%2Fthinkpad-x1-carbon-gen-9-%25e7%25b0%25a1%25e5%2596%25ae%25e9%25ab%2594%25e9%25a9%2597%2F%3Fpk_campaign%3Dfeed%26pk_kwd%3Dthinkpad-x1-carbon-gen-9-%2525e7%2525b0%2525a1%2525e5%252596%2525ae%2525e9%2525ab%252594%2525e9%2525a9%252597&amp;action_name=ThinkPad+X1+Carbon+Gen+9+%E7%B0%A1%E5%96%AE%E9%AB%94%E9%A9%97&amp;urlref=https%3A%2F%2Fasaba.sakuragawa.moe%2Ffeed%2F" /><div>
     <div>
     <a data-post-id="2930" data-trigger-type="like" data-restriction="cookie" data-already-liked="0">
-                           <i></i>
-                    </a>
+                        <i></i>
+                </a>
     <span>2    </span>
 </div><div>
     <a data-post-id="2930" data-trigger-type="dislike" data-restriction="cookie" data-already-liked="0">
-                           <i></i>
-                    </a>
+                        <i></i>
+                </a>
     <span></span>
 </div></div>]]></content>
         
@@ -896,13 +1182,13 @@ opkg install uugamebooster luci-app-uugamebooster luci-i18n-uugamebooster-zh-cn<
 <img src="https://analytics.sakuragawa.moe/piwik.php?idsite=2&amp;rec=1&amp;url=https%3A%2F%2Fasaba.sakuragawa.moe%2F2022%2F08%2F%25e5%259c%25a8-proxmox-ve-%25e4%25b8%258a%25e4%25bd%25bf%25e7%2594%25a8-lxc-%25e5%25bb%25ba%25e7%25bd%25ae-uu-%25e5%258a%25a0%25e9%2580%259f%25e5%2599%25a8%2F%3Fpk_campaign%3Dfeed%26pk_kwd%3D%2525e5%25259c%2525a8-proxmox-ve-%2525e4%2525b8%25258a%2525e4%2525bd%2525bf%2525e7%252594%2525a8-lxc-%2525e5%2525bb%2525ba%2525e7%2525bd%2525ae-uu-%2525e5%25258a%2525a0%2525e9%252580%25259f%2525e5%252599%2525a8&amp;action_name=%E5%9C%A8+Proxmox+VE+%E4%B8%8A%E4%BD%BF%E7%94%A8+LXC+%E5%BB%BA%E7%BD%AE+UU+%E5%8A%A0%E9%80%9F%E5%99%A8&amp;urlref=https%3A%2F%2Fasaba.sakuragawa.moe%2Ffeed%2F" /><div>
     <div>
     <a data-post-id="2763" data-trigger-type="like" data-restriction="cookie" data-already-liked="0">
-                           <i></i>
-                    </a>
+                        <i></i>
+                </a>
     <span>    </span>
 </div><div>
     <a data-post-id="2763" data-trigger-type="dislike" data-restriction="cookie" data-already-liked="0">
-                           <i></i>
-                    </a>
+                        <i></i>
+                </a>
     <span></span>
 </div></div>]]></content>
         
@@ -943,34 +1229,6 @@ opkg install uugamebooster luci-app-uugamebooster luci-i18n-uugamebooster-zh-cn<
             null
             
         </summary>
-        
-    </entry>
-    
-    <entry>
-        <title>从零开始搭建NAS——硬件选购与装机</title>
-        <link href="https://blog.gaojianli.me/2022/08/20/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E6%90%AD%E5%BB%BANAS%E2%80%94%E2%80%94%E7%A1%AC%E4%BB%B6%E9%80%89%E8%B4%AD%E4%B8%8E%E8%A3%85%E6%9C%BA/"/>
-        <id>https://blog.gaojianli.me/2022/08/20/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E6%90%AD%E5%BB%BANAS%E2%80%94%E2%80%94%E7%A1%AC%E4%BB%B6%E9%80%89%E8%B4%AD%E4%B8%8E%E8%A3%85%E6%9C%BA/</id>
-        
-        <author>
-            <name>高渐离</name>
-        </author>
-        
-        <published>2022-12-04T13:34:45+00:00</published>
-        <updated>2022-12-04T13:34:45+00:00</updated>
-        
-        <content type="html"><![CDATA[<h1><a href="https://blog.gaojianli.me/2022/08/20/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E6%90%AD%E5%BB%BANAS%E2%80%94%E2%80%94%E7%A1%AC%E4%BB%B6%E9%80%89%E8%B4%AD%E4%B8%8E%E8%A3%85%E6%9C%BA/#起因"></a>起因</h1><p>今年7月对于老二次元来说，是一个不寻常的夏天。除了酷热的高温之外，还有不断重复着延期——被举报——再延期的循环的漫展。在赛博二次元中，也有一个大事情：B站今年7月购买番剧数量是0！这标志着持续多年的番剧正版化运动正式回到原点，众多B站大会员喜提年度大怨种称号。那么，对于赛博时代的好青年，应该怎么看番呢？</p><a></a><p>我个人回退到了RSS+BT的原始方案。在<a href="https://acg.rip/" target="_blank">ACG.RIP</a>上订阅想看的番剧，然后使用qbittorrent自动下载，完成之后再使用tgbot给我发个消息：<br /><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAAEsCAMAAABOo35HAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9UExURVlZWdPT07KysmRkZIWFhfT09JmZmWZmZm9vb39/fxkZGUxMTDMzM3p6epCQkKamppubm729venp6cjIyN7e3tbW1s/Pz8LCwnx8fLS0tFZWVoiIiI+Pj6GhoeTk5Glpabu7u93d3evr66CgoJSUlKqqqsnJyeDg4Hd3d8PDw+Xl5bi4uNHR0dvb26Ojo6urq+fn51hYWDg4OCgoKHBwcK2traenp0FBQe7u7vHx8U5OTre3t8zMzHV1df///7GrnpQAAAA/dFJOU///////////////////////////////////////////////////////////////////////////////////AI4mfBcAAAUGSURBVHja7NoJb6M4GMZxY0NCD64kve/pMZ2d3Z297+X7f6zFNmBAMUXa6URl/q9UJSWPUPzrizFWRUlNLgEBWGCBBRZYYEEAFlhggQUWWBCABRZYYIEFFgRggQUWWGCBBQFYYIEFFlhgQQAWWGCBBRZYEIAFFlhggQUWBGCBBRZYYIEFAVhggQUWWGBBABZYYIEFFlgQgAUWWGCBBRYEYIEFFlhggQUBWGCBBRZYYEEAFlhggQUWWBCABRZYYIEFFgRggQUWWGCBBQFYYIEFFlhgQQAWWGCBBRZYEIAFFlhggQUWBGCBBRZYn6cCIcRXgvX/h9qcIVBqDdbEM8RCxGCB9QqXYRwHYDHBgwXWl8eKZKiESHI3Ba1kWs3fKixcaJUl1YyeBm7Ocq+yLItUiVBGnXxenSHJolIKEcwHq6ikbOX1YGVzQCTN8LPmSLreghUl9sN4Uw7yajMrLC0TZ1ImzqY6FEop0+pIaEN5HaoOxVuwEqFyc4I46uSlzOLqgxlh6UaR9l3VYWl9Fdoxb1Q90KJtu41pwwFW/WHhTtW8i7TafLCqRsk6bsGw63L9qurXRmuIlbT9lDQnlXU+nBFW1Q2qnZbDprWa2tjR90LZFqx1/+Td/HpGWLlrLDvIwTcx6dQ1Vrntbig68cDms3JwbA5Y1azs1ger6sNV/bbIw1jU81MvNAGrl58RVn8ozW+btF08iGFoAlYvP3csfVur1gJBEIA1uBmue5dhZDOyO2epbmgCVi8/I6x0MMHH9pjsTfBhNzQBq5uPZoQlB0uH3DZG4EZqQ26fL3sZq5uf09Ih6qw3i/pm6BZO0qZX7rrUS68Xsbr5ZE4rePMk08pk9aUZugfqppvs6AM1Acvlo/StP+6EbW06z8hJqxbYp2BZPQUnFsLsKuhQdaHqn5ewbF7KXIn0jWO5MqOQ7RaNLPtbNMmmhimj0GUmYLl8Gs0Lq4wyPbTu1l2QKqHSouzs3OlDIslW5SQsnY/NXmFplyNvEuuLV/Tau9BzwiraDUSwXmysztYWWNtL1psXeumgIrDGaqXvBfUuvtqUYI3V2t1wk1e2msFluJJm6zDJXv/fIfjPP7DAAgsssCiwwAILLLDAosACCyywwAKLAgsssMACC6zt9fDz/v75tyOB+98PD2+ORgKffjw4OP1uJPDxl+Xy8v1I4MPF3t7VNyOB4/vF4uzdzrG+39f1kz/w66Guv/yBvw90KX/gZKkr8Qf+2dOV+gNHC12/7RxrabD2/a31bLAO/a11YbAO/K21MFhLf2s9Gqw9f2vdGqzFu11jnVusE2/gxmI9eQOnFuvYG7i0WH7uK4t15w2cWazrXWP9a7H8f/bQYvm/6IPF+sF/pVssf19Ii/WH/0K2WH/uGuvEWC39gSdj9Twy+Rqri5EZx1gt/IE7Y/XoD1wbq9vd3w1PlufnD2OBp+ebm/uxwPHF6emnscDR4vLy41jg7vHq6sNY4Pr27OyYdRaLUrDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssL6u+k+AAQCR9eHtLKvLfwAAAABJRU5ErkJggg==" /></p><p>我之前的设备其实是一个赛扬3867U的一体机盒子，装了Archlinux，里面上了一块2.5英寸的笔记本硬盘，连NAS都算不上。然而就这么小个身躯里面却承载着FreeRadius、qbittorrent、jellyfin等多种服务，考虑到单盘的现状和笔记本硬盘的可靠性，实在是有一些灵。但是它工作，而且工作得非常好，十天半个月不关机毫无问题，每次关机都是我主动滚系统导致的。但是随着各种小姐姐，番剧的累积，我的下载盒子空间逐渐变得捉襟见肘：<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAAEsCAMAAABOo35HAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9UExURVlZWdPT07KysmRkZIWFhfT09JmZmWZmZm9vb39/fxkZGUxMTDMzM3p6epCQkKamppubm729venp6cjIyN7e3tbW1s/Pz8LCwnx8fLS0tFZWVoiIiI+Pj6GhoeTk5Glpabu7u93d3evr66CgoJSUlKqqqsnJyeDg4Hd3d8PDw+Xl5bi4uNHR0dvb26Ojo6urq+fn51hYWDg4OCgoKHBwcK2traenp0FBQe7u7vHx8U5OTre3t8zMzHV1df///7GrnpQAAAA/dFJOU///////////////////////////////////////////////////////////////////////////////////AI4mfBcAAAUGSURBVHja7NoJb6M4GMZxY0NCD64kve/pMZ2d3Z297+X7f6zFNmBAMUXa6URl/q9UJSWPUPzrizFWRUlNLgEBWGCBBRZYYEEAFlhggQUWWBCABRZYYIEFFgRggQUWWGCBBQFYYIEFFlhgQQAWWGCBBRZYEIAFFlhggQUWBGCBBRZYYIEFAVhggQUWWGBBABZYYIEFFlgQgAUWWGCBBRYEYIEFFlhggQUBWGCBBRZYYEEAFlhggQUWWBCABRZYYIEFFgRggQUWWGCBBQFYYIEFFlhgQQAWWGCBBRZYEIAFFlhggQUWBGCBBRZYn6cCIcRXgvX/h9qcIVBqDdbEM8RCxGCB9QqXYRwHYDHBgwXWl8eKZKiESHI3Ba1kWs3fKixcaJUl1YyeBm7Ocq+yLItUiVBGnXxenSHJolIKEcwHq6ikbOX1YGVzQCTN8LPmSLreghUl9sN4Uw7yajMrLC0TZ1ImzqY6FEop0+pIaEN5HaoOxVuwEqFyc4I46uSlzOLqgxlh6UaR9l3VYWl9Fdoxb1Q90KJtu41pwwFW/WHhTtW8i7TafLCqRsk6bsGw63L9qurXRmuIlbT9lDQnlXU+nBFW1Q2qnZbDprWa2tjR90LZFqx1/+Td/HpGWLlrLDvIwTcx6dQ1Vrntbig68cDms3JwbA5Y1azs1ger6sNV/bbIw1jU81MvNAGrl58RVn8ozW+btF08iGFoAlYvP3csfVur1gJBEIA1uBmue5dhZDOyO2epbmgCVi8/I6x0MMHH9pjsTfBhNzQBq5uPZoQlB0uH3DZG4EZqQ26fL3sZq5uf09Ih6qw3i/pm6BZO0qZX7rrUS68Xsbr5ZE4rePMk08pk9aUZugfqppvs6AM1Acvlo/StP+6EbW06z8hJqxbYp2BZPQUnFsLsKuhQdaHqn5ewbF7KXIn0jWO5MqOQ7RaNLPtbNMmmhimj0GUmYLl8Gs0Lq4wyPbTu1l2QKqHSouzs3OlDIslW5SQsnY/NXmFplyNvEuuLV/Tau9BzwiraDUSwXmysztYWWNtL1psXeumgIrDGaqXvBfUuvtqUYI3V2t1wk1e2msFluJJm6zDJXv/fIfjPP7DAAgsssCiwwAILLLDAosACCyywwAKLAgsssMACC6zt9fDz/v75tyOB+98PD2+ORgKffjw4OP1uJPDxl+Xy8v1I4MPF3t7VNyOB4/vF4uzdzrG+39f1kz/w66Guv/yBvw90KX/gZKkr8Qf+2dOV+gNHC12/7RxrabD2/a31bLAO/a11YbAO/K21MFhLf2s9Gqw9f2vdGqzFu11jnVusE2/gxmI9eQOnFuvYG7i0WH7uK4t15w2cWazrXWP9a7H8f/bQYvm/6IPF+sF/pVssf19Ii/WH/0K2WH/uGuvEWC39gSdj9Twy+Rqri5EZx1gt/IE7Y/XoD1wbq9vd3w1PlufnD2OBp+ebm/uxwPHF6emnscDR4vLy41jg7vHq6sNY4Pr27OyYdRaLUrDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssL6u+k+AAQCR9eHtLKvLfwAAAABJRU5ErkJggg==" />)这个问题就很难通过软件进行优化了。这个时候我又恰好好看到了AZ的<a href="https://www.bilibili.com/video/BV1Ja411Y7ZB" target="_blank">视频</a>，考虑到Insta恐怖的素材体积（1天录满128G），在仔细地咨询了一下经验之后，遂决定自己也搞一个。</p><h2><a href="https://blog.gaojianli.me/2022/08/20/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E6%90%AD%E5%BB%BANAS%E2%80%94%E2%80%94%E7%A1%AC%E4%BB%B6%E9%80%89%E8%B4%AD%E4%B8%8E%E8%A3%85%E6%9C%BA/#为什么不考虑群晖"></a>为什么不考虑群晖</h2><p>一个字，贵！这个价格就配一个赛扬（ARM），真心不值得。</p><h1><a href="https://blog.gaojianli.me/2022/08/20/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E6%90%AD%E5%BB%BANAS%E2%80%94%E2%80%94%E7%A1%AC%E4%BB%B6%E9%80%89%E8%B4%AD%E4%B8%8E%E8%A3%85%E6%9C%BA/#需求"></a>需求</h1><p>首先列了一下我的需求：</p><ol><li>体积不能太大，不能超过MATX</li><li>需要上RAID，因此盘位至少需要4块</li><li>我想体验一下ZFS</li><li>直接上NAS系统，不想折腾从零开始安装软件了</li><li>我要安装Jellyfin，因此要能解码4k<br />首先关于3，网上一直有一个说法是ZFS必须使用ECC内存，否则有可能会<a href="https://jrs-s.net/2015/02/03/will-zfs-and-non-ecc-ram-kill-your-data/" target="_blank">丢失所有数据</a>，稍微咨询了一下群友也得到了肯定的结论：<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAAEsCAMAAABOo35HAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9UExURVlZWdPT07KysmRkZIWFhfT09JmZmWZmZm9vb39/fxkZGUxMTDMzM3p6epCQkKamppubm729venp6cjIyN7e3tbW1s/Pz8LCwnx8fLS0tFZWVoiIiI+Pj6GhoeTk5Glpabu7u93d3evr66CgoJSUlKqqqsnJyeDg4Hd3d8PDw+Xl5bi4uNHR0dvb26Ojo6urq+fn51hYWDg4OCgoKHBwcK2traenp0FBQe7u7vHx8U5OTre3t8zMzHV1df///7GrnpQAAAA/dFJOU///////////////////////////////////////////////////////////////////////////////////AI4mfBcAAAUGSURBVHja7NoJb6M4GMZxY0NCD64kve/pMZ2d3Z297+X7f6zFNmBAMUXa6URl/q9UJSWPUPzrizFWRUlNLgEBWGCBBRZYYEEAFlhggQUWWBCABRZYYIEFFgRggQUWWGCBBQFYYIEFFlhgQQAWWGCBBRZYEIAFFlhggQUWBGCBBRZYYIEFAVhggQUWWGBBABZYYIEFFlgQgAUWWGCBBRYEYIEFFlhggQUBWGCBBRZYYEEAFlhggQUWWBCABRZYYIEFFgRggQUWWGCBBQFYYIEFFlhgQQAWWGCBBRZYEIAFFlhggQUWBGCBBRZYn6cCIcRXgvX/h9qcIVBqDdbEM8RCxGCB9QqXYRwHYDHBgwXWl8eKZKiESHI3Ba1kWs3fKixcaJUl1YyeBm7Ocq+yLItUiVBGnXxenSHJolIKEcwHq6ikbOX1YGVzQCTN8LPmSLreghUl9sN4Uw7yajMrLC0TZ1ImzqY6FEop0+pIaEN5HaoOxVuwEqFyc4I46uSlzOLqgxlh6UaR9l3VYWl9Fdoxb1Q90KJtu41pwwFW/WHhTtW8i7TafLCqRsk6bsGw63L9qurXRmuIlbT9lDQnlXU+nBFW1Q2qnZbDprWa2tjR90LZFqx1/+Td/HpGWLlrLDvIwTcx6dQ1Vrntbig68cDms3JwbA5Y1azs1ger6sNV/bbIw1jU81MvNAGrl58RVn8ozW+btF08iGFoAlYvP3csfVur1gJBEIA1uBmue5dhZDOyO2epbmgCVi8/I6x0MMHH9pjsTfBhNzQBq5uPZoQlB0uH3DZG4EZqQ26fL3sZq5uf09Ih6qw3i/pm6BZO0qZX7rrUS68Xsbr5ZE4rePMk08pk9aUZugfqppvs6AM1Acvlo/StP+6EbW06z8hJqxbYp2BZPQUnFsLsKuhQdaHqn5ewbF7KXIn0jWO5MqOQ7RaNLPtbNMmmhimj0GUmYLl8Gs0Lq4wyPbTu1l2QKqHSouzs3OlDIslW5SQsnY/NXmFplyNvEuuLV/Tau9BzwiraDUSwXmysztYWWNtL1psXeumgIrDGaqXvBfUuvtqUYI3V2t1wk1e2msFluJJm6zDJXv/fIfjPP7DAAgsssCiwwAILLLDAosACCyywwAKLAgsssMACC6zt9fDz/v75tyOB+98PD2+ORgKffjw4OP1uJPDxl+Xy8v1I4MPF3t7VNyOB4/vF4uzdzrG+39f1kz/w66Guv/yBvw90KX/gZKkr8Qf+2dOV+gNHC12/7RxrabD2/a31bLAO/a11YbAO/K21MFhLf2s9Gqw9f2vdGqzFu11jnVusE2/gxmI9eQOnFuvYG7i0WH7uK4t15w2cWazrXWP9a7H8f/bQYvm/6IPF+sF/pVssf19Ii/WH/0K2WH/uGuvEWC39gSdj9Twy+Rqri5EZx1gt/IE7Y/XoD1wbq9vd3w1PlufnD2OBp+ebm/uxwPHF6emnscDR4vLy41jg7vHq6sNY4Pr27OyYdRaLUrDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssL6u+k+AAQCR9eHtLKvLfwAAAABJRU5ErkJggg==" />，那么就必须把ECC纳入考虑之中了。</li></ol><h1><a href="https://blog.gaojianli.me/2022/08/20/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E6%90%AD%E5%BB%BANAS%E2%80%94%E2%80%94%E7%A1%AC%E4%BB%B6%E9%80%89%E8%B4%AD%E4%B8%8E%E8%A3%85%E6%9C%BA/#选择"></a>选择</h1><h2><a href="https://blog.gaojianli.me/2022/08/20/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E6%90%AD%E5%BB%BANAS%E2%80%94%E2%80%94%E7%A1%AC%E4%BB%B6%E9%80%89%E8%B4%AD%E4%B8%8E%E8%A3%85%E6%9C%BA/#机箱选择"></a>机箱选择</h2><p>4盘位的机箱其实可选项并没有很多，AZ建议我看看银欣，万由的机箱，或者干脆星际蜗牛。乔思伯N1由于太长，直接出局；星际蜗牛虽然符合我的需求，但是太丑，而且据说风扇噪音很大；最后我相中了万由410，尺寸<code>263*195*197</code>，支持使用flex电源，风扇据说也比较安静。走闲鱼400块钱拿下来，比较划算。<br />值得一提的是万由410使用了一个巨傻逼的类肤涂层前面板，时间一长就特别黏，堪称吸灰神器。幸好龙哥(<a href="https://www.makiras.work/" target="_blank">Makiras</a>，包院士门徒，未来的中国半导体扛把子)愿意免费帮我改一下颜色，于是我便下单了一大堆喷漆和机箱直接邮给了他。</p><h2><a href="https://blog.gaojianli.me/2022/08/20/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E6%90%AD%E5%BB%BANAS%E2%80%94%E2%80%94%E7%A1%AC%E4%BB%B6%E9%80%89%E8%B4%AD%E4%B8%8E%E8%A3%85%E6%9C%BA/#硬件配置"></a>硬件配置</h2><p>搞定了机箱，接下来就是其他硬件了。由于要使用ECC，因此其实选择相当有限。在艰难的两天挑选过程中，我几乎翻遍了全网所有的相关文章，最终确定了两种方案：</p><h3><a href="https://blog.gaojianli.me/2022/08/20/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E6%90%AD%E5%BB%BANAS%E2%80%94%E2%80%94%E7%A1%AC%E4%BB%B6%E9%80%89%E8%B4%AD%E4%B8%8E%E8%A3%85%E6%9C%BA/#Intel"></a>Intel</h3><p>在随意的翻找Intel Ark的过程中，我无意中发现12代Intel全系支持ECC，尤其是大小核心的设计，对于NAS这种负载来说非常合适。粗略地翻找之后，我便看上了<a href="https://www.intel.cn/content/www/cn/zh/products/sku/132224/intel-core-i312100te-processor-12m-cache-up-to-4-00-ghz/specifications.html" target="_blank">i3-12100TE</a>这一CPU：4核8线程的设计，ECC内存的支持，35W的TDP，UDH730的核芯显卡都堪称完美。<br />但是，Intel CPU对于ECC的支持问题从来不是在CPU上，而是在主板。民用级别的芯片组，无论是H610还是Z690<em>均</em>不支持ECC，要想用ECC？对不起，请去使用W680芯片组。对于NAS这种尺寸，使用W680芯片组的主板不说绝对没有，也不超过2块。幸好华擎始终是爱世人的，这种奇葩规格的板子还真让我<a href="https://baijiahao.baidu.com/s?id=1727195949244610641&amp;wfr=spider&amp;for=pc" target="_blank">找到一块</a>。<br />仔细一看不得不说，这个板子是真的奇葩：首先上哪儿去找SO-DIMM的ECC内存就是个大坑，其次只有两个SATA接口，要想拓展只能使用宝贵的PCIE插槽。不过这些都是小问题，真正的致命问题是：<strong>买！不！到！</strong><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAAEsCAMAAABOo35HAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9UExURVlZWdPT07KysmRkZIWFhfT09JmZmWZmZm9vb39/fxkZGUxMTDMzM3p6epCQkKamppubm729venp6cjIyN7e3tbW1s/Pz8LCwnx8fLS0tFZWVoiIiI+Pj6GhoeTk5Glpabu7u93d3evr66CgoJSUlKqqqsnJyeDg4Hd3d8PDw+Xl5bi4uNHR0dvb26Ojo6urq+fn51hYWDg4OCgoKHBwcK2traenp0FBQe7u7vHx8U5OTre3t8zMzHV1df///7GrnpQAAAA/dFJOU///////////////////////////////////////////////////////////////////////////////////AI4mfBcAAAUGSURBVHja7NoJb6M4GMZxY0NCD64kve/pMZ2d3Z297+X7f6zFNmBAMUXa6URl/q9UJSWPUPzrizFWRUlNLgEBWGCBBRZYYEEAFlhggQUWWBCABRZYYIEFFgRggQUWWGCBBQFYYIEFFlhgQQAWWGCBBRZYEIAFFlhggQUWBGCBBRZYYIEFAVhggQUWWGBBABZYYIEFFlgQgAUWWGCBBRYEYIEFFlhggQUBWGCBBRZYYEEAFlhggQUWWBCABRZYYIEFFgRggQUWWGCBBQFYYIEFFlhgQQAWWGCBBRZYEIAFFlhggQUWBGCBBRZYn6cCIcRXgvX/h9qcIVBqDdbEM8RCxGCB9QqXYRwHYDHBgwXWl8eKZKiESHI3Ba1kWs3fKixcaJUl1YyeBm7Ocq+yLItUiVBGnXxenSHJolIKEcwHq6ikbOX1YGVzQCTN8LPmSLreghUl9sN4Uw7yajMrLC0TZ1ImzqY6FEop0+pIaEN5HaoOxVuwEqFyc4I46uSlzOLqgxlh6UaR9l3VYWl9Fdoxb1Q90KJtu41pwwFW/WHhTtW8i7TafLCqRsk6bsGw63L9qurXRmuIlbT9lDQnlXU+nBFW1Q2qnZbDprWa2tjR90LZFqx1/+Td/HpGWLlrLDvIwTcx6dQ1Vrntbig68cDms3JwbA5Y1azs1ger6sNV/bbIw1jU81MvNAGrl58RVn8ozW+btF08iGFoAlYvP3csfVur1gJBEIA1uBmue5dhZDOyO2epbmgCVi8/I6x0MMHH9pjsTfBhNzQBq5uPZoQlB0uH3DZG4EZqQ26fL3sZq5uf09Ih6qw3i/pm6BZO0qZX7rrUS68Xsbr5ZE4rePMk08pk9aUZugfqppvs6AM1Acvlo/StP+6EbW06z8hJqxbYp2BZPQUnFsLsKuhQdaHqn5ewbF7KXIn0jWO5MqOQ7RaNLPtbNMmmhimj0GUmYLl8Gs0Lq4wyPbTu1l2QKqHSouzs3OlDIslW5SQsnY/NXmFplyNvEuuLV/Tau9BzwiraDUSwXmysztYWWNtL1psXeumgIrDGaqXvBfUuvtqUYI3V2t1wk1e2msFluJJm6zDJXv/fIfjPP7DAAgsssCiwwAILLLDAosACCyywwAKLAgsssMACC6zt9fDz/v75tyOB+98PD2+ORgKffjw4OP1uJPDxl+Xy8v1I4MPF3t7VNyOB4/vF4uzdzrG+39f1kz/w66Guv/yBvw90KX/gZKkr8Qf+2dOV+gNHC12/7RxrabD2/a31bLAO/a11YbAO/K21MFhLf2s9Gqw9f2vdGqzFu11jnVusE2/gxmI9eQOnFuvYG7i0WH7uK4t15w2cWazrXWP9a7H8f/bQYvm/6IPF+sF/pVssf19Ii/WH/0K2WH/uGuvEWC39gSdj9Twy+Rqri5EZx1gt/IE7Y/XoD1wbq9vd3w1PlufnD2OBp+ebm/uxwPHF6emnscDR4vLy41jg7vHq6sNY4Pr27OyYdRaLUrDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssL6u+k+AAQCR9eHtLKvLfwAAAABJRU5ErkJggg==" /></p><p>我翻遍了国内外购物网站包括亚马逊都没找到哪里能买到这块主板。不管你的板子多么牛逼，如果是空气板那一切都是零。既然12代Intel的主板买不到，就只能退而求其次了。Intel的i3系列似乎一直都有那么几个子型号支持ECC，在一通搜索之后我最终确定了<code>i3-10100T+W470</code>的方案，整体配置单如下：</p><table><thead><tr><th>配件名称</th><th>型号</th><th>单价</th><th>数量</th><th>合计</th></tr></thead><tbody><tr><td>CPU</td><td>i3-10100T</td><td>745</td><td>1</td><td>745</td></tr><tr><td>主板</td><td>超微X12SCV W480E</td><td>2550</td><td>1</td><td>2550</td></tr><tr><td>内存</td><td>三星 16GB DDR4 2666 SO-DIMM ECC</td><td>450</td><td>2</td><td>900</td></tr><tr><td>电源</td><td>海韵SSP-250SUB</td><td>355</td><td>1</td><td>355</td></tr><tr><td>机箱</td><td>万由410（闲鱼）</td><td>450</td><td>1</td><td>450</td></tr><tr><td>合计</td><td></td><td></td><td></td><td>5000</td></tr></tbody></table><p>我觉得不管怎么说这个配置单也是相当荒谬的，这个主板也太TM贵了，这还没算上硬盘的钱就超过5000了。这个CPU在这个板子上真就吕布骑狗。</p><h3><a href="https://blog.gaojianli.me/2022/08/20/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E6%90%AD%E5%BB%BANAS%E2%80%94%E2%80%94%E7%A1%AC%E4%BB%B6%E9%80%89%E8%B4%AD%E4%B8%8E%E8%A3%85%E6%9C%BA/#AMD"></a>AMD</h3><p>Intel不成，就只能来看看AMD了。首先好消息是AMD全系支持ECC，普通消费级主板也能支持ECC内存的使用；坏消息是由于我拥有核显的需求，因此只能考虑APU，而<strong>Ryzen APU必须是Pro版本才支持ECC</strong>。不过这个不是什么大问题，Pro的APU也没有特别昂贵。在挑选的过程中，我很大程度上参考了<a href="https://zhuanlan.zhihu.com/p/467669331" target="_blank">这篇文章</a>，在这里表示感谢。AMD方案的整体配置单如下：</p><table><thead><tr><th>配件名称</th><th>型号</th><th>单价</th><th>数量</th><th>合计</th></tr></thead><tbody><tr><td>CPU</td><td>Ryzen R3 Pro 4350G 闲鱼</td><td>648</td><td>1</td><td>648</td></tr><tr><td>主板</td><td>华擎 B450 gaming-itx 闲鱼</td><td>568</td><td>1</td><td>568</td></tr><tr><td>内存</td><td>三星 16GB DDR4 ECC</td><td>440</td><td>2</td><td>800</td></tr><tr><td>电源</td><td>海韵SSP-250SUB</td><td>355</td><td>1</td><td>355</td></tr><tr><td>网卡</td><td>TP-Link TL-NT521</td><td>409</td><td>1</td><td>409</td></tr><tr><td>机箱</td><td>万由410（闲鱼）</td><td>450</td><td>1</td><td>650</td></tr><tr><td>合计</td><td></td><td></td><td></td><td>3310</td></tr></tbody></table><p>这个价格就友好许多了，于是最终决定采用这个方案。当然由于实际操作中没有买到<code>4350G</code>，最后800块钱收了一个<code>R5 Pro 4400GE</code>，升级到6核12线程；TDP还降到了35W，还算不错。</p><h1><a href="https://blog.gaojianli.me/2022/08/20/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E6%90%AD%E5%BB%BANAS%E2%80%94%E2%80%94%E7%A1%AC%E4%BB%B6%E9%80%89%E8%B4%AD%E4%B8%8E%E8%A3%85%E6%9C%BA/#组装"></a>组装</h1><p>上周一，龙哥告诉我机箱的涂装已经完成，我下单的其他配件也陆陆续续开始发货。最终周四的时候所有配件到齐了，动手开始！</p><h2><a href="https://blog.gaojianli.me/2022/08/20/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E6%90%AD%E5%BB%BANAS%E2%80%94%E2%80%94%E7%A1%AC%E4%BB%B6%E9%80%89%E8%B4%AD%E4%B8%8E%E8%A3%85%E6%9C%BA/#插曲"></a>插曲</h2><p>然而其实在开始之前就遇到了一个非常傻逼的问题，这个机箱打不开！我卸下四颗螺丝之后不管我怎么操作这个机箱就是纹丝不动，在网上查找了一大堆教程之后终于找到了一个打开的方法：<a href="https://b23.tv/3DfWywA" target="_blank">https://b23.tv/3DfWywA</a> (请看4分55秒)。<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAAEsCAMAAABOo35HAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9UExURVlZWdPT07KysmRkZIWFhfT09JmZmWZmZm9vb39/fxkZGUxMTDMzM3p6epCQkKamppubm729venp6cjIyN7e3tbW1s/Pz8LCwnx8fLS0tFZWVoiIiI+Pj6GhoeTk5Glpabu7u93d3evr66CgoJSUlKqqqsnJyeDg4Hd3d8PDw+Xl5bi4uNHR0dvb26Ojo6urq+fn51hYWDg4OCgoKHBwcK2traenp0FBQe7u7vHx8U5OTre3t8zMzHV1df///7GrnpQAAAA/dFJOU///////////////////////////////////////////////////////////////////////////////////AI4mfBcAAAUGSURBVHja7NoJb6M4GMZxY0NCD64kve/pMZ2d3Z297+X7f6zFNmBAMUXa6URl/q9UJSWPUPzrizFWRUlNLgEBWGCBBRZYYEEAFlhggQUWWBCABRZYYIEFFgRggQUWWGCBBQFYYIEFFlhgQQAWWGCBBRZYEIAFFlhggQUWBGCBBRZYYIEFAVhggQUWWGBBABZYYIEFFlgQgAUWWGCBBRYEYIEFFlhggQUBWGCBBRZYYEEAFlhggQUWWBCABRZYYIEFFgRggQUWWGCBBQFYYIEFFlhgQQAWWGCBBRZYEIAFFlhggQUWBGCBBRZYn6cCIcRXgvX/h9qcIVBqDdbEM8RCxGCB9QqXYRwHYDHBgwXWl8eKZKiESHI3Ba1kWs3fKixcaJUl1YyeBm7Ocq+yLItUiVBGnXxenSHJolIKEcwHq6ikbOX1YGVzQCTN8LPmSLreghUl9sN4Uw7yajMrLC0TZ1ImzqY6FEop0+pIaEN5HaoOxVuwEqFyc4I46uSlzOLqgxlh6UaR9l3VYWl9Fdoxb1Q90KJtu41pwwFW/WHhTtW8i7TafLCqRsk6bsGw63L9qurXRmuIlbT9lDQnlXU+nBFW1Q2qnZbDprWa2tjR90LZFqx1/+Td/HpGWLlrLDvIwTcx6dQ1Vrntbig68cDms3JwbA5Y1azs1ger6sNV/bbIw1jU81MvNAGrl58RVn8ozW+btF08iGFoAlYvP3csfVur1gJBEIA1uBmue5dhZDOyO2epbmgCVi8/I6x0MMHH9pjsTfBhNzQBq5uPZoQlB0uH3DZG4EZqQ26fL3sZq5uf09Ih6qw3i/pm6BZO0qZX7rrUS68Xsbr5ZE4rePMk08pk9aUZugfqppvs6AM1Acvlo/StP+6EbW06z8hJqxbYp2BZPQUnFsLsKuhQdaHqn5ewbF7KXIn0jWO5MqOQ7RaNLPtbNMmmhimj0GUmYLl8Gs0Lq4wyPbTu1l2QKqHSouzs3OlDIslW5SQsnY/NXmFplyNvEuuLV/Tau9BzwiraDUSwXmysztYWWNtL1psXeumgIrDGaqXvBfUuvtqUYI3V2t1wk1e2msFluJJm6zDJXv/fIfjPP7DAAgsssCiwwAILLLDAosACCyywwAKLAgsssMACC6zt9fDz/v75tyOB+98PD2+ORgKffjw4OP1uJPDxl+Xy8v1I4MPF3t7VNyOB4/vF4uzdzrG+39f1kz/w66Guv/yBvw90KX/gZKkr8Qf+2dOV+gNHC12/7RxrabD2/a31bLAO/a11YbAO/K21MFhLf2s9Gqw9f2vdGqzFu11jnVusE2/gxmI9eQOnFuvYG7i0WH7uK4t15w2cWazrXWP9a7H8f/bQYvm/6IPF+sF/pVssf19Ii/WH/0K2WH/uGuvEWC39gSdj9Twy+Rqri5EZx1gt/IE7Y/XoD1wbq9vd3w1PlufnD2OBp+ebm/uxwPHF6emnscDR4vLy41jg7vHq6sNY4Pr27OyYdRaLUrDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssL6u+k+AAQCR9eHtLKvLfwAAAABJRU5ErkJggg==" /></p><h2><a href="https://blog.gaojianli.me/2022/08/20/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E6%90%AD%E5%BB%BANAS%E2%80%94%E2%80%94%E7%A1%AC%E4%BB%B6%E9%80%89%E8%B4%AD%E4%B8%8E%E8%A3%85%E6%9C%BA/#组装-1"></a>组装</h2><p>总之最后在一通操作之后，虽然成功化身手肿治虫，还是打开了这个机箱。<br />先来看看CPU，毫无疑问这个CPU肯定是二手的，上面还有一些油渍。不过CPU这种东西反正也不会坏，也没人会用这东西来挖矿，应该问题不大。<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAAEsCAMAAABOo35HAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9UExURVlZWdPT07KysmRkZIWFhfT09JmZmWZmZm9vb39/fxkZGUxMTDMzM3p6epCQkKamppubm729venp6cjIyN7e3tbW1s/Pz8LCwnx8fLS0tFZWVoiIiI+Pj6GhoeTk5Glpabu7u93d3evr66CgoJSUlKqqqsnJyeDg4Hd3d8PDw+Xl5bi4uNHR0dvb26Ojo6urq+fn51hYWDg4OCgoKHBwcK2traenp0FBQe7u7vHx8U5OTre3t8zMzHV1df///7GrnpQAAAA/dFJOU///////////////////////////////////////////////////////////////////////////////////AI4mfBcAAAUGSURBVHja7NoJb6M4GMZxY0NCD64kve/pMZ2d3Z297+X7f6zFNmBAMUXa6URl/q9UJSWPUPzrizFWRUlNLgEBWGCBBRZYYEEAFlhggQUWWBCABRZYYIEFFgRggQUWWGCBBQFYYIEFFlhgQQAWWGCBBRZYEIAFFlhggQUWBGCBBRZYYIEFAVhggQUWWGBBABZYYIEFFlgQgAUWWGCBBRYEYIEFFlhggQUBWGCBBRZYYEEAFlhggQUWWBCABRZYYIEFFgRggQUWWGCBBQFYYIEFFlhgQQAWWGCBBRZYEIAFFlhggQUWBGCBBRZYn6cCIcRXgvX/h9qcIVBqDdbEM8RCxGCB9QqXYRwHYDHBgwXWl8eKZKiESHI3Ba1kWs3fKixcaJUl1YyeBm7Ocq+yLItUiVBGnXxenSHJolIKEcwHq6ikbOX1YGVzQCTN8LPmSLreghUl9sN4Uw7yajMrLC0TZ1ImzqY6FEop0+pIaEN5HaoOxVuwEqFyc4I46uSlzOLqgxlh6UaR9l3VYWl9Fdoxb1Q90KJtu41pwwFW/WHhTtW8i7TafLCqRsk6bsGw63L9qurXRmuIlbT9lDQnlXU+nBFW1Q2qnZbDprWa2tjR90LZFqx1/+Td/HpGWLlrLDvIwTcx6dQ1Vrntbig68cDms3JwbA5Y1azs1ger6sNV/bbIw1jU81MvNAGrl58RVn8ozW+btF08iGFoAlYvP3csfVur1gJBEIA1uBmue5dhZDOyO2epbmgCVi8/I6x0MMHH9pjsTfBhNzQBq5uPZoQlB0uH3DZG4EZqQ26fL3sZq5uf09Ih6qw3i/pm6BZO0qZX7rrUS68Xsbr5ZE4rePMk08pk9aUZugfqppvs6AM1Acvlo/StP+6EbW06z8hJqxbYp2BZPQUnFsLsKuhQdaHqn5ewbF7KXIn0jWO5MqOQ7RaNLPtbNMmmhimj0GUmYLl8Gs0Lq4wyPbTu1l2QKqHSouzs3OlDIslW5SQsnY/NXmFplyNvEuuLV/Tau9BzwiraDUSwXmysztYWWNtL1psXeumgIrDGaqXvBfUuvtqUYI3V2t1wk1e2msFluJJm6zDJXv/fIfjPP7DAAgsssCiwwAILLLDAosACCyywwAKLAgsssMACC6zt9fDz/v75tyOB+98PD2+ORgKffjw4OP1uJPDxl+Xy8v1I4MPF3t7VNyOB4/vF4uzdzrG+39f1kz/w66Guv/yBvw90KX/gZKkr8Qf+2dOV+gNHC12/7RxrabD2/a31bLAO/a11YbAO/K21MFhLf2s9Gqw9f2vdGqzFu11jnVusE2/gxmI9eQOnFuvYG7i0WH7uK4t15w2cWazrXWP9a7H8f/bQYvm/6IPF+sF/pVssf19Ii/WH/0K2WH/uGuvEWC39gSdj9Twy+Rqri5EZx1gt/IE7Y/XoD1wbq9vd3w1PlufnD2OBp+ebm/uxwPHF6emnscDR4vLy41jg7vHq6sNY4Pr27OyYdRaLUrDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssL6u+k+AAQCR9eHtLKvLfwAAAABJRU5ErkJggg==" /></p><p>接下来是主板，其实这是我第一次见到华擎的主板，不得不说体积是真的小。另外这里有个教训，就是购买这种二手主板前一定要叫卖家刷好BIOS，不然点不亮就悲剧了。<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAAEsCAMAAABOo35HAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9UExURVlZWdPT07KysmRkZIWFhfT09JmZmWZmZm9vb39/fxkZGUxMTDMzM3p6epCQkKamppubm729venp6cjIyN7e3tbW1s/Pz8LCwnx8fLS0tFZWVoiIiI+Pj6GhoeTk5Glpabu7u93d3evr66CgoJSUlKqqqsnJyeDg4Hd3d8PDw+Xl5bi4uNHR0dvb26Ojo6urq+fn51hYWDg4OCgoKHBwcK2traenp0FBQe7u7vHx8U5OTre3t8zMzHV1df///7GrnpQAAAA/dFJOU///////////////////////////////////////////////////////////////////////////////////AI4mfBcAAAUGSURBVHja7NoJb6M4GMZxY0NCD64kve/pMZ2d3Z297+X7f6zFNmBAMUXa6URl/q9UJSWPUPzrizFWRUlNLgEBWGCBBRZYYEEAFlhggQUWWBCABRZYYIEFFgRggQUWWGCBBQFYYIEFFlhgQQAWWGCBBRZYEIAFFlhggQUWBGCBBRZYYIEFAVhggQUWWGBBABZYYIEFFlgQgAUWWGCBBRYEYIEFFlhggQUBWGCBBRZYYEEAFlhggQUWWBCABRZYYIEFFgRggQUWWGCBBQFYYIEFFlhgQQAWWGCBBRZYEIAFFlhggQUWBGCBBRZYn6cCIcRXgvX/h9qcIVBqDdbEM8RCxGCB9QqXYRwHYDHBgwXWl8eKZKiESHI3Ba1kWs3fKixcaJUl1YyeBm7Ocq+yLItUiVBGnXxenSHJolIKEcwHq6ikbOX1YGVzQCTN8LPmSLreghUl9sN4Uw7yajMrLC0TZ1ImzqY6FEop0+pIaEN5HaoOxVuwEqFyc4I46uSlzOLqgxlh6UaR9l3VYWl9Fdoxb1Q90KJtu41pwwFW/WHhTtW8i7TafLCqRsk6bsGw63L9qurXRmuIlbT9lDQnlXU+nBFW1Q2qnZbDprWa2tjR90LZFqx1/+Td/HpGWLlrLDvIwTcx6dQ1Vrntbig68cDms3JwbA5Y1azs1ger6sNV/bbIw1jU81MvNAGrl58RVn8ozW+btF08iGFoAlYvP3csfVur1gJBEIA1uBmue5dhZDOyO2epbmgCVi8/I6x0MMHH9pjsTfBhNzQBq5uPZoQlB0uH3DZG4EZqQ26fL3sZq5uf09Ih6qw3i/pm6BZO0qZX7rrUS68Xsbr5ZE4rePMk08pk9aUZugfqppvs6AM1Acvlo/StP+6EbW06z8hJqxbYp2BZPQUnFsLsKuhQdaHqn5ewbF7KXIn0jWO5MqOQ7RaNLPtbNMmmhimj0GUmYLl8Gs0Lq4wyPbTu1l2QKqHSouzs3OlDIslW5SQsnY/NXmFplyNvEuuLV/Tau9BzwiraDUSwXmysztYWWNtL1psXeumgIrDGaqXvBfUuvtqUYI3V2t1wk1e2msFluJJm6zDJXv/fIfjPP7DAAgsssCiwwAILLLDAosACCyywwAKLAgsssMACC6zt9fDz/v75tyOB+98PD2+ORgKffjw4OP1uJPDxl+Xy8v1I4MPF3t7VNyOB4/vF4uzdzrG+39f1kz/w66Guv/yBvw90KX/gZKkr8Qf+2dOV+gNHC12/7RxrabD2/a31bLAO/a11YbAO/K21MFhLf2s9Gqw9f2vdGqzFu11jnVusE2/gxmI9eQOnFuvYG7i0WH7uK4t15w2cWazrXWP9a7H8f/bQYvm/6IPF+sF/pVssf19Ii/WH/0K2WH/uGuvEWC39gSdj9Twy+Rqri5EZx1gt/IE7Y/XoD1wbq9vd3w1PlufnD2OBp+ebm/uxwPHF6emnscDR4vLy41jg7vHq6sNY4Pr27OyYdRaLUrDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssL6u+k+AAQCR9eHtLKvLfwAAAABJRU5ErkJggg==" /></p><p>接下来略过一些残酷的ITX装机过程，让我们快进到结束吧！<br /><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAAEsCAMAAABOo35HAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9UExURVlZWdPT07KysmRkZIWFhfT09JmZmWZmZm9vb39/fxkZGUxMTDMzM3p6epCQkKamppubm729venp6cjIyN7e3tbW1s/Pz8LCwnx8fLS0tFZWVoiIiI+Pj6GhoeTk5Glpabu7u93d3evr66CgoJSUlKqqqsnJyeDg4Hd3d8PDw+Xl5bi4uNHR0dvb26Ojo6urq+fn51hYWDg4OCgoKHBwcK2traenp0FBQe7u7vHx8U5OTre3t8zMzHV1df///7GrnpQAAAA/dFJOU///////////////////////////////////////////////////////////////////////////////////AI4mfBcAAAUGSURBVHja7NoJb6M4GMZxY0NCD64kve/pMZ2d3Z297+X7f6zFNmBAMUXa6URl/q9UJSWPUPzrizFWRUlNLgEBWGCBBRZYYEEAFlhggQUWWBCABRZYYIEFFgRggQUWWGCBBQFYYIEFFlhgQQAWWGCBBRZYEIAFFlhggQUWBGCBBRZYYIEFAVhggQUWWGBBABZYYIEFFlgQgAUWWGCBBRYEYIEFFlhggQUBWGCBBRZYYEEAFlhggQUWWBCABRZYYIEFFgRggQUWWGCBBQFYYIEFFlhgQQAWWGCBBRZYEIAFFlhggQUWBGCBBRZYn6cCIcRXgvX/h9qcIVBqDdbEM8RCxGCB9QqXYRwHYDHBgwXWl8eKZKiESHI3Ba1kWs3fKixcaJUl1YyeBm7Ocq+yLItUiVBGnXxenSHJolIKEcwHq6ikbOX1YGVzQCTN8LPmSLreghUl9sN4Uw7yajMrLC0TZ1ImzqY6FEop0+pIaEN5HaoOxVuwEqFyc4I46uSlzOLqgxlh6UaR9l3VYWl9Fdoxb1Q90KJtu41pwwFW/WHhTtW8i7TafLCqRsk6bsGw63L9qurXRmuIlbT9lDQnlXU+nBFW1Q2qnZbDprWa2tjR90LZFqx1/+Td/HpGWLlrLDvIwTcx6dQ1Vrntbig68cDms3JwbA5Y1azs1ger6sNV/bbIw1jU81MvNAGrl58RVn8ozW+btF08iGFoAlYvP3csfVur1gJBEIA1uBmue5dhZDOyO2epbmgCVi8/I6x0MMHH9pjsTfBhNzQBq5uPZoQlB0uH3DZG4EZqQ26fL3sZq5uf09Ih6qw3i/pm6BZO0qZX7rrUS68Xsbr5ZE4rePMk08pk9aUZugfqppvs6AM1Acvlo/StP+6EbW06z8hJqxbYp2BZPQUnFsLsKuhQdaHqn5ewbF7KXIn0jWO5MqOQ7RaNLPtbNMmmhimj0GUmYLl8Gs0Lq4wyPbTu1l2QKqHSouzs3OlDIslW5SQsnY/NXmFplyNvEuuLV/Tau9BzwiraDUSwXmysztYWWNtL1psXeumgIrDGaqXvBfUuvtqUYI3V2t1wk1e2msFluJJm6zDJXv/fIfjPP7DAAgsssCiwwAILLLDAosACCyywwAKLAgsssMACC6zt9fDz/v75tyOB+98PD2+ORgKffjw4OP1uJPDxl+Xy8v1I4MPF3t7VNyOB4/vF4uzdzrG+39f1kz/w66Guv/yBvw90KX/gZKkr8Qf+2dOV+gNHC12/7RxrabD2/a31bLAO/a11YbAO/K21MFhLf2s9Gqw9f2vdGqzFu11jnVusE2/gxmI9eQOnFuvYG7i0WH7uK4t15w2cWazrXWP9a7H8f/bQYvm/6IPF+sF/pVssf19Ii/WH/0K2WH/uGuvEWC39gSdj9Twy+Rqri5EZx1gt/IE7Y/XoD1wbq9vd3w1PlufnD2OBp+ebm/uxwPHF6emnscDR4vLy41jg7vHq6sNY4Pr27OyYdRaLUrDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssL6u+k+AAQCR9eHtLKvLfwAAAABJRU5ErkJggg==" /><br />可以看到装好之后还是相当紧凑的。</p><h2><a href="https://blog.gaojianli.me/2022/08/20/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E6%90%AD%E5%BB%BANAS%E2%80%94%E2%80%94%E7%A1%AC%E4%BB%B6%E9%80%89%E8%B4%AD%E4%B8%8E%E8%A3%85%E6%9C%BA/#硬盘"></a>硬盘</h2><p>关于NAS的硬盘选购，公说公有理，婆说婆有理，我在这里就不多做评价了。不过大家对比故障率之后得出的一致结论是：别买希捷。</p><p>其他不管是HC550还是HC530都是不错的硬盘，但是HC550的噪音恶名昭著，在听信一个知乎回答说东芝更加安静之后，我最终选择了4块东芝的<code>MG08ACA16TE</code>，容量为16TB。</p><h2><a href="https://blog.gaojianli.me/2022/08/20/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E6%90%AD%E5%BB%BANAS%E2%80%94%E2%80%94%E7%A1%AC%E4%BB%B6%E9%80%89%E8%B4%AD%E4%B8%8E%E8%A3%85%E6%9C%BA/#关于系统"></a>关于系统</h2><p>因为想直接使用一个简单的成品系统，同时又不想使用国产灵车群晖，我便选择了大名鼎鼎的FreeNAS（现已改名TrueNAS）。安装系统非常快速，操作界面也十分清晰，三下五除二搞定了RAIDZ的配置，再把NAS的万兆网口和PC连接起来，基本就算大功告成了。<br />（主板识别有问题，识别成了4650GE）<br /><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAAEsCAMAAABOo35HAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9UExURVlZWdPT07KysmRkZIWFhfT09JmZmWZmZm9vb39/fxkZGUxMTDMzM3p6epCQkKamppubm729venp6cjIyN7e3tbW1s/Pz8LCwnx8fLS0tFZWVoiIiI+Pj6GhoeTk5Glpabu7u93d3evr66CgoJSUlKqqqsnJyeDg4Hd3d8PDw+Xl5bi4uNHR0dvb26Ojo6urq+fn51hYWDg4OCgoKHBwcK2traenp0FBQe7u7vHx8U5OTre3t8zMzHV1df///7GrnpQAAAA/dFJOU///////////////////////////////////////////////////////////////////////////////////AI4mfBcAAAUGSURBVHja7NoJb6M4GMZxY0NCD64kve/pMZ2d3Z297+X7f6zFNmBAMUXa6URl/q9UJSWPUPzrizFWRUlNLgEBWGCBBRZYYEEAFlhggQUWWBCABRZYYIEFFgRggQUWWGCBBQFYYIEFFlhgQQAWWGCBBRZYEIAFFlhggQUWBGCBBRZYYIEFAVhggQUWWGBBABZYYIEFFlgQgAUWWGCBBRYEYIEFFlhggQUBWGCBBRZYYEEAFlhggQUWWBCABRZYYIEFFgRggQUWWGCBBQFYYIEFFlhgQQAWWGCBBRZYEIAFFlhggQUWBGCBBRZYn6cCIcRXgvX/h9qcIVBqDdbEM8RCxGCB9QqXYRwHYDHBgwXWl8eKZKiESHI3Ba1kWs3fKixcaJUl1YyeBm7Ocq+yLItUiVBGnXxenSHJolIKEcwHq6ikbOX1YGVzQCTN8LPmSLreghUl9sN4Uw7yajMrLC0TZ1ImzqY6FEop0+pIaEN5HaoOxVuwEqFyc4I46uSlzOLqgxlh6UaR9l3VYWl9Fdoxb1Q90KJtu41pwwFW/WHhTtW8i7TafLCqRsk6bsGw63L9qurXRmuIlbT9lDQnlXU+nBFW1Q2qnZbDprWa2tjR90LZFqx1/+Td/HpGWLlrLDvIwTcx6dQ1Vrntbig68cDms3JwbA5Y1azs1ger6sNV/bbIw1jU81MvNAGrl58RVn8ozW+btF08iGFoAlYvP3csfVur1gJBEIA1uBmue5dhZDOyO2epbmgCVi8/I6x0MMHH9pjsTfBhNzQBq5uPZoQlB0uH3DZG4EZqQ26fL3sZq5uf09Ih6qw3i/pm6BZO0qZX7rrUS68Xsbr5ZE4rePMk08pk9aUZugfqppvs6AM1Acvlo/StP+6EbW06z8hJqxbYp2BZPQUnFsLsKuhQdaHqn5ewbF7KXIn0jWO5MqOQ7RaNLPtbNMmmhimj0GUmYLl8Gs0Lq4wyPbTu1l2QKqHSouzs3OlDIslW5SQsnY/NXmFplyNvEuuLV/Tau9BzwiraDUSwXmysztYWWNtL1psXeumgIrDGaqXvBfUuvtqUYI3V2t1wk1e2msFluJJm6zDJXv/fIfjPP7DAAgsssCiwwAILLLDAosACCyywwAKLAgsssMACC6zt9fDz/v75tyOB+98PD2+ORgKffjw4OP1uJPDxl+Xy8v1I4MPF3t7VNyOB4/vF4uzdzrG+39f1kz/w66Guv/yBvw90KX/gZKkr8Qf+2dOV+gNHC12/7RxrabD2/a31bLAO/a11YbAO/K21MFhLf2s9Gqw9f2vdGqzFu11jnVusE2/gxmI9eQOnFuvYG7i0WH7uK4t15w2cWazrXWP9a7H8f/bQYvm/6IPF+sF/pVssf19Ii/WH/0K2WH/uGuvEWC39gSdj9Twy+Rqri5EZx1gt/IE7Y/XoD1wbq9vd3w1PlufnD2OBp+ebm/uxwPHF6emnscDR4vLy41jg7vHq6sNY4Pr27OyYdRaLUrDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssL6u+k+AAQCR9eHtLKvLfwAAAABJRU5ErkJggg==" /><br /><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAAEsCAMAAABOo35HAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9UExURVlZWdPT07KysmRkZIWFhfT09JmZmWZmZm9vb39/fxkZGUxMTDMzM3p6epCQkKamppubm729venp6cjIyN7e3tbW1s/Pz8LCwnx8fLS0tFZWVoiIiI+Pj6GhoeTk5Glpabu7u93d3evr66CgoJSUlKqqqsnJyeDg4Hd3d8PDw+Xl5bi4uNHR0dvb26Ojo6urq+fn51hYWDg4OCgoKHBwcK2traenp0FBQe7u7vHx8U5OTre3t8zMzHV1df///7GrnpQAAAA/dFJOU///////////////////////////////////////////////////////////////////////////////////AI4mfBcAAAUGSURBVHja7NoJb6M4GMZxY0NCD64kve/pMZ2d3Z297+X7f6zFNmBAMUXa6URl/q9UJSWPUPzrizFWRUlNLgEBWGCBBRZYYEEAFlhggQUWWBCABRZYYIEFFgRggQUWWGCBBQFYYIEFFlhgQQAWWGCBBRZYEIAFFlhggQUWBGCBBRZYYIEFAVhggQUWWGBBABZYYIEFFlgQgAUWWGCBBRYEYIEFFlhggQUBWGCBBRZYYEEAFlhggQUWWBCABRZYYIEFFgRggQUWWGCBBQFYYIEFFlhgQQAWWGCBBRZYEIAFFlhggQUWBGCBBRZYn6cCIcRXgvX/h9qcIVBqDdbEM8RCxGCB9QqXYRwHYDHBgwXWl8eKZKiESHI3Ba1kWs3fKixcaJUl1YyeBm7Ocq+yLItUiVBGnXxenSHJolIKEcwHq6ikbOX1YGVzQCTN8LPmSLreghUl9sN4Uw7yajMrLC0TZ1ImzqY6FEop0+pIaEN5HaoOxVuwEqFyc4I46uSlzOLqgxlh6UaR9l3VYWl9Fdoxb1Q90KJtu41pwwFW/WHhTtW8i7TafLCqRsk6bsGw63L9qurXRmuIlbT9lDQnlXU+nBFW1Q2qnZbDprWa2tjR90LZFqx1/+Td/HpGWLlrLDvIwTcx6dQ1Vrntbig68cDms3JwbA5Y1azs1ger6sNV/bbIw1jU81MvNAGrl58RVn8ozW+btF08iGFoAlYvP3csfVur1gJBEIA1uBmue5dhZDOyO2epbmgCVi8/I6x0MMHH9pjsTfBhNzQBq5uPZoQlB0uH3DZG4EZqQ26fL3sZq5uf09Ih6qw3i/pm6BZO0qZX7rrUS68Xsbr5ZE4rePMk08pk9aUZugfqppvs6AM1Acvlo/StP+6EbW06z8hJqxbYp2BZPQUnFsLsKuhQdaHqn5ewbF7KXIn0jWO5MqOQ7RaNLPtbNMmmhimj0GUmYLl8Gs0Lq4wyPbTu1l2QKqHSouzs3OlDIslW5SQsnY/NXmFplyNvEuuLV/Tau9BzwiraDUSwXmysztYWWNtL1psXeumgIrDGaqXvBfUuvtqUYI3V2t1wk1e2msFluJJm6zDJXv/fIfjPP7DAAgsssCiwwAILLLDAosACCyywwAKLAgsssMACC6zt9fDz/v75tyOB+98PD2+ORgKffjw4OP1uJPDxl+Xy8v1I4MPF3t7VNyOB4/vF4uzdzrG+39f1kz/w66Guv/yBvw90KX/gZKkr8Qf+2dOV+gNHC12/7RxrabD2/a31bLAO/a11YbAO/K21MFhLf2s9Gqw9f2vdGqzFu11jnVusE2/gxmI9eQOnFuvYG7i0WH7uK4t15w2cWazrXWP9a7H8f/bQYvm/6IPF+sF/pVssf19Ii/WH/0K2WH/uGuvEWC39gSdj9Twy+Rqri5EZx1gt/IE7Y/XoD1wbq9vd3w1PlufnD2OBp+ebm/uxwPHF6emnscDR4vLy41jg7vHq6sNY4Pr27OyYdRaLUrDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssL6u+k+AAQCR9eHtLKvLfwAAAABJRU5ErkJggg==" /></p><p>TrueNAS Core不同于其他常见NAS系统，其底层基于的是FreeBSD。幸好TrueNAS的UI还算完善（才怪），加上我有一些BSD的使用经验，因此使用没有遇到特别大的问题。BSD的Jail和LXC非常类似，区别只是没有Dockerfile，需要手动安装而已。不过对于NAS这种不需要大规模部署的场景，反而更加适合私人定制。花了1个下午搞定了qbittrorent和nginx的安装，再从老盒子同步完数据，NAS的安装就差不多搞一段了了。</p><h1><a href="https://blog.gaojianli.me/2022/08/20/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E6%90%AD%E5%BB%BANAS%E2%80%94%E2%80%94%E7%A1%AC%E4%BB%B6%E9%80%89%E8%B4%AD%E4%B8%8E%E8%A3%85%E6%9C%BA/#最终效果图"></a>最终效果图</h1><p>最后放一个效果图<br /><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAAEsCAMAAABOo35HAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9UExURVlZWdPT07KysmRkZIWFhfT09JmZmWZmZm9vb39/fxkZGUxMTDMzM3p6epCQkKamppubm729venp6cjIyN7e3tbW1s/Pz8LCwnx8fLS0tFZWVoiIiI+Pj6GhoeTk5Glpabu7u93d3evr66CgoJSUlKqqqsnJyeDg4Hd3d8PDw+Xl5bi4uNHR0dvb26Ojo6urq+fn51hYWDg4OCgoKHBwcK2traenp0FBQe7u7vHx8U5OTre3t8zMzHV1df///7GrnpQAAAA/dFJOU///////////////////////////////////////////////////////////////////////////////////AI4mfBcAAAUGSURBVHja7NoJb6M4GMZxY0NCD64kve/pMZ2d3Z297+X7f6zFNmBAMUXa6URl/q9UJSWPUPzrizFWRUlNLgEBWGCBBRZYYEEAFlhggQUWWBCABRZYYIEFFgRggQUWWGCBBQFYYIEFFlhgQQAWWGCBBRZYEIAFFlhggQUWBGCBBRZYYIEFAVhggQUWWGBBABZYYIEFFlgQgAUWWGCBBRYEYIEFFlhggQUBWGCBBRZYYEEAFlhggQUWWBCABRZYYIEFFgRggQUWWGCBBQFYYIEFFlhgQQAWWGCBBRZYEIAFFlhggQUWBGCBBRZYn6cCIcRXgvX/h9qcIVBqDdbEM8RCxGCB9QqXYRwHYDHBgwXWl8eKZKiESHI3Ba1kWs3fKixcaJUl1YyeBm7Ocq+yLItUiVBGnXxenSHJolIKEcwHq6ikbOX1YGVzQCTN8LPmSLreghUl9sN4Uw7yajMrLC0TZ1ImzqY6FEop0+pIaEN5HaoOxVuwEqFyc4I46uSlzOLqgxlh6UaR9l3VYWl9Fdoxb1Q90KJtu41pwwFW/WHhTtW8i7TafLCqRsk6bsGw63L9qurXRmuIlbT9lDQnlXU+nBFW1Q2qnZbDprWa2tjR90LZFqx1/+Td/HpGWLlrLDvIwTcx6dQ1Vrntbig68cDms3JwbA5Y1azs1ger6sNV/bbIw1jU81MvNAGrl58RVn8ozW+btF08iGFoAlYvP3csfVur1gJBEIA1uBmue5dhZDOyO2epbmgCVi8/I6x0MMHH9pjsTfBhNzQBq5uPZoQlB0uH3DZG4EZqQ26fL3sZq5uf09Ih6qw3i/pm6BZO0qZX7rrUS68Xsbr5ZE4rePMk08pk9aUZugfqppvs6AM1Acvlo/StP+6EbW06z8hJqxbYp2BZPQUnFsLsKuhQdaHqn5ewbF7KXIn0jWO5MqOQ7RaNLPtbNMmmhimj0GUmYLl8Gs0Lq4wyPbTu1l2QKqHSouzs3OlDIslW5SQsnY/NXmFplyNvEuuLV/Tau9BzwiraDUSwXmysztYWWNtL1psXeumgIrDGaqXvBfUuvtqUYI3V2t1wk1e2msFluJJm6zDJXv/fIfjPP7DAAgsssCiwwAILLLDAosACCyywwAKLAgsssMACC6zt9fDz/v75tyOB+98PD2+ORgKffjw4OP1uJPDxl+Xy8v1I4MPF3t7VNyOB4/vF4uzdzrG+39f1kz/w66Guv/yBvw90KX/gZKkr8Qf+2dOV+gNHC12/7RxrabD2/a31bLAO/a11YbAO/K21MFhLf2s9Gqw9f2vdGqzFu11jnVusE2/gxmI9eQOnFuvYG7i0WH7uK4t15w2cWazrXWP9a7H8f/bQYvm/6IPF+sF/pVssf19Ii/WH/0K2WH/uGuvEWC39gSdj9Twy+Rqri5EZx1gt/IE7Y/XoD1wbq9vd3w1PlufnD2OBp+ebm/uxwPHF6emnscDR4vLy41jg7vHq6sNY4Pr27OyYdRaLUrDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssL6u+k+AAQCR9eHtLKvLfwAAAABJRU5ErkJggg==" /><br />(关于硬盘提手的问题，真的不是20年前的塑料老化了！是龙哥建议的奶米黄，至于旧不旧，龙哥说不旧，是光线问题，那大家就当他是光线问题吧）<br /><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAAEsCAMAAABOo35HAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9UExURVlZWdPT07KysmRkZIWFhfT09JmZmWZmZm9vb39/fxkZGUxMTDMzM3p6epCQkKamppubm729venp6cjIyN7e3tbW1s/Pz8LCwnx8fLS0tFZWVoiIiI+Pj6GhoeTk5Glpabu7u93d3evr66CgoJSUlKqqqsnJyeDg4Hd3d8PDw+Xl5bi4uNHR0dvb26Ojo6urq+fn51hYWDg4OCgoKHBwcK2traenp0FBQe7u7vHx8U5OTre3t8zMzHV1df///7GrnpQAAAA/dFJOU///////////////////////////////////////////////////////////////////////////////////AI4mfBcAAAUGSURBVHja7NoJb6M4GMZxY0NCD64kve/pMZ2d3Z297+X7f6zFNmBAMUXa6URl/q9UJSWPUPzrizFWRUlNLgEBWGCBBRZYYEEAFlhggQUWWBCABRZYYIEFFgRggQUWWGCBBQFYYIEFFlhgQQAWWGCBBRZYEIAFFlhggQUWBGCBBRZYYIEFAVhggQUWWGBBABZYYIEFFlgQgAUWWGCBBRYEYIEFFlhggQUBWGCBBRZYYEEAFlhggQUWWBCABRZYYIEFFgRggQUWWGCBBQFYYIEFFlhgQQAWWGCBBRZYEIAFFlhggQUWBGCBBRZYn6cCIcRXgvX/h9qcIVBqDdbEM8RCxGCB9QqXYRwHYDHBgwXWl8eKZKiESHI3Ba1kWs3fKixcaJUl1YyeBm7Ocq+yLItUiVBGnXxenSHJolIKEcwHq6ikbOX1YGVzQCTN8LPmSLreghUl9sN4Uw7yajMrLC0TZ1ImzqY6FEop0+pIaEN5HaoOxVuwEqFyc4I46uSlzOLqgxlh6UaR9l3VYWl9Fdoxb1Q90KJtu41pwwFW/WHhTtW8i7TafLCqRsk6bsGw63L9qurXRmuIlbT9lDQnlXU+nBFW1Q2qnZbDprWa2tjR90LZFqx1/+Td/HpGWLlrLDvIwTcx6dQ1Vrntbig68cDms3JwbA5Y1azs1ger6sNV/bbIw1jU81MvNAGrl58RVn8ozW+btF08iGFoAlYvP3csfVur1gJBEIA1uBmue5dhZDOyO2epbmgCVi8/I6x0MMHH9pjsTfBhNzQBq5uPZoQlB0uH3DZG4EZqQ26fL3sZq5uf09Ih6qw3i/pm6BZO0qZX7rrUS68Xsbr5ZE4rePMk08pk9aUZugfqppvs6AM1Acvlo/StP+6EbW06z8hJqxbYp2BZPQUnFsLsKuhQdaHqn5ewbF7KXIn0jWO5MqOQ7RaNLPtbNMmmhimj0GUmYLl8Gs0Lq4wyPbTu1l2QKqHSouzs3OlDIslW5SQsnY/NXmFplyNvEuuLV/Tau9BzwiraDUSwXmysztYWWNtL1psXeumgIrDGaqXvBfUuvtqUYI3V2t1wk1e2msFluJJm6zDJXv/fIfjPP7DAAgsssCiwwAILLLDAosACCyywwAKLAgsssMACC6zt9fDz/v75tyOB+98PD2+ORgKffjw4OP1uJPDxl+Xy8v1I4MPF3t7VNyOB4/vF4uzdzrG+39f1kz/w66Guv/yBvw90KX/gZKkr8Qf+2dOV+gNHC12/7RxrabD2/a31bLAO/a11YbAO/K21MFhLf2s9Gqw9f2vdGqzFu11jnVusE2/gxmI9eQOnFuvYG7i0WH7uK4t15w2cWazrXWP9a7H8f/bQYvm/6IPF+sF/pVssf19Ii/WH/0K2WH/uGuvEWC39gSdj9Twy+Rqri5EZx1gt/IE7Y/XoD1wbq9vd3w1PlufnD2OBp+ebm/uxwPHF6emnscDR4vLy41jg7vHq6sNY4Pr27OyYdRaLUrDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssL6u+k+AAQCR9eHtLKvLfwAAAABJRU5ErkJggg==" /></p><p>では、諸君は。</p><h3><a href="https://blog.gaojianli.me/2022/08/20/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E6%90%AD%E5%BB%BANAS%E2%80%94%E2%80%94%E7%A1%AC%E4%BB%B6%E9%80%89%E8%B4%AD%E4%B8%8E%E8%A3%85%E6%9C%BA/#8月22日-Update："></a>8月22日 Update：</h3><p>我错了，我根本不懂FreeBSD。这傻逼系统，狗都不用，具体请看下一篇<a href="https://blog.gaojinali.me/2022/12/04/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E6%90%AD%E5%BB%BANAS%E2%80%94%E2%80%94%E5%9D%91%E7%88%B9%E7%9A%84TrueNAS/#more" target="_blank">文章</a>。</p>]]></content>
-        
-        <summary type="html">
-            
-            起因今年7月对于老二次元来说，是一个不寻常的夏天。除了酷热的高温之外，还有不断重复着延期——被举报——再延期的循环的漫展。在赛博二次元中，也有一个大事情：B站今年7月购买番剧数量是0！这标志着持续多年的番剧正版化运动正式回到原点，众多B站大会员喜提年度大怨种称号。那么，对于赛博
-            
-        </summary>
-        
-        <category term="电子文玩"/>
-        
-        <category term="消费电子"/>
-        
-        <category term="NAS"/>
         
     </entry>
     
@@ -1076,13 +1334,13 @@ opkg install uugamebooster luci-app-uugamebooster luci-i18n-uugamebooster-zh-cn<
 <img src="https://analytics.sakuragawa.moe/piwik.php?idsite=2&amp;rec=1&amp;url=https%3A%2F%2Fasaba.sakuragawa.moe%2F2022%2F07%2F%25e6%2596%25b7%25e6%258d%25a8%25e9%259b%25a2-%25e5%2586%258d%25e8%25a6%258b%25ef%25bc%258c%25e5%25a6%2582%25e6%259e%259c%25e4%25bd%25a0%25e4%25b8%258d%25e9%2582%25a3%25e9%25ba%25bc-pro%25ef%25bc%259a%25e7%25b4%2585%25e7%25b1%25b3-redmi-k40-pro-%25e4%25b8%2580%25e5%25b9%25b4%25e7%25b6%2593%25e9%25a9%2597%2F%3Fpk_campaign%3Dfeed%26pk_kwd%3D%2525e6%252596%2525b7%2525e6%25258d%2525a8%2525e9%25259b%2525a2-%2525e5%252586%25258d%2525e8%2525a6%25258b%2525ef%2525bc%25258c%2525e5%2525a6%252582%2525e6%25259e%25259c%2525e4%2525bd%2525a0%2525e4%2525b8%25258d%2525e9%252582%2525a3%2525e9%2525ba%2525bc-pro%2525ef%2525bc%25259a%2525e7%2525b4%252585%2525e7%2525b1%2525b3-redmi-k40-pro-%2525e4%2525b8%252580%2525e5%2525b9%2525b4%2525e7%2525b6%252593%2525e9%2525a9%252597&amp;action_name=%E6%96%B7%E6%8D%A8%E9%9B%A2+%7C+%E5%86%8D%E8%A6%8B%EF%BC%8C%E5%A6%82%E6%9E%9C%E4%BD%A0%E4%B8%8D%E9%82%A3%E9%BA%BC+Pro%EF%BC%9A%E7%B4%85%E7%B1%B3+Redmi+K40+Pro+%E4%B8%80%E5%B9%B4%E7%B6%93%E9%A9%97%E8%AB%87&amp;urlref=https%3A%2F%2Fasaba.sakuragawa.moe%2Ffeed%2F" /><div>
     <div>
     <a data-post-id="2711" data-trigger-type="like" data-restriction="cookie" data-already-liked="0">
-                           <i></i>
-                    </a>
+                        <i></i>
+                </a>
     <span>    </span>
 </div><div>
     <a data-post-id="2711" data-trigger-type="dislike" data-restriction="cookie" data-already-liked="0">
-                           <i></i>
-                    </a>
+                        <i></i>
+                </a>
     <span></span>
 </div></div>]]></content>
         
@@ -1246,13 +1504,13 @@ opkg install uugamebooster luci-app-uugamebooster luci-i18n-uugamebooster-zh-cn<
 <img src="https://analytics.sakuragawa.moe/piwik.php?idsite=2&amp;rec=1&amp;url=https%3A%2F%2Fasaba.sakuragawa.moe%2F2022%2F05%2F%25e5%25be%259e-dsm-6-%25e6%259b%25b4%25e6%2596%25b0%25e5%2588%25b0-dsm-7%25ef%25bc%2588ds119j-ds120j%25ef%25bc%2589%2F%3Fpk_campaign%3Dfeed%26pk_kwd%3D%2525e5%2525be%25259e-dsm-6-%2525e6%25259b%2525b4%2525e6%252596%2525b0%2525e5%252588%2525b0-dsm-7%2525ef%2525bc%252588ds119j-ds120j%2525ef%2525bc%252589&amp;action_name=%E5%BE%9E+DSM+6+%E6%9B%B4%E6%96%B0%E5%88%B0+DSM+7%EF%BC%88DS119j%2FDS120j%EF%BC%89&amp;urlref=https%3A%2F%2Fasaba.sakuragawa.moe%2Ffeed%2F" /><div>
     <div>
     <a data-post-id="2601" data-trigger-type="like" data-restriction="cookie" data-already-liked="0">
-                           <i></i>
-                    </a>
+                        <i></i>
+                </a>
     <span>    </span>
 </div><div>
     <a data-post-id="2601" data-trigger-type="dislike" data-restriction="cookie" data-already-liked="0">
-                           <i></i>
-                    </a>
+                        <i></i>
+                </a>
     <span></span>
 </div></div>]]></content>
         
@@ -1489,13 +1747,13 @@ function enqueue_parent_styles() {
 <img src="https://analytics.sakuragawa.moe/piwik.php?idsite=2&amp;rec=1&amp;url=https%3A%2F%2Fasaba.sakuragawa.moe%2F2022%2F04%2F%25e5%2582%2599%25e7%2594%25a8%25e6%25a9%259f%25ef%25bc%258c%25e9%2582%2584%25e6%2598%25af%25e7%25ac%25ac%25e4%25ba%258c%25e6%2594%25af%25e6%2589%258b%25e6%25a9%259f%25ef%25bc%259f%2F%3Fpk_campaign%3Dfeed%26pk_kwd%3D%2525e5%252582%252599%2525e7%252594%2525a8%2525e6%2525a9%25259f%2525ef%2525bc%25258c%2525e9%252582%252584%2525e6%252598%2525af%2525e7%2525ac%2525ac%2525e4%2525ba%25258c%2525e6%252594%2525af%2525e6%252589%25258b%2525e6%2525a9%25259f%2525ef%2525bc%25259f&amp;action_name=%E5%82%99%E7%94%A8%E6%A9%9F%EF%BC%8C%E9%82%84%E6%98%AF%E7%AC%AC%E4%BA%8C%E6%94%AF%E6%89%8B%E6%A9%9F%EF%BC%9F&amp;urlref=https%3A%2F%2Fasaba.sakuragawa.moe%2Ffeed%2F" /><div>
     <div>
     <a data-post-id="2574" data-trigger-type="like" data-restriction="cookie" data-already-liked="0">
-                           <i></i>
-                    </a>
+                        <i></i>
+                </a>
     <span>3    </span>
 </div><div>
     <a data-post-id="2574" data-trigger-type="dislike" data-restriction="cookie" data-already-liked="0">
-                           <i></i>
-                    </a>
+                        <i></i>
+                </a>
     <span></span>
 </div></div>]]></content>
         
@@ -2059,13 +2317,13 @@ config tinc-host B
 <img src="https://analytics.sakuragawa.moe/piwik.php?idsite=2&amp;rec=1&amp;url=https%3A%2F%2Fasaba.sakuragawa.moe%2F2021%2F12%2F%25e5%258f%2583%25e5%258a%25a0%25e8%25b3%25bc%25e7%2589%25a9%25e7%25af%2580%25e6%25b5%2585%25e7%25be%25bd%25e5%2588%25b0%25e5%25ba%2595%25e7%25b6%2593%25e6%25ad%25b7%25e4%25ba%2586%25e4%25bb%2580%25e9%25ba%25bc%2F%3Fpk_campaign%3Dfeed%26pk_kwd%3D%2525e5%25258f%252583%2525e5%25258a%2525a0%2525e8%2525b3%2525bc%2525e7%252589%2525a9%2525e7%2525af%252580%2525e6%2525b5%252585%2525e7%2525be%2525bd%2525e5%252588%2525b0%2525e5%2525ba%252595%2525e7%2525b6%252593%2525e6%2525ad%2525b7%2525e4%2525ba%252586%2525e4%2525bb%252580%2525e9%2525ba%2525bc&amp;action_name=%E5%8F%83%E5%8A%A0%E8%B3%BC%E7%89%A9%E7%AF%80%E6%B5%85%E7%BE%BD%E5%88%B0%E5%BA%95%E7%B6%93%E6%AD%B7%E4%BA%86%E4%BB%80%E9%BA%BC&amp;urlref=https%3A%2F%2Fasaba.sakuragawa.moe%2Ffeed%2F" /><div>
     <div>
     <a data-post-id="2394" data-trigger-type="like" data-restriction="cookie" data-already-liked="0">
-                           <i></i>
-                    </a>
+                        <i></i>
+                </a>
     <span>    </span>
 </div><div>
     <a data-post-id="2394" data-trigger-type="dislike" data-restriction="cookie" data-already-liked="0">
-                           <i></i>
-                    </a>
+                        <i></i>
+                </a>
     <span></span>
 </div></div>]]></content>
         
@@ -2561,13 +2819,13 @@ chmod +x ${UU_UNINST}
 <img src="https://analytics.sakuragawa.moe/piwik.php?idsite=2&amp;rec=1&amp;url=https%3A%2F%2Fasaba.sakuragawa.moe%2F2021%2F10%2F%25e5%259c%25a8-openwrt-%25e4%25b8%258a%25e6%25ad%25a3%25e7%25a2%25ba%25e9%2596%258b%25e5%2595%2593%25e7%25b6%25b2%25e6%2598%2593-uu-%25e5%258a%25a0%25e9%2580%259f%25e5%2599%25a8%2F%3Fpk_campaign%3Dfeed%26pk_kwd%3D%2525e5%25259c%2525a8-openwrt-%2525e4%2525b8%25258a%2525e6%2525ad%2525a3%2525e7%2525a2%2525ba%2525e9%252596%25258b%2525e5%252595%252593%2525e7%2525b6%2525b2%2525e6%252598%252593-uu-%2525e5%25258a%2525a0%2525e9%252580%25259f%2525e5%252599%2525a8&amp;action_name=%E5%9C%A8+OpenWRT+%E4%B8%8A%E6%AD%A3%E7%A2%BA%E9%96%8B%E5%95%93%E7%B6%B2%E6%98%93+UU+%E5%8A%A0%E9%80%9F%E5%99%A8&amp;urlref=https%3A%2F%2Fasaba.sakuragawa.moe%2Ffeed%2F" /><div>
     <div>
     <a data-post-id="2380" data-trigger-type="like" data-restriction="cookie" data-already-liked="0">
-                           <i></i>
-                    </a>
-    <span>8    </span>
+                        <i></i>
+                </a>
+    <span>10    </span>
 </div><div>
     <a data-post-id="2380" data-trigger-type="dislike" data-restriction="cookie" data-already-liked="0">
-                           <i></i>
-                    </a>
+                        <i></i>
+                </a>
     <span></span>
 </div></div>]]></content>
         
@@ -2608,90 +2866,6 @@ chmod +x ${UU_UNINST}
             在实现自己实现 docker exec 命令时，发现需要对输入流做一些特殊处理，这些处理都涉及了 stty 的一些内容
             
         </summary>
-        
-    </entry>
-    
-    <entry>
-        <title>Docker IPv6</title>
-        <link href="https://www.whosneo.com/docker-ipv6/"/>
-        <id>https://www.whosneo.com/docker-ipv6/</id>
-        
-        <author>
-            <name>Neo</name>
-        </author>
-        
-        <published>2021-10-15T14:31:23+00:00</published>
-        <updated>2021-10-15T14:31:23+00:00</updated>
-        
-        <content type="html"><![CDATA[<p>最近在支持 IPv6 的 VPS 上面部署了一些 docker 应用，需要容器内的应用访问外部的 IPv6 地址，结果并不如我所想的那样简单，docker 仍需一些配置才可以。<span></span></p>
-<h2>计算 IPv6 网段</h2>
-<p>首先确定自己服务器的 IPv6 地址、后缀的大小，划分两个或两个以上的网段。<br />
-例如服务器的 IPv6 地址的网段为 <code>fd00::/64</code>，则可以划分 <code>[fd00::/66] [fd00:0:0:4000::/66] [fd00:0:0:8000::/66] [fd00:0:0:c000::/66]</code> 四个子网，具体可以使用 <a href="http://www.gestioip.net/cgi-bin/subnet_calculator.cgi">这个页面</a> 来计算网段。</p>
-<h2>IPv6 配置</h2>
-<p>在<code>/etc/docker/daemon.json</code>文件中添加以下配置项，若文件不存在则需要新建：</p>
-<pre><code>{
-  "ipv6": true,
-  "fixed-cidr-v6": "fd00::/66"
-}
-</code></pre>
-<p>其中 IPv6 地址可以使用划分的第一个网段。<br />
-再重启 docker 服务：</p>
-<pre><code>sudo systemctl restart docker
-</code></pre>
-<h2>配置 ip6tables</h2>
-<p>若系统中启用了 firewalld 则需要先禁用：</p>
-<pre><code>sudo systemctl disable firewalld
-sudo systemctl stop firewalld
-</code></pre>
-<p>若未安装 iptables，则：</p>
-<pre><code>sudo yum install iptables-services -y
-</code></pre>
-<p>启用 iptables 与 ip6tables：</p>
-<pre><code>sudo systemctl enable --now iptables
-sudo systemctl enable --now ip6tables
-</code></pre>
-<p>添加 IPv6 转发配置：</p>
-<pre><code>sudo ip6tables -t nat -I POSTROUTING -j MASQUERADE
-sudo service ip6tables save
-</code></pre>
-<p>此时，docker 环境已配置完毕。</p>
-<h2>使 docker-compose 支持</h2>
-<p>若想使在 docker-compose.yml 文件中添加的容器支持 IPv6，则需要配置自定义网络：</p>
-<pre><code>services:
-        web:
-                container_name: busybox
-                image: busybox
-                restart: always
-                command: tail -f /dev/null
-                networks:
-                        - apps
-
-networks:
-        apps:
-                enable_ipv6: true
-                driver: bridge
-                ipam:
-                        driver: default
-                        config:
-                                - subnet: 172.16.99.0/24
-                                  gateway: 172.16.99.1
-                                - subnet: fd00:0:0:4000::/66
-                                  gateway: fd00:0:0:4000::1
-</code></pre>
-<p>其中 IPv6 地址可以使用划分的第二个网段或者第三第四个网段。<br />
-如此使用 docker-compose 创建的容器便可以使用 IPv6 了。</p>]]></content>
-        
-        <summary type="html">
-            
-            最近在支持 IPv6 的 VPS 上面部署了一些 docker 应用，需要容器内的应用访问外部的 IPv6 地址，结果并不如我所想的那样简单，docker 仍需一些配置才可以。 计算 IPv6 网段 首先确定自己服务器的 IPv6 地址、后缀的大小，划分两个或两个以上的网段。 
-            
-        </summary>
-        
-        <category term="Tips"/>
-        
-        <category term="Docker"/>
-        
-        <category term="IPv6"/>
         
     </entry>
     
@@ -2791,76 +2965,6 @@ networks:
     </entry>
     
     <entry>
-        <title>在舊版 Mac OS X (macOS) 下更新 iOS 13+</title>
-        <link href="https://asaba.sakuragawa.moe/2021/10/%e5%9c%a8%e8%88%8a%e7%89%88-mac-os-x-macos-%e4%b8%8b%e6%9b%b4%e6%96%b0-ios-13/?pk_campaign=feed&amp;pk_kwd=%25e5%259c%25a8%25e8%2588%258a%25e7%2589%2588-mac-os-x-macos-%25e4%25b8%258b%25e6%259b%25b4%25e6%2596%25b0-ios-13"/>
-        <id>https://asaba.sakuragawa.moe/2021/10/%e5%9c%a8%e8%88%8a%e7%89%88-mac-os-x-macos-%e4%b8%8b%e6%9b%b4%e6%96%b0-ios-13/?pk_campaign=feed&amp;pk_kwd=%25e5%259c%25a8%25e8%2588%258a%25e7%2589%2588-mac-os-x-macos-%25e4%25b8%258b%25e6%259b%25b4%25e6%2596%25b0-ios-13</id>
-        
-        <author>
-            <name>櫻川 浅羽</name>
-        </author>
-        
-        <published>2021-10-02T10:27:06+00:00</published>
-        <updated>2021-10-02T10:27:06+00:00</updated>
-        
-        <content type="html"><![CDATA[<h6><a href="https://markdown.apps.central.sakuragawa.cloud/NtZBhAhzRdimeXbobsqbVQ#tags-blog-draft"></a></h6>
-
-
-
-<p>iOS 12 或者更新的版本要求系統版本至少爲 OS X 10.11.4 並 iTunes 12.8.0.150；而 iOS 13 則要求使用 iTunes 12.8.2.3，同時對系統版本提出了更高的要求。</p>
-
-
-
-<p>通常情況下，更新 iOS 裝置會要求更新到最新的 macOS 及 iTunes。但實際上，只要 iTunes 滿足一個最低版本，也是一樣可以正常更新的：</p>
-
-
-
-<ol><li>解鎖裝置並使用 USB 連線到 Mac</li><li>使用 Finder 轉到 <code>/System/Library/PrivateFrameworks/MobileDevice.framework/Versions/Current/Resources</code></li><li>雙擊運行資料夾中的 <code>MobileDeviceUpdater</code></li></ol>
-
-
-
-<p>此時系統應該就會提示「需要更新軟件才可連線」。按照提示確認更新後，就可以按照一般更新的方式透過 iTunes 更新 iOS 裝置了。</p>
-
-
-
-<ul><li><img src="https://asaba.sakuragawa.moe/wp-content/uploads/2021/10/螢幕快照-2021-04-27-03.21.17.png" /></li></ul>
-
-
-
-<blockquote><p>iTunes is not recognizing my iPhone (iOS 13). I have an Early 2011 MacBook Pro and the highest version it can update to is High Sierra. So is High Sierra not compatible with iOS 13?</p><a href="https://discussions.apple.com/thread/250822411" target="_blank">Apple Communities: iOS 13 iPhone not compatible with iTunes on High Sierra?</a></blockquote>
-
-
-
-<p></p>
-<img src="https://analytics.sakuragawa.moe/piwik.php?idsite=2&amp;rec=1&amp;url=https%3A%2F%2Fasaba.sakuragawa.moe%2F2021%2F10%2F%25e5%259c%25a8%25e8%2588%258a%25e7%2589%2588-mac-os-x-macos-%25e4%25b8%258b%25e6%259b%25b4%25e6%2596%25b0-ios-13%2F%3Fpk_campaign%3Dfeed%26pk_kwd%3D%2525e5%25259c%2525a8%2525e8%252588%25258a%2525e7%252589%252588-mac-os-x-macos-%2525e4%2525b8%25258b%2525e6%25259b%2525b4%2525e6%252596%2525b0-ios-13&amp;action_name=%E5%9C%A8%E8%88%8A%E7%89%88+Mac+OS+X+%28macOS%29+%E4%B8%8B%E6%9B%B4%E6%96%B0+iOS+13%2B&amp;urlref=https%3A%2F%2Fasaba.sakuragawa.moe%2Ffeed%2F" /><div>
-    <div>
-    <a data-post-id="2359" data-trigger-type="like" data-restriction="cookie" data-already-liked="0">
-                           <i></i>
-                    </a>
-    <span>    </span>
-</div><div>
-    <a data-post-id="2359" data-trigger-type="dislike" data-restriction="cookie" data-already-liked="0">
-                           <i></i>
-                    </a>
-    <span></span>
-</div></div>]]></content>
-        
-        <summary type="html">
-            
-                iOS 12 或者更新的版本要求系統版本至少爲 OS X 10.11.4 並 iTunes 12.8.0.150；而 iOS 13 則要求使用 iTunes 12.8.2.3，同時對系統版本提出了更高的要求。    通常情況下，更新 iOS 裝置會要求更新到最新的 ma
-            
-        </summary>
-        
-        <category term="折騰"/>
-        
-        <category term="#SafeForLife"/>
-        
-        <category term="macOS"/>
-        
-        <category term="數位電子"/>
-        
-    </entry>
-    
-    <entry>
         <title>Goroutine 池</title>
         <link href="https://www.ohyee.cc/post/note_goroutine_pool"/>
         <id>https://www.ohyee.cc/post/note_goroutine_pool</id>
@@ -2923,80 +3027,6 @@ networks:
             Google Play 商店无限等待不下载解决
             
         </summary>
-        
-    </entry>
-    
-    <entry>
-        <title>修復 Discuz! 從 7.2 轉換到 X 時的資料庫錯誤</title>
-        <link href="https://asaba.sakuragawa.moe/2021/09/%e4%bf%ae%e5%be%a9-discuz-%e5%be%9e-7-2-%e8%bd%89%e6%8f%9b%e5%88%b0-x-%e6%99%82%e7%9a%84%e8%b3%87%e6%96%99%e5%ba%ab%e9%8c%af%e8%aa%a4/?pk_campaign=feed&amp;pk_kwd=%25e4%25bf%25ae%25e5%25be%25a9-discuz-%25e5%25be%259e-7-2-%25e8%25bd%2589%25e6%258f%259b%25e5%2588%25b0-x-%25e6%2599%2582%25e7%259a%2584%25e8%25b3%2587%25e6%2596%2599%25e5%25ba%25ab%25e9%258c%25af%25e8%25aa%25a4"/>
-        <id>https://asaba.sakuragawa.moe/2021/09/%e4%bf%ae%e5%be%a9-discuz-%e5%be%9e-7-2-%e8%bd%89%e6%8f%9b%e5%88%b0-x-%e6%99%82%e7%9a%84%e8%b3%87%e6%96%99%e5%ba%ab%e9%8c%af%e8%aa%a4/?pk_campaign=feed&amp;pk_kwd=%25e4%25bf%25ae%25e5%25be%25a9-discuz-%25e5%25be%259e-7-2-%25e8%25bd%2589%25e6%258f%259b%25e5%2588%25b0-x-%25e6%2599%2582%25e7%259a%2584%25e8%25b3%2587%25e6%2596%2599%25e5%25ba%25ab%25e9%258c%25af%25e8%25aa%25a4</id>
-        
-        <author>
-            <name>櫻川 浅羽</name>
-        </author>
-        
-        <published>2021-09-16T12:22:44+00:00</published>
-        <updated>2021-09-16T12:22:44+00:00</updated>
-        
-        <content type="html"><![CDATA[<h2><a href="https://markdown.apps.central.sakuragawa.cloud/#%E8%BD%89%E6%8F%9B%E5%B7%A5%E5%85%B7%E6%8F%90%E7%A4%BA%E9%87%8D%E8%A4%87%E4%B8%BB%E9%8D%B5"></a>轉換工具提示重複主鍵</h2>
-
-
-
-<p>使用轉換工具進行轉換時，會遇到莫名的主鍵重複錯誤，提示 <code>#1062 - Duplicate entry '...' for key PRIMARY</code>。一番找尋，相關的結果都說「刪掉了就好了」，問題是刪了一個又出一個，最後逼得淺羽直接用 SQL 批量刪了五六千條，下一個還是有問題。</p>
-
-
-
-<p>然而原來的資料庫也是 MariaDB，也指定了 PRIMARY KEY，怎麼會重複呢？</p>
-
-
-
-<blockquote><p>囧,这个是转换程序的一个Bug,<br />我开始的想法和你一样,删除重复的记录,<br />结果没用,其它记录又会出错,<br />后来才知道是因为转换程序里的SQL语句没有order by,<br />所以…</p>CzBiX 2011-04-24<br /><a href="https://lengxx.com/post/157.html" target="_blank">Discuz7.2升级至DX1.5数据表转换时出错的解决方法</a></blockquote>
-
-
-
-<p>知道了原理，修復起來就比較簡單了：</p>
-
-
-
-<pre><code>--- Discuz_X1.5_SC_UTF8/utility/convert/source/d7.2_x1.5/table/posts.php    2011-12-20 16:58:50.000000000 +0800
-+++ bbs/convert/source/d7.2_x1.5/table/posts.php                            (new)
-@@ -20,7 +20,7 @@
-        $db_target-&gt;query("TRUNCATE $table_target");
- }
-
--$query = $db_source-&gt;query("SELECT * FROM $table_source WHERE pid&gt;'$start' LIMIT $limit");
-+$query = $db_source-&gt;query("SELECT * FROM $table_source WHERE pid&gt;'$start' ORDER BY pid ASC LIMIT $limit");
- while($row = $db_source-&gt;fetch_array($query)) {
-        $nextid = $row['pid'];
-        $row = daddslashes($row, 1);</code></pre>
-
-
-
-<p>保存，再執行轉換程序，這次就很順利了。</p>
-<img src="https://analytics.sakuragawa.moe/piwik.php?idsite=2&amp;rec=1&amp;url=https%3A%2F%2Fasaba.sakuragawa.moe%2F2021%2F09%2F%25e4%25bf%25ae%25e5%25be%25a9-discuz-%25e5%25be%259e-7-2-%25e8%25bd%2589%25e6%258f%259b%25e5%2588%25b0-x-%25e6%2599%2582%25e7%259a%2584%25e8%25b3%2587%25e6%2596%2599%25e5%25ba%25ab%25e9%258c%25af%25e8%25aa%25a4%2F%3Fpk_campaign%3Dfeed%26pk_kwd%3D%2525e4%2525bf%2525ae%2525e5%2525be%2525a9-discuz-%2525e5%2525be%25259e-7-2-%2525e8%2525bd%252589%2525e6%25258f%25259b%2525e5%252588%2525b0-x-%2525e6%252599%252582%2525e7%25259a%252584%2525e8%2525b3%252587%2525e6%252596%252599%2525e5%2525ba%2525ab%2525e9%25258c%2525af%2525e8%2525aa%2525a4&amp;action_name=%E4%BF%AE%E5%BE%A9+Discuz%21+%E5%BE%9E+7.2+%E8%BD%89%E6%8F%9B%E5%88%B0+X+%E6%99%82%E7%9A%84%E8%B3%87%E6%96%99%E5%BA%AB%E9%8C%AF%E8%AA%A4&amp;urlref=https%3A%2F%2Fasaba.sakuragawa.moe%2Ffeed%2F" /><div>
-    <div>
-    <a data-post-id="2343" data-trigger-type="like" data-restriction="cookie" data-already-liked="0">
-                           <i></i>
-                    </a>
-    <span>    </span>
-</div><div>
-    <a data-post-id="2343" data-trigger-type="dislike" data-restriction="cookie" data-already-liked="0">
-                           <i></i>
-                    </a>
-    <span></span>
-</div></div>]]></content>
-        
-        <summary type="html">
-            
-            轉換工具提示重複主鍵    使用轉換工具進行轉換時，會遇到莫名的主鍵重複錯誤，提示 #1062 - Duplicate entry &#39;...&#39; for key PRIMARY。一番找尋，相關的結果都說「刪掉了就好了」，問題是刪了一個又出一個，最後逼得淺羽直接用 SQL 批量刪了
-            
-        </summary>
-        
-        <category term="折騰"/>
-        
-        <category term="#SafeForLife"/>
-        
-        <category term="國產"/>
         
     </entry>
     
@@ -4192,30 +4222,6 @@ networks:
     </entry>
     
     <entry>
-        <title>写在中国宪法日</title>
-        <link href="https://blog.gaojianli.me/2020/12/04/%E5%86%99%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%AE%AA%E6%B3%95%E6%97%A5/"/>
-        <id>https://blog.gaojianli.me/2020/12/04/%E5%86%99%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%AE%AA%E6%B3%95%E6%97%A5/</id>
-        
-        <author>
-            <name>高渐离</name>
-        </author>
-        
-        <published>2022-12-04T13:34:45+00:00</published>
-        <updated>2022-12-04T13:34:45+00:00</updated>
-        
-        <content type="html"><![CDATA[<blockquote>            <p>他从996的公司下班骑着ofo回到了蛋壳租的公寓看杨超越丁真——CyberPunk</p>          </blockquote><h1><a href="https://blog.gaojianli.me/2020/12/04/%E5%86%99%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%AE%AA%E6%B3%95%E6%97%A5/#引言"></a>引言</h1><p>今天是12月4日，中国宪法日。同时也是香风智乃的生日，虽然宪法离我非常遥远，我也不看点兔，但今天着实也是于我而言重要的一天。在这一天，我持续三年的初恋正式宣告终结。现在找点空位在这里倒垃圾，顺便键政一下。<br />就结果而言，人的感情其实相当脆弱，三年的感情也可能在短短几小时内毁于一旦。常言道：“知人知面不知心”，人的价值观远远不是短短三年就能看清的。既然已经结束，我也不想发表什么言论，骂她啊啥的不过是幼稚的行为，根本上她也只是受害者，今天是想来谈谈事情的前因后果以及对时事的一些思考。</p><a></a><h1><a href="https://blog.gaojianli.me/2020/12/04/%E5%86%99%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%AE%AA%E6%B3%95%E6%97%A5/#起因"></a>起因</h1><p>我前女友对于肖战是完全的不感冒，我个人老二次元了，自然也不会关心这方面的事情。我曾经一度认为饭圈文化离我们很远，直到丁真的出现。自从丁真火了之后，她便被其疯狂圈粉，手机壁纸也从小栗旬换成了丁真，每日高强度在论坛和anti对线，一口一个“🍋🐔”。丁真，一个远在理塘的人，我自然犯不着去吃他的醋，但是由此而言产生的争论才是真正破裂的原因。</p><p>昨日，华春莹连发三条推特为其站台，在每天中午的键政时间中，我自然为这种行为表示了担忧。没想到就因为这个原因，我也被贴上了“酸，嫉妒”的标签，一瞬间她仿佛不再是那个熟悉的她，而是化身微博女拳师。由此产生了一些争论，最后造成了感情的破裂，个中细节，家长里短，在此略过不谈。</p><h1><a href="https://blog.gaojianli.me/2020/12/04/%E5%86%99%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%AE%AA%E6%B3%95%E6%97%A5/#思考"></a>思考</h1><p>主要是想谈谈对于“丁真现象”的思考。大部分人对于丁真的恶意来源应该都是认为其“德不配位”吧，一个文盲却能爆红于网络，由此产生了“酸”、“嫉妒”的感情，大有早年间“仇富”的影子。但是其实矛头不应该对准丁真，他不过就是一个淳朴的放牛娃罢了，文盲的问题更不应该苛责他，而是去质问当地主管教育部门的官员。真正应该思考的是，为什么？为什么他一个文盲就都能火起来，靠脸吗？</p><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAAEsCAMAAABOo35HAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9UExURVlZWdPT07KysmRkZIWFhfT09JmZmWZmZm9vb39/fxkZGUxMTDMzM3p6epCQkKamppubm729venp6cjIyN7e3tbW1s/Pz8LCwnx8fLS0tFZWVoiIiI+Pj6GhoeTk5Glpabu7u93d3evr66CgoJSUlKqqqsnJyeDg4Hd3d8PDw+Xl5bi4uNHR0dvb26Ojo6urq+fn51hYWDg4OCgoKHBwcK2traenp0FBQe7u7vHx8U5OTre3t8zMzHV1df///7GrnpQAAAA/dFJOU///////////////////////////////////////////////////////////////////////////////////AI4mfBcAAAUGSURBVHja7NoJb6M4GMZxY0NCD64kve/pMZ2d3Z297+X7f6zFNmBAMUXa6URl/q9UJSWPUPzrizFWRUlNLgEBWGCBBRZYYEEAFlhggQUWWBCABRZYYIEFFgRggQUWWGCBBQFYYIEFFlhgQQAWWGCBBRZYEIAFFlhggQUWBGCBBRZYYIEFAVhggQUWWGBBABZYYIEFFlgQgAUWWGCBBRYEYIEFFlhggQUBWGCBBRZYYEEAFlhggQUWWBCABRZYYIEFFgRggQUWWGCBBQFYYIEFFlhgQQAWWGCBBRZYEIAFFlhggQUWBGCBBRZYn6cCIcRXgvX/h9qcIVBqDdbEM8RCxGCB9QqXYRwHYDHBgwXWl8eKZKiESHI3Ba1kWs3fKixcaJUl1YyeBm7Ocq+yLItUiVBGnXxenSHJolIKEcwHq6ikbOX1YGVzQCTN8LPmSLreghUl9sN4Uw7yajMrLC0TZ1ImzqY6FEop0+pIaEN5HaoOxVuwEqFyc4I46uSlzOLqgxlh6UaR9l3VYWl9Fdoxb1Q90KJtu41pwwFW/WHhTtW8i7TafLCqRsk6bsGw63L9qurXRmuIlbT9lDQnlXU+nBFW1Q2qnZbDprWa2tjR90LZFqx1/+Td/HpGWLlrLDvIwTcx6dQ1Vrntbig68cDms3JwbA5Y1azs1ger6sNV/bbIw1jU81MvNAGrl58RVn8ozW+btF08iGFoAlYvP3csfVur1gJBEIA1uBmue5dhZDOyO2epbmgCVi8/I6x0MMHH9pjsTfBhNzQBq5uPZoQlB0uH3DZG4EZqQ26fL3sZq5uf09Ih6qw3i/pm6BZO0qZX7rrUS68Xsbr5ZE4rePMk08pk9aUZugfqppvs6AM1Acvlo/StP+6EbW06z8hJqxbYp2BZPQUnFsLsKuhQdaHqn5ewbF7KXIn0jWO5MqOQ7RaNLPtbNMmmhimj0GUmYLl8Gs0Lq4wyPbTu1l2QKqHSouzs3OlDIslW5SQsnY/NXmFplyNvEuuLV/Tau9BzwiraDUSwXmysztYWWNtL1psXeumgIrDGaqXvBfUuvtqUYI3V2t1wk1e2msFluJJm6zDJXv/fIfjPP7DAAgsssCiwwAILLLDAosACCyywwAKLAgsssMACC6zt9fDz/v75tyOB+98PD2+ORgKffjw4OP1uJPDxl+Xy8v1I4MPF3t7VNyOB4/vF4uzdzrG+39f1kz/w66Guv/yBvw90KX/gZKkr8Qf+2dOV+gNHC12/7RxrabD2/a31bLAO/a11YbAO/K21MFhLf2s9Gqw9f2vdGqzFu11jnVusE2/gxmI9eQOnFuvYG7i0WH7uK4t15w2cWazrXWP9a7H8f/bQYvm/6IPF+sF/pVssf19Ii/WH/0K2WH/uGuvEWC39gSdj9Twy+Rqri5EZx1gt/IE7Y/XoD1wbq9vd3w1PlufnD2OBp+ebm/uxwPHF6emnscDR4vLy41jg7vHq6sNY4Pr27OyYdRaLUrDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssL6u+k+AAQCR9eHtLKvLfwAAAABJRU5ErkJggg==" /><p>不幸的是，是的，就是靠脸。这几年，娱乐界的明星门槛日益降低，从老一辈艺术家德艺双馨，到流行歌手作词作曲，他们的成功，虽然可能容易一些，但都付出了自己的努力。无论是学习乐理，声乐，还是自己作词作曲，我们都可以说成是努力带来的回报，他们所有的获得都可勉强放置在“劳有所得”这一大框架下。然而从杨超越开始，这一切都变了。无需任何努力仅凭一张脸就可以成立自己公司，作为“特殊人才”落户上海。也许是尝到甜头后更加变本加厉，这一次更加简单粗暴。把一个文盲摆在台前，狠狠地打一打你们这些“读书改变命运”的人的脸。我和我的小伙伴们小时候的理想都是军人，警察，科学家，如果我的孩子说出：“我不读书，我要当网红！”，那是多么可怕的场景！</p><p>每当我谈起这个问题的时候，她的回答都是“人家可不是什么都没干，人家可是国企员工。”这么一看，我突然觉得我的舍友非常可笑，可悲。他为了拿到一个家乡国企的岗位，每天四处奔波，在贵州和北京之间不断往返，顶着干眼症，圆锥角膜的风险努力复习。更忘不了他提到“这个岗位报名有700多，简历筛选完只有40个人进笔试”时的那一抹庆幸。是啊，读书有什么用呢？读了10多年书之后仅仅是得到了和700个人竞争同一岗位的资格，而别人仅凭一张脸就能取得。几年前我们还在嘲笑日本小学生的梦想时是成为野兽先辈那样的人，现如今我们的下一代竟然也要陷入同样的境地。</p><p>对此，我女朋友的回答是“命”，丁真命中注定富贵。我难以想象这是一个正在备考考研政治的人能说出来的话。马克思说过，“阶级决定个人命运”，丁真是什么阶级，这是他的命运吗？改变他命运的当然不成冥冥之中的天命，而是背后的资本。古人云：“时来天地皆同力，运去英雄不自由。”这首诗的当今版本是“资来天地皆同力，资去英雄不自由”，资本可以随时随地地捧红一个人，也可以随时随地踩死一个人。</p><p>如今，国家为丁真站台，天地同力，我也不敢逆天而行发表什么意见。只是，当资本越来越为所欲为，试探底线的时候，是否应该警惕呢？从“东林书院”到“湖畔大学”；从敬新磨到杨超越；从包身工到996。以史为鉴，可以知兴替，望诸君不要放弃理想。</p><p>では、諸君は。</p>]]></content>
-        
-        <summary type="html">
-            
-                        他从996的公司下班骑着ofo回到了蛋壳租的公寓看杨超越丁真——CyberPunk          引言今天是12月4日，中国宪法日。同时也是香风智乃的生日，虽然宪法离我非常遥远，我也不看点兔，但今天着实也是于我而言重要的一天。在这一天，我持续三年的初
-            
-        </summary>
-        
-        <category term="杂谈"/>
-        
-    </entry>
-    
-    <entry>
         <title>JS 的 for ... in 真的很慢</title>
         <link href="https://www.ohyee.cc/post/note_js_for_in"/>
         <id>https://www.ohyee.cc/post/note_js_for_in</id>
@@ -4542,32 +4548,6 @@ networks:
             Gitbook 已死，但是开源书籍永存
             
         </summary>
-        
-    </entry>
-    
-    <entry>
-        <title>搭建一个短网址系统</title>
-        <link href="https://blog.gaojianli.me/2020/10/23/%E6%90%AD%E5%BB%BA%E4%B8%80%E4%B8%AA%E7%9F%AD%E7%BD%91%E5%9D%80%E7%B3%BB%E7%BB%9F/"/>
-        <id>https://blog.gaojianli.me/2020/10/23/%E6%90%AD%E5%BB%BA%E4%B8%80%E4%B8%AA%E7%9F%AD%E7%BD%91%E5%9D%80%E7%B3%BB%E7%BB%9F/</id>
-        
-        <author>
-            <name>高渐离</name>
-        </author>
-        
-        <published>2022-12-04T13:34:45+00:00</published>
-        <updated>2022-12-04T13:34:45+00:00</updated>
-        
-        <content type="html"><![CDATA[<h1><a href="https://blog.gaojianli.me/2020/10/23/%E6%90%AD%E5%BB%BA%E4%B8%80%E4%B8%AA%E7%9F%AD%E7%BD%91%E5%9D%80%E7%B3%BB%E7%BB%9F/#起"></a>起</h1><p>前阵子，在Xice的推荐下，我入手了一个3位<code>.eu</code>域名<code>u2b.eu</code>。他作为一个老羊毛党了，给我推荐的域名价格自然也十分离谱，<a href="https://www.icdsoft.com/en/domains" target="_blank">10年只要20刀</a>，反过来看看我正在使用的<code>gaojianli.me</code>，一年12刀的价格完美阐释了什么叫做没有对比就没有伤害。</p><blockquote><p>值得注意的是，<code>.eu</code>的域名要求欧盟（前）成员国居民的身份才能注册，因此一开始想当然拿了美国人身份注册的我险些打水漂，所幸最后通过一张PS的燃气账单侥幸蒙混过去，可谓是十分惊险。</p></blockquote><p>虽然如此，作为冲动消费捡垃圾的典型，拿下了这个域名其实也不知道做什么。<strong>虽然不知道有什么用，但是太便宜了先买了吧。</strong>抱着这种思想我没少买奇奇怪怪的玩意儿，而这个三位的域名看起来也是这样一个“鸡肋”。说有用吧，虽然是3位域名，但是为了追求3位导致了其基本就是随机的字符串，含义不明；说没用那毕竟还是个3位的顶级域名，<del>还能谐音碰瓷Youtube</del>。</p><p>在闲置了一阵子之后，姑且想到了一个用途，你不是短吗？那就来做个短网址系统吧！</p><a></a><h1><a href="https://blog.gaojianli.me/2020/10/23/%E6%90%AD%E5%BB%BA%E4%B8%80%E4%B8%AA%E7%9F%AD%E7%BD%91%E5%9D%80%E7%B3%BB%E7%BB%9F/#承"></a>承</h1><p>在我印象中，短网址这种烂大街的东西有不少的开源实现，但是最近闲的也是闲的，与其用别人的，不如自己来造个轮子吧。</p><h2><a href="https://blog.gaojianli.me/2020/10/23/%E6%90%AD%E5%BB%BA%E4%B8%80%E4%B8%AA%E7%9F%AD%E7%BD%91%E5%9D%80%E7%B3%BB%E7%BB%9F/#规划"></a>规划</h2><p>首先来规划一下项目，难得能自己做个东西，便想用尽可能用一些新技术，因此没有选择劳模Node.js，而是打算尝鲜下微软的<code>ASP .NET Core</code>，这东西据说能完美跨平台运行在Linux上，满足我的需求不是问题。</p><p>因为要考虑到一个封装成API的可能，因此一定是前后端分离的架构。前端最初的时候是想尝试一下<a href="https://docs.microsoft.com/zh-cn/aspnet/core/mvc/views/razor?view=aspnetcore-3.1" target="_blank">Razor</a>的，C#编译成wasm的方式还挺新颖的。但是写了2行就发现这东西是巨坑，因为它是！基！于！Bootstrap的！！这是多少年前的UI库了，组件全部用CSS来描述，写得十分痛苦和不便，果然火不起来是有理由的，还是老老实实Vue.js吧。</p><p>在做这个的时候，恰逢Vue 3.X 出世，也本想尝试一下<a href="https://v3.vuejs.org/guide/composition-api-introduction.html#why-composition-api" target="_blank">Composition API</a>配合<a href="https://github.com/vitejs/vite" target="_blank">Vite</a>体验一把抛弃Webpack的感觉，<strong>然而</strong>，当我兴致冲冲搭建好了脚手架之后遇到了一个更严重问题：<strong>没有组件库</strong>。这连BootStrap都没有，更凄惨了！<del>写CSS是不可能写CSS的，这辈子也不可能手写的。</del> 最后，还是选择了劳模组合Vue2+Vuetify，也算是一大缺憾。</p><p>在架构之前还是了解了一下网上的常见方案，在现有方案中有人提出了一些建议：</p><blockquote><p>看了楼主代码.没上缓存(热点 url),没处理同一 url 连续两次转换出现不同结果的情况</p></blockquote><p>对于上面的意见，分开来探讨一下吧：</p><ul><li>对于意见2，目前很多现存的短网址都不支持这种功能（例如<code>goo.gl</code>），其理由也非常简单：不同的用户每次提交的URL都是一次不同的业务，如果合并了难以完成统计，撤销等功能。同时还给添加徒增工作量，每次添加时都会进行一次全表查询，纵有索引也会极大地浪费性能。</li><li>对于意见1，我的意见是请了解一下<a href="https://baike.baidu.com/item/%E8%BF%87%E6%97%A9%E4%BC%98%E5%8C%96/23734966?fr=aladdin" target="_blank">这个</a>。现如今，是个项目就无脑上集群、Redis，完全不顾是否真的有这个需求，私以为也是一种提前优化。对于单用户来说，由于短链接跳转使用的是HTTP 301 永久性转移(Permanently Moved)，第二次访问时会直接被浏览器所缓存；对于多用户来说，热点URL的概率同时被数百人访问的概率也非常低（每个人只需访问一次），更多的访问是离散的，增加Redis也不能增加太多性能。</li></ul><h2><a href="https://blog.gaojianli.me/2020/10/23/%E6%90%AD%E5%BB%BA%E4%B8%80%E4%B8%AA%E7%9F%AD%E7%BD%91%E5%9D%80%E7%B3%BB%E7%BB%9F/#总结"></a>总结</h2><p>因此，总结一下所选解决方案如下：</p><table><thead><tr><th>分类</th><th>解决方案</th></tr></thead><tbody><tr><td>后端</td><td>ASP .NET Core</td></tr><tr><td>数据库</td><td>MySQL</td></tr><tr><td>前端</td><td>Vue.js</td></tr><tr><td>组件库</td><td><a href="https://vuetifyjs.com/" target="_blank">Vuetify</a></td></tr><tr><td>缓存</td><td>无</td></tr></tbody></table><h1><a href="https://blog.gaojianli.me/2020/10/23/%E6%90%AD%E5%BB%BA%E4%B8%80%E4%B8%AA%E7%9F%AD%E7%BD%91%E5%9D%80%E7%B3%BB%E7%BB%9F/#转"></a>转</h1><h2><a href="https://blog.gaojianli.me/2020/10/23/%E6%90%AD%E5%BB%BA%E4%B8%80%E4%B8%AA%E7%9F%AD%E7%BD%91%E5%9D%80%E7%B3%BB%E7%BB%9F/#新时代的ASP初体验"></a>新时代的ASP初体验</h2><p>既然冒着踩坑的风险选择了<br />长久以来，提到ASP我想到的都是一众<code>.asp</code>、<code>.aspx</code>结尾的网站，广泛分布在各大机关单位学校中，伴随着的关键词还有：卡，慢，IE6，<del>大马</del>等,，但是在实际开发中微软着实给我了一个惊喜，非复吴下阿软矣。</p><p>在实际的开发体验中，ASP.NET开发体验比我预想中的好得多，得益于宇宙第一IDE的加持，代码模板非常齐全，可以直接<code>Controller</code>为单位新建代码，以<code>Controller</code>的前缀命名的路由避免了写一大坨<code>router.js</code>，通过<code>Attribute</code>的传参更是免去了一大堆类似<code>var a=request.body.a</code>这种提取参数的代码。</p><p>从设计模式上来说，数据库的访问应该与<code>Controller</code>分离，实现封装、解耦。但是得益于LINQ的强大威力，数据库的访问被压缩到了一行语句，考虑到本项目复杂度，此时再进行封装反而有过度设计的嫌疑了，因此直接LINQ写到<code>Controller</code>里算了。如下是实现短网址跳转的代码，可见不论是查询数据库还是中URL中传参都是十分简洁的：</p><table><tr><td><pre><span>1</span><br /><span>2</span><br /><span>3</span><br /><span>4</span><br /><span>5</span><br /><span>6</span><br /><span>7</span><br /><span>8</span><br /><span>9</span><br /><span>10</span><br /><span>11</span><br /><span>12</span><br /><span>13</span><br /><span>14</span><br /><span>15</span><br /></pre></td><td><pre><span>[<span>HttpGet(<span>"{shorten}"</span>)</span>]</span><br /><span><span><span>public</span> <span>void</span> <span>Forward</span>(<span><span>string</span> shorten, [FromServices] UrlContext dbContext</span>)</span></span><br /><span><span></span>{</span><br /><span>    <span>var</span> longUrl = <span>from</span> urls <span>in</span> dbContext.Urls</span><br /><span>                    <span>where</span> urls.shortUrl == shorten</span><br /><span>                    <span>select</span> urls.longUrl;</span><br /><span>    <span>if</span> (longUrl.Count() == <span>0</span>)</span><br /><span>    {</span><br /><span>        Response.Redirect(Configuration.GetSection(<span>"SiteSettings"</span>)[<span>"homePage"</span>]);</span><br /><span>    }</span><br /><span>    <span>else</span></span><br /><span>    {</span><br /><span>        Response.Redirect(longUrl.Single());</span><br /><span>    }</span><br /><span>}</span><br /></pre></td></tr></table><p>总而言之，ASP.NET Core我相当看好，尽管是微软的技术所以前景不容乐观，各位开发者还是学习Java前途更加光明。但是作为简单的项目来说其比Koa完善，同时配置比Java的Spring方便（不用写XML真是人间之鉴），Nuget还能直接高速访问不用代理，好处真是太多了。我花了2天时间通过自己摸索+VS的自动提示便基本熟悉了此框架并完成了此项目（有够简单就是了），换做是Spring上手应该很难这么快的吧。</p><h2><a href="https://blog.gaojianli.me/2020/10/23/%E6%90%AD%E5%BB%BA%E4%B8%80%E4%B8%AA%E7%9F%AD%E7%BD%91%E5%9D%80%E7%B3%BB%E7%BB%9F/#短网址Hash算法"></a>短网址Hash算法</h2><p>关于这个网上也有很多讨论了，我对比后选择了“62进制法”。其核心是将长网址存入数据库后获得一个id，将id从10进制转换为62进制字符串，再加上一些随机字符串防止碰撞，最后得到缩短后的地址。</p><p>由于我直接将id设置为MySQL里的自增字段，因此连随机字符串都不需要了，直接把id拿来用就行了，反正也不存在碰撞的可能。进制转换代码是我从网上抄的Java代码改写的，<s>众所周知C#曾经有个名字叫J++</s>：</p><table><tr><td><pre><span>1</span><br /><span>2</span><br /><span>3</span><br /><span>4</span><br /><span>5</span><br /><span>6</span><br /><span>7</span><br /><span>8</span><br /><span>9</span><br /><span>10</span><br /><span>11</span><br /><span>12</span><br /><span>13</span><br /><span>14</span><br /><span>15</span><br /><span>16</span><br /><span>17</span><br /></pre></td><td><pre><span><span>public</span> <span>static</span> <span>char</span>[] alphaBet = { <span>'q'</span>, <span>'w'</span>, <span>'e'</span>, <span>'r'</span>, <span>'t'</span>, <span>'y'</span>, <span>'u'</span>, <span>'i'</span>, <span>'o'</span>, <span>'p'</span>, <span>'a'</span>, <span>'s'</span>, <span>'d'</span>, <span>'f'</span>, <span>'g'</span>, <span>'h'</span>, <span>'j'</span>, <span>'k'</span>, <span>'l'</span>, <span>'z'</span>, <span>'x'</span>, <span>'c'</span>, <span>'v'</span>, <span>'b'</span>, <span>'n'</span>, <span>'m'</span>, <span>'0'</span>, <span>'1'</span>, <span>'2'</span>, <span>'3'</span>, <span>'4'</span>, <span>'5'</span>, <span>'6'</span>, <span>'7'</span>, <span>'8'</span>, <span>'9'</span>, <span>'Q'</span>, <span>'W'</span>, <span>'E'</span>, <span>'R'</span>, <span>'T'</span>, <span>'Y'</span>, <span>'U'</span>, <span>'I'</span>, <span>'O'</span>, <span>'P'</span>, <span>'A'</span>, <span>'S'</span>, <span>'D'</span>, <span>'F'</span>, <span>'G'</span>, <span>'H'</span>, <span>'J'</span>, <span>'K'</span>, <span>'L'</span>, <span>'Z'</span>, <span>'X'</span>, <span>'C'</span>, <span>'V'</span>, <span>'B'</span>, <span>'N'</span>, <span>'M'</span> };</span><br /><span><span><span>public</span> <span>static</span> <span>string</span> <span>getShorted</span>(<span><span>long</span> id</span>)</span></span><br /><span><span></span>{</span><br /><span>    <span>var</span> rest = id;</span><br /><span>    Stack&lt;<span>char</span>&gt; stack = <span>new</span> Stack&lt;<span>char</span>&gt;();</span><br /><span>    StringBuilder result = <span>new</span> StringBuilder(<span>0</span>);</span><br /><span>    <span>while</span> (rest != <span>0</span>)</span><br /><span>    {</span><br /><span>        stack.Push(alphaBet[rest - (rest / <span>62</span>) * <span>62</span>]);</span><br /><span>        rest = rest / <span>62</span>;</span><br /><span>    }</span><br /><span>    <span>for</span> (; stack.Count() != <span>0</span>;)</span><br /><span>    {</span><br /><span>        result.Append(stack.Pop());</span><br /><span>    }</span><br /><span>    <span>return</span> result.ToString();</span><br /><span>}</span><br /></pre></td></tr></table><h1><a href="https://blog.gaojianli.me/2020/10/23/%E6%90%AD%E5%BB%BA%E4%B8%80%E4%B8%AA%E7%9F%AD%E7%BD%91%E5%9D%80%E7%B3%BB%E7%BB%9F/#合"></a>合</h1><p>至于前端部分就是普普通通的Vue.js应用，没什么好说的。写完之后编译、部署一气呵成，成果如下，欢迎体验：</p><ul><li>前端页面： <a href="https://short.u2b.eu" target="_blank">https://short.u2b.eu</a></li><li>缩短网址格式：<code>https://u2b.eu/{short}</code> ，例如 <a href="https://u2b.eu/i" target="_blank">https://u2b.eu/i</a> 对应 <a href="https://www.zhihu.com/" target="_blank">知乎</a></li></ul><p>值得注意的是Debian 10源中的<code>Mariadb</code>是链接<code>yaSSL</code>编译的，不支持TLS1.2及以上版本，在.NET Core 3.0以上版本的runtime上会报错，其解决方法是安装<code>Mariadb</code>官方源中的版本，其使用OpenSSL编译可以正常支持TLS1.2。</p><p>Update 2020.12.13:<br />懒癌终于治好了之后终于弄好了docker部署，接下来直接运行下面命令就可以部署啦：</p><table><tr><td><pre><span>1</span><br /><span>2</span><br /><span>3</span><br /><span>4</span><br /><span>5</span><br /><span>6</span><br /><span>7</span><br /><span>8</span><br /></pre></td><td><pre><span>docker run -d -e ConnectionStrings__SqlConnection=<span>"server=&lt;ip to the db&gt;;port=&lt;db port&gt;;database=shortUrl;uid=shorturl;pwd=&lt;pwd&gt;;CharSet=utf8"</span> \</span><br /><span>-e SiteSettings__origin=<span>"https://short.u2b.eu"</span> \</span><br /><span>-e SiteSettings__homePage=<span>"https://short.u2b.eu"</span> \</span><br /><span>-e SiteSettings__prefix=<span>"https://u2b.eu"</span> \</span><br /><span>-p 5000:5000 \</span><br /><span>--name url_shorter \</span><br /><span>--restart=always \</span><br /><span>url_shorter</span><br /></pre></td></tr></table><p>では、諸君は。</p><h1><a href="https://blog.gaojianli.me/2020/10/23/%E6%90%AD%E5%BB%BA%E4%B8%80%E4%B8%AA%E7%9F%AD%E7%BD%91%E5%9D%80%E7%B3%BB%E7%BB%9F/#附录"></a>附录</h1><h2><a href="https://blog.gaojianli.me/2020/10/23/%E6%90%AD%E5%BB%BA%E4%B8%80%E4%B8%AA%E7%9F%AD%E7%BD%91%E5%9D%80%E7%B3%BB%E7%BB%9F/#项目源代码"></a>项目源代码</h2><ul><li>后端：<a href="https://github.com/Gaojianli/UrlShorter" target="_blank">https://github.com/Gaojianli/UrlShorter</a></li><li>前端：<a href="https://github.com/Gaojianli/UrlShorter-web" target="_blank">https://github.com/Gaojianli/UrlShorter-web</a></li></ul><h2><a href="https://blog.gaojianli.me/2020/10/23/%E6%90%AD%E5%BB%BA%E4%B8%80%E4%B8%AA%E7%9F%AD%E7%BD%91%E5%9D%80%E7%B3%BB%E7%BB%9F/#Codespaces"></a>Codespaces</h2><p>由于偷懒，本文没有使用常规的VSCode写作，而是直接使用了Github的在线VSCode：<a href="https://github.com/features/codespaces/" target="_blank">Codespaces</a>，虽然很早我就排到了Codespaces的使用权，但是实际使用这是第一次，这里就顺便谈谈感想。</p><p>先说优点吧，其本质上是一个Ubuntu 18.04的容器，分配了1c4g的资源，里面运行了<code>vscode remote server</code>，然后浏览器远程连接之。好处是可以不用克隆代码和折腾Git，随到随写，哪怕是iPad也可以随时随地编程。</p><p><strong>但是</strong>，理想很美好，现实很骨感，实际体验那叫一个差。后悔，总之就是非常后悔，除了随时随地的掉线（2秒掉一次）外（Update 2020.12.13:别让它失焦，否则必定掉线），延迟也难以忍受。输入可能有优化和提前渲染，输入的时候完全体会不到延迟，但是一旦要编辑那就是噩梦。<strong>每次退格键</strong>都要触发一次服务器通讯，大概延迟在2s左右，在这等待期间如果你移动了光标，不好意思，你的删除内容会马上跳转到现光标所在位置上，导致意外删除。换言之，你的所有操作并不是按顺序进入队列中，而是按照js的微任务执行顺序来操作。好家伙，同步的文本编辑任务在它这里变成异步了，因此每当网络波动你就不得不停下来，等待操作执行完毕，以免发生意外操作。</p><p>关于这个功能，我觉得要么是大陆网络的问题，要么就只是个体验版，白嫖要什么自行车。猜想Github实际设计应该是让企业self hosted，然后再在内网中使用吧，就结果而言，完全不具备安装成PWA应用使用的可能性。</p>]]></content>
-        
-        <summary type="html">
-            
-            起前阵子，在Xice的推荐下，我入手了一个3位.eu域名u2b.eu。他作为一个老羊毛党了，给我推荐的域名价格自然也十分离谱，10年只要20刀，反过来看看我正在使用的gaojianli.me，一年12刀的价格完美阐释了什么叫做没有对比就没有伤害。值得注意的是，.eu的域名要求欧
-            
-        </summary>
-        
-        <category term="短网址"/>
-        
-        <category term="域名"/>
         
     </entry>
     
@@ -5386,30 +5366,6 @@ networks:
     </entry>
     
     <entry>
-        <title>艰难的博客找回过程</title>
-        <link href="https://blog.gaojianli.me/2020/06/22/%E8%89%B0%E9%9A%BE%E7%9A%84%E5%8D%9A%E5%AE%A2%E6%89%BE%E5%9B%9E%E8%BF%87%E7%A8%8B/"/>
-        <id>https://blog.gaojianli.me/2020/06/22/%E8%89%B0%E9%9A%BE%E7%9A%84%E5%8D%9A%E5%AE%A2%E6%89%BE%E5%9B%9E%E8%BF%87%E7%A8%8B/</id>
-        
-        <author>
-            <name>高渐离</name>
-        </author>
-        
-        <published>2022-12-04T13:34:45+00:00</published>
-        <updated>2022-12-04T13:34:45+00:00</updated>
-        
-        <content type="html"><![CDATA[<h1><a href="https://blog.gaojianli.me/2020/06/22/%E8%89%B0%E9%9A%BE%E7%9A%84%E5%8D%9A%E5%AE%A2%E6%89%BE%E5%9B%9E%E8%BF%87%E7%A8%8B/#起因"></a>起因</h1><p>一直以来，我的博客都是通过hexo本地生成，生成文件上传Github，服务器pull的方式进行部署的。这么久都没遇到什么太大的问题，博客的相关源代码也都放在了我的文档里。然在2019年10月的时候，我的Surface Book出现了屏幕和底座接触不良的情况，USB和键盘经常失去响应。考虑到保修即将在12月份失效，因此选择了送修。</p><a></a><p>在备份数据的时候，我精心备份了所有的游戏，照片和代码，却唯独跳过了“我的文档”。感谢QQ等软件把自己的数据放到我的文档里面（日你大坝），给我留下了“我的文档就是个存放软件数据的目录，没什么无关紧要的东西”这种错误印象。“<strong>不会真的有人把文档放到我的文档吧？不会吧，不会吧？</strong>”我这么想着，在仔细观察了一下我的文档的目录后只备份了一些游戏的存档后就送修了。</p><p>然而，事实证明真的有人把东西放到“我的文档”，而且这个人就是我。天知道我在哪天整理文件的时候鬼迷心窍地把博客的源代码放到了“我的文档”。对于巨硬这种公司来说，送修自然意味着数据丢失。事实上我不但丢失了所有数据，连原有的划痕都被一并“修复”了，很大概率巨硬是直接给我换了一台设备，找回数据就是做梦。（另外本次送修还导致我更换了ssh私钥，错过了某加密货币的drop，直接损失</p><p>说来惭愧，在送修之后我就再也没有抽出时间写博客，因此我竟然没有第一时间发现这一事情。直到今年2月在Telegram和群友吹b的时候突然想起来，才突然发现自己的博客已经GG了。由于重新整理非常费时费力，因此直到这几天才腾出时间来整理。</p><h1><a href="https://blog.gaojianli.me/2020/06/22/%E8%89%B0%E9%9A%BE%E7%9A%84%E5%8D%9A%E5%AE%A2%E6%89%BE%E5%9B%9E%E8%BF%87%E7%A8%8B/#防范措施"></a>防范措施</h1><p>为了避免重蹈覆辙，最好的方法就是直接把源代码传到Git上，正好Github Action发布后还没用过（一直以来都在用Gitlab pipeline)，就来试试用Github Action来部署吧。 </p><p>首先生成一个Deply key</p><table><tr><td><pre><span>1</span><br /></pre></td><td><pre><span>ssh-keygen -t rsa -C "823805669hehe@gmail.com"</span><br /></pre></td></tr></table><p>对于这种需求，当然不是只有我一个人，大家都喜欢薅微软的羊毛，这里已经有一个库了<a href="https://github.com/sma11black/hexo-action" target="_blank">sma11black/hexo-action</a><br />添加到相应的编译后仓库里，在源代码文件夹里面新增<code>action.yml</code>:</p><table><tr><td><pre><span>1</span><br /><span>2</span><br /><span>3</span><br /><span>4</span><br /><span>5</span><br /><span>6</span><br /><span>7</span><br /><span>8</span><br /><span>9</span><br /><span>10</span><br /><span>11</span><br /><span>12</span><br /><span>13</span><br /><span>14</span><br /><span>15</span><br /><span>16</span><br /><span>17</span><br /><span>18</span><br /><span>19</span><br /><span>20</span><br /><span>21</span><br /><span>22</span><br /><span>23</span><br /><span>24</span><br /><span>25</span><br /><span>26</span><br /><span>27</span><br /><span>28</span><br /><span>29</span><br /><span>30</span><br /><span>31</span><br /><span>32</span><br /><span>33</span><br /><span>34</span><br /><span>35</span><br /><span>36</span><br /><span>37</span><br /><span>38</span><br /><span>39</span><br /></pre></td><td><pre><span><span>name:</span> <span>Deploy</span> <span># workflow name</span></span><br /><span></span><br /><span><span>on:</span></span><br /><span>  <span>[push]</span> <span># 触发事件</span></span><br /><span></span><br /><span><span>jobs:</span></span><br /><span>  <span>build:</span> <span># job1 id</span></span><br /><span>    <span>runs-on:</span> <span>ubuntu-latest</span> <span># 运行环境为最新版 Ubuntu</span></span><br /><span>    <span>name:</span> <span>A</span> <span>job</span> <span>to</span> <span>deploy</span> <span>blog.</span></span><br /><span>    <span>steps:</span></span><br /><span>    <span>-</span> <span>name:</span> <span>Checkout</span> <span># step1 获取源码</span></span><br /><span>      <span>uses:</span> <span>actions/checkout@v1</span> <span># 使用 actions/checkout@v1</span></span><br /><span>      <span>with:</span> <span># 条件</span></span><br /><span>        <span>submodules:</span> <span>true</span> <span># Checkout private submodules(themes or something else). 当有子模块时切换分支？</span></span><br /><span></span><br /><span>    <span># Caching dependencies to speed up workflows. (GitHub will remove any cache entries that have not been accessed in over 7 days.) 缓存压缩 node_modules，不用每次下载，使用时解压，可以加快工作流的执行过程，超过 7 天没有使用将删除压缩包。</span></span><br /><span>    <span>-</span> <span>name:</span> <span>Cache</span> <span>node</span> <span>modules</span> <span># step2</span></span><br /><span>      <span>uses:</span> <span>actions/cache@v1</span></span><br /><span>      <span>id:</span> <span>cache</span></span><br /><span>      <span>with:</span></span><br /><span>        <span>path:</span> <span>node_modules</span></span><br /><span>        <span>key:</span> <span>${{</span> <span>runner.os</span> <span>}}-node-${{</span> <span>hashFiles('**/package-lock.json')</span> <span>}}</span></span><br /><span>        <span>restore-keys:</span> <span>|</span></span><br /><span>          <span>${{</span> <span>runner.os</span> <span>}}-node-</span></span><br /><span>    <span>-</span> <span>name:</span> <span>Install</span> <span>Dependencies</span> <span># step3 name</span></span><br /><span>      <span>if:</span> <span>steps.cache.outputs.cache-hit</span> <span>!=</span> <span>'true'</span> <span># 如果变量 cache-hit 不等于 true</span></span><br /><span>      <span>run:</span> <span>npm</span> <span>install</span> <span># 安装 node modules 相关依赖</span></span><br /><span></span><br /><span>    <span># Deploy hexo blog website.</span></span><br /><span>    <span>-</span> <span>name:</span> <span>Deploy</span> <span># step4</span></span><br /><span>      <span>id:</span> <span>deploy</span></span><br /><span>      <span>uses:</span> <span>sma11black/hexo-action@v1.0.1</span></span><br /><span>      <span>with:</span></span><br /><span>        <span>deploy_key:</span> <span>${{</span> <span>secrets.DEPLOY_KEY</span> <span>}}</span></span><br /><span>        <span>user_name:</span> <span>Gaojianli</span></span><br /><span>        <span>user_email:</span> <span>823805669hehe@gmail.com</span></span><br /><span>    <span>-</span> <span>name:</span> <span>Get</span> <span>the</span> <span>output</span></span><br /><span>      <span>run:</span> <span>|</span></span><br /><span>        <span>echo</span> <span>"$<span>{{ steps.deploy.outputs.notify }}</span>"</span></span><br /></pre></td></tr></table><p>接下来push上去看看效果吧：</p><table><tr><td><pre><span>1</span><br /></pre></td><td><pre><span>fatal: could not read Username for 'https://github.com': No such device or address</span><br /></pre></td></tr></table><p>???这是什么问题？检查再三,我也确认我的确填写了这一字段，最终我找到了这个<a href="https://github.com/sma11black/hexo-action/issues/5" target="_blank">issue</a>，其大意大概就是得用SSH的方式登录，行吧。修改<code>_config.yml</code>如下：</p><table><tr><td><pre><span>1</span><br /><span>2</span><br /><span>3</span><br /><span>4</span><br /></pre></td><td><pre><span><span>deploy:</span></span><br /><span>  <span>type:</span> <span>'git'</span></span><br /><span>  <span>repo:</span> <span>git@github.com:Gaojianli/gaojianli.github.io.git</span></span><br /><span>  <span>branch:</span> <span>master</span></span><br /></pre></td></tr></table><p>再次push上去看看：<br /><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAAEsCAMAAABOo35HAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9UExURVlZWdPT07KysmRkZIWFhfT09JmZmWZmZm9vb39/fxkZGUxMTDMzM3p6epCQkKamppubm729venp6cjIyN7e3tbW1s/Pz8LCwnx8fLS0tFZWVoiIiI+Pj6GhoeTk5Glpabu7u93d3evr66CgoJSUlKqqqsnJyeDg4Hd3d8PDw+Xl5bi4uNHR0dvb26Ojo6urq+fn51hYWDg4OCgoKHBwcK2traenp0FBQe7u7vHx8U5OTre3t8zMzHV1df///7GrnpQAAAA/dFJOU///////////////////////////////////////////////////////////////////////////////////AI4mfBcAAAUGSURBVHja7NoJb6M4GMZxY0NCD64kve/pMZ2d3Z297+X7f6zFNmBAMUXa6URl/q9UJSWPUPzrizFWRUlNLgEBWGCBBRZYYEEAFlhggQUWWBCABRZYYIEFFgRggQUWWGCBBQFYYIEFFlhgQQAWWGCBBRZYEIAFFlhggQUWBGCBBRZYYIEFAVhggQUWWGBBABZYYIEFFlgQgAUWWGCBBRYEYIEFFlhggQUBWGCBBRZYYEEAFlhggQUWWBCABRZYYIEFFgRggQUWWGCBBQFYYIEFFlhgQQAWWGCBBRZYEIAFFlhggQUWBGCBBRZYn6cCIcRXgvX/h9qcIVBqDdbEM8RCxGCB9QqXYRwHYDHBgwXWl8eKZKiESHI3Ba1kWs3fKixcaJUl1YyeBm7Ocq+yLItUiVBGnXxenSHJolIKEcwHq6ikbOX1YGVzQCTN8LPmSLreghUl9sN4Uw7yajMrLC0TZ1ImzqY6FEop0+pIaEN5HaoOxVuwEqFyc4I46uSlzOLqgxlh6UaR9l3VYWl9Fdoxb1Q90KJtu41pwwFW/WHhTtW8i7TafLCqRsk6bsGw63L9qurXRmuIlbT9lDQnlXU+nBFW1Q2qnZbDprWa2tjR90LZFqx1/+Td/HpGWLlrLDvIwTcx6dQ1Vrntbig68cDms3JwbA5Y1azs1ger6sNV/bbIw1jU81MvNAGrl58RVn8ozW+btF08iGFoAlYvP3csfVur1gJBEIA1uBmue5dhZDOyO2epbmgCVi8/I6x0MMHH9pjsTfBhNzQBq5uPZoQlB0uH3DZG4EZqQ26fL3sZq5uf09Ih6qw3i/pm6BZO0qZX7rrUS68Xsbr5ZE4rePMk08pk9aUZugfqppvs6AM1Acvlo/StP+6EbW06z8hJqxbYp2BZPQUnFsLsKuhQdaHqn5ewbF7KXIn0jWO5MqOQ7RaNLPtbNMmmhimj0GUmYLl8Gs0Lq4wyPbTu1l2QKqHSouzs3OlDIslW5SQsnY/NXmFplyNvEuuLV/Tau9BzwiraDUSwXmysztYWWNtL1psXeumgIrDGaqXvBfUuvtqUYI3V2t1wk1e2msFluJJm6zDJXv/fIfjPP7DAAgsssCiwwAILLLDAosACCyywwAKLAgsssMACC6zt9fDz/v75tyOB+98PD2+ORgKffjw4OP1uJPDxl+Xy8v1I4MPF3t7VNyOB4/vF4uzdzrG+39f1kz/w66Guv/yBvw90KX/gZKkr8Qf+2dOV+gNHC12/7RxrabD2/a31bLAO/a11YbAO/K21MFhLf2s9Gqw9f2vdGqzFu11jnVusE2/gxmI9eQOnFuvYG7i0WH7uK4t15w2cWazrXWP9a7H8f/bQYvm/6IPF+sF/pVssf19Ii/WH/0K2WH/uGuvEWC39gSdj9Twy+Rqri5EZx1gt/IE7Y/XoD1wbq9vd3w1PlufnD2OBp+ebm/uxwPHF6emnscDR4vLy41jg7vHq6sNY4Pr27OyYdRaLUrDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssL6u+k+AAQCR9eHtLKvLfwAAAABJRU5ErkJggg==" /><br />成功！</p><h1><a href="https://blog.gaojianli.me/2020/06/22/%E8%89%B0%E9%9A%BE%E7%9A%84%E5%8D%9A%E5%AE%A2%E6%89%BE%E5%9B%9E%E8%BF%87%E7%A8%8B/#结语"></a>结语</h1><p>我在<a href="https://blog.gaojianli.me/2019/05/11/Libuv%E5%88%9D%E6%8E%A2/">Libuv初探</a>一文曾经写道：</p><blockquote><p>在生活中，有很多事情不是不能做，只是需要一个契机。有了这个契机，我就能有足够的动力去完成之。</p></blockquote><p>这次的博客丢失，也算是一次契机吧！第一次使用了Github Actions，同时也避免了数据的再次丢失，总的来说还是可喜可贺。接下来的就等一个Codespaces正式上线吧，以后连本地都不需要留存博客代码了，真正把hexo用成wordpress（笑）<br />では、諸君は。</p>]]></content>
-        
-        <summary type="html">
-            
-            起因一直以来，我的博客都是通过hexo本地生成，生成文件上传Github，服务器pull的方式进行部署的。这么久都没遇到什么太大的问题，博客的相关源代码也都放在了我的文档里。然在2019年10月的时候，我的Surface Book出现了屏幕和底座接触不良的情况，USB和键盘经常
-            
-        </summary>
-        
-        <category term="博客"/>
-        
-    </entry>
-    
-    <entry>
         <title>网络安全实验总结以及一些想法</title>
         <link href="https://www.ohyee.cc/post/writting_cyber_security_teaching_assistant"/>
         <id>https://www.ohyee.cc/post/writting_cyber_security_teaching_assistant</id>
@@ -5920,6 +5876,94 @@ networks:
         <summary type="html">
             
             在 Github Readme 中显示 codecov.io 的代码覆盖率
+            
+        </summary>
+        
+    </entry>
+    
+    <entry>
+        <title>在 MongoDB 查询 JSON 数据遇到的 bug</title>
+        <link href="https://www.ohyee.cc/post/note_mongodb_json_data"/>
+        <id>https://www.ohyee.cc/post/note_mongodb_json_data</id>
+        
+        <author>
+            <name>oyohyee@oyohyee.com</name>
+        </author>
+        
+        <published>2020-03-16T08:37:22+00:00</published>
+        <updated>2020-03-16T08:37:22+00:00</updated>
+        
+        <content type="html"><![CDATA[新版本的博客使用的是 MongoDB 数据库，本意是为了支持更自由的类型（实际上其实没啥意义），但是却又在 JSON 上遇到到了奇怪的 bug]]></content>
+        
+        <summary type="html">
+            
+            新版本的博客使用的是 MongoDB 数据库，本意是为了支持更自由的类型（实际上其实没啥意义），但是却又在 JSON 上遇到到了奇怪的 bug
+            
+        </summary>
+        
+    </entry>
+    
+    <entry>
+        <title>Tor子系统——时间模块</title>
+        <link href="https://www.ohyee.cc/post/note_tor_subsystem_time"/>
+        <id>https://www.ohyee.cc/post/note_tor_subsystem_time</id>
+        
+        <author>
+            <name>oyohyee@oyohyee.com</name>
+        </author>
+        
+        <published>2020-03-12T15:09:24+00:00</published>
+        <updated>2020-03-12T15:09:24+00:00</updated>
+        
+        <content type="html"><![CDATA[针对 Tor 的 time 子系统的源码分析]]></content>
+        
+        <summary type="html">
+            
+            针对 Tor 的 time 子系统的源码分析
+            
+        </summary>
+        
+    </entry>
+    
+    <entry>
+        <title>”墙上时钟“和”递增时间“</title>
+        <link href="https://www.ohyee.cc/post/note_wallclock_monotime"/>
+        <id>https://www.ohyee.cc/post/note_wallclock_monotime</id>
+        
+        <author>
+            <name>oyohyee@oyohyee.com</name>
+        </author>
+        
+        <published>2020-03-12T13:15:35+00:00</published>
+        <updated>2020-03-12T13:15:35+00:00</updated>
+        
+        <content type="html"><![CDATA[系统时钟中除去常见的“墙上时钟”外，还有用于描述时间差的“递增时间”]]></content>
+        
+        <summary type="html">
+            
+            系统时钟中除去常见的“墙上时钟”外，还有用于描述时间差的“递增时间”
+            
+        </summary>
+        
+    </entry>
+    
+    <entry>
+        <title>DES 算法实现</title>
+        <link href="https://www.ohyee.cc/post/note_des_encrypto"/>
+        <id>https://www.ohyee.cc/post/note_des_encrypto</id>
+        
+        <author>
+            <name>oyohyee@oyohyee.com</name>
+        </author>
+        
+        <published>2020-03-10T16:02:18+00:00</published>
+        <updated>2020-03-10T16:02:18+00:00</updated>
+        
+        <content type="html"><![CDATA[使用 Go 语言实现 DES加密（当然，重点是实现的思路，具体实现换成别的语言也很容易）]]></content>
+        
+        <summary type="html">
+            
+            使用 Go 语言实现 DES加密（当然，重点是实现的思路，具体实现换成别的语言也很容易）
             
         </summary>
         
