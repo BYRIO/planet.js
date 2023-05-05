@@ -139,8 +139,9 @@
 <p>除了閱讀，海信 A5 Pro 主推 Hi-Fi 音樂功能。作爲 E-Ink 下比較合適的娛樂方式，海信在硬體方面使用了一片 AKM AK4377AECB 作爲 DAC，同時還給了很多連線的可能性：NFC 和支援 LDAC 的藍牙功能，保留 3.5mm 耳機接口，同時 USB Type-C 也可以接駁數位音訊裝置，搭配大部分耳機都不是問題。不過<strong>聲音質素則只能稱一般般</strong>，內建的 Hi-Fi 模式開啓後也只是覺得音量更大了（或許是推力更大了？）。</p>
 
 
-<div>
-<img src="https://asaba.sakuragawa.moe/wp-content/uploads/2023/03/SKG-20230319-161317-4096x1512.jpg" /></div>
+
+<img src="https://asaba.sakuragawa.moe/wp-content/uploads/2023/03/SKG-20230319-161317-4096x1512.jpg" />
+
 
 
 <p>內建的音樂應用程式也頗爲實用，播放浅羽音樂庫中的 AAC 和 FLAC 檔案都沒有問題，可以根據標籤分類選歌、顯示歌詞，不過<strong>尚缺少 ReplayGain 功能</strong>。得益於手機不怎麼樣的效能，播放音樂時續航表現也令浅羽安心。打開音樂程式、隱藏導航列、插上耳機，這就是一支簡單好用的隨身聽。</p>
@@ -630,8 +631,9 @@ fredliang/derper:latest
 <p>浅羽這次就要求做 ThinkPad 的 logo cutout，這樣還可以保留 A 面的狀態指示燈號。另一邊的 Lenovo logo 則是完全遮住，不過這代的 Lenovo logo 有一個下陷，浅羽乾脆就在中間貼了點<s>奇怪的東西</s>「自由之光」。</p>
 
 
-<div>
-<img src="https://asaba.sakuragawa.moe/wp-content/uploads/2022/11/SKG-20221113-035532-4096x2560.jpg" />貼上一點「自由之光」</div>
+
+<img src="https://asaba.sakuragawa.moe/wp-content/uploads/2022/11/SKG-20221113-035532-4096x2560.jpg" />貼上一點「自由之光」
+
 
 
 <h2><a href="https://markdown.sakuragawa.moe/Y6y3FSkgSpOFiGnPg_MFZg#%E8%87%AA%E8%A1%8C%E6%94%B9%E8%A3%9D"></a>自行改裝</h2>
@@ -1170,8 +1172,9 @@ opkg install uugamebooster luci-app-uugamebooster luci-i18n-uugamebooster-zh-cn<
 <p>在 DHCP 伺服器上，爲遊戲主機下發特定的設定檔，將閘道器和 DNS 設定為容器的 IP。同時，在手機上的「UU 主機加速」應用程式中綁定路由器插件前，需要將手機閘道器和 DNS 也設定爲容器的 IP；綁定完畢後，可以改回原來的設定。設定完成後，打開「UU 主機加速」應用程式即可看到裝置出現，正常操作加速即可。</p>
 
 
-<div>
-<img src="https://asaba.sakuragawa.moe/wp-content/uploads/2022/08/cgi-bin_luci_admin_services_uuplugin.png" />第三方的 LuCI 管理介面</div>
+
+<img src="https://asaba.sakuragawa.moe/wp-content/uploads/2022/08/cgi-bin_luci_admin_services_uuplugin.png" />第三方的 LuCI 管理介面
+
 
 
 <h2><a href="https://markdown.sakuragawa.moe/-EOu9OJBRcSlLdaR-pYFQA?view#%E9%96%B1%E8%AE%80%E6%9B%B4%E5%A4%9A"></a>閱讀更多</h2>
@@ -1315,8 +1318,9 @@ opkg install uugamebooster luci-app-uugamebooster luci-i18n-uugamebooster-zh-cn<
 <p>背面的一片霧面處理的玻璃算是外觀上的一大賣點，但是非常<strong>不耐刮擦</strong>，<strong>容易劃傷</strong>。浅羽剛拿到幾日就在擦拭灰塵時就不慎刮出幾道淺印，好在後來貼了保護貼後就看不出來了。而且有了好的先天條件卻沒有無線充電，<strong>有線充電也只給到 33W 的功率</strong>，應該是受限制於定位了。好在 NFC 和紅外都完整保留，這也算是小米（紅米）手機的保留項目了。</p>
 
 
-<div>
-<img src="https://asaba.sakuragawa.moe/wp-content/uploads/2022/07/IMG_20220723_154121-scaled.jpg" />框內爲擦拭灰塵時不慎刮出的淺印</div>
+
+<img src="https://asaba.sakuragawa.moe/wp-content/uploads/2022/07/IMG_20220723_154121-scaled.jpg" />框內爲擦拭灰塵時不慎刮出的淺印
+
 
 
 <p>最後在相機的方面。廣角加上超廣角的組合僅僅是保證能影到相，兩顆鏡頭都沒有 OIS，所以低光下基本也不用想什麼。另外，主鏡頭是 64MP（日常使用開啓 4-in-1 拍攝 12MP 相片），浅羽用得更多超廣角的畫素卻只給到 8MP。倒是附贈一顆 5MP 微距镜头頗爲有趣，用來拍攝細緻的貓咪皮膚紋理還是很好用的。浅羽其實對這部份不太在意，因爲影相還是用相機或者 instax 比較多，手機嘛可以記錄到就好了。</p>
@@ -1326,8 +1330,9 @@ opkg install uugamebooster luci-app-uugamebooster luci-i18n-uugamebooster-zh-cn<
 <p>至於最終換掉它的理由也很樸素：強迫症浅羽不太喜歡螢幕上打孔……然後機緣巧合就換了屏下鏡頭的手機。閒置之後，浅羽開始思考給 K40 Pro 換個系統當作玩樂機，結果發現選擇寥寥無幾（截止 2022 年 2 月──是的，這篇網誌拖了半年）；對比之下，去掉 Pro 的 K40 選擇則多了不少。這也從一個側面反應了不同機種的熱度差別。最終在新舊手機的過渡期結束時候，還是決定「手機不需要可以給有需要的人」，最終以首發價 45% off 轉讓了它。</p>
 
 
-<div>
-<img src="https://asaba.sakuragawa.moe/wp-content/uploads/2022/07/IMG_20220723_154353-4096x2304.jpg" />最後看一眼（沒有本體的）全家福</div>
+
+<img src="https://asaba.sakuragawa.moe/wp-content/uploads/2022/07/IMG_20220723_154353-4096x2304.jpg" />最後看一眼（沒有本體的）全家福
+
 
 
 <p>如果是 K40 代表的是極致的 C/P 值，對比之下 K40 Pro 就顯得有些尷尬了。背負了 Pro 之名的它既要做得更好、卻處處受限於品牌定位不能做到最好。這種「帶着鐐銬跳舞」的做法，不但考驗着廠牌如何做取捨，更考驗用家如何說服自己去接受一些不完美。也許想真正接受這樣的不完美，只有把付出的代價和期望都降低——比如，如果 K40 Pro 沒有那麼 Pro。</p>
